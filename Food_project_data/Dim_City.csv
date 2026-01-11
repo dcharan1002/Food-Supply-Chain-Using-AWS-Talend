@@ -1,0 +1,262 @@
+city_id,city_name,state_id
+1,Los Angeles,1
+2,San Francisco,1
+3,San Diego,1
+4,Sacramento,1
+5,San Jose,1
+6,Fresno,1
+7,Oakland,1
+8,Long Beach,1
+9,Bakersfield,1
+10,Anaheim,1
+11,Houston,2
+12,Dallas,2
+13,Austin,2
+14,San Antonio,2
+15,Fort Worth,2
+16,El Paso,2
+17,Arlington,2
+18,Corpus Christi,2
+19,Miami,3
+20,Orlando,3
+21,Tampa,3
+22,Jacksonville,3
+23,Fort Lauderdale,3
+24,Tallahassee,3
+25,New York City,4
+26,Buffalo,4
+27,Rochester,4
+28,Albany,4
+29,Syracuse,4
+30,Yonkers,4
+31,Philadelphia,5
+32,Pittsburgh,5
+33,Harrisburg,5
+34,Allentown,5
+35,Erie,5
+36,Chicago,6
+37,Springfield,6
+38,Naperville,6
+39,Peoria,6
+40,Rockford,6
+41,Columbus,7
+42,Cleveland,7
+43,Cincinnati,7
+44,Toledo,7
+45,Akron,7
+46,Dayton,7
+47,Atlanta,8
+48,Augusta,8
+49,Columbus,8
+50,Savannah,8
+51,Athens,8
+52,Charlotte,9
+53,Raleigh,9
+54,Greensboro,9
+55,Durham,9
+56,Winston-Salem,9
+57,Detroit,10
+58,Grand Rapids,10
+59,Lansing,10
+60,Ann Arbor,10
+61,Flint,10
+62,Newark,11
+63,Jersey City,11
+64,Trenton,11
+65,Paterson,11
+66,Elizabeth,11
+67,Virginia Beach,12
+68,Norfolk,12
+69,Richmond,12
+70,Arlington,12
+71,Alexandria,12
+72,Seattle,13
+73,Spokane,13
+74,Tacoma,13
+75,Olympia,13
+76,Bellevue,13
+77,Phoenix,14
+78,Tucson,14
+79,Mesa,14
+80,Chandler,14
+81,Scottsdale,14
+82,Boston,15
+83,Worcester,15
+84,Springfield,15
+85,Cambridge,15
+86,Lowell,15
+87,Nashville,16
+88,Memphis,16
+89,Knoxville,16
+90,Chattanooga,16
+91,Clarksville,16
+92,Indianapolis,17
+93,Fort Wayne,17
+94,Evansville,17
+95,South Bend,17
+96,Kansas City,18
+97,St. Louis,18
+98,Springfield,18
+99,Columbia,18
+100,Baltimore,19
+101,Annapolis,19
+102,Frederick,19
+103,Rockville,19
+104,Milwaukee,20
+105,Madison,20
+106,Green Bay,20
+107,Kenosha,20
+108,Denver,21
+109,Colorado Springs,21
+110,Aurora,21
+111,Fort Collins,21
+112,Minneapolis,22
+113,St. Paul,22
+114,Rochester,22
+115,Duluth,22
+116,Charleston,23
+117,Columbia,23
+118,Greenville,23
+119,Myrtle Beach,23
+120,Birmingham,24
+121,Montgomery,24
+122,Mobile,24
+123,Huntsville,24
+124,New Orleans,25
+125,Baton Rouge,25
+126,Shreveport,25
+127,Lafayette,25
+128,Louisville,26
+129,Lexington,26
+130,Bowling Green,26
+131,Frankfort,26
+132,Portland,27
+133,Eugene,27
+134,Salem,27
+135,Bend,27
+136,Oklahoma City,28
+137,Tulsa,28
+138,Norman,28
+139,Hartford,29
+140,New Haven,29
+141,Bridgeport,29
+142,Des Moines,30
+143,Cedar Rapids,30
+144,Davenport,30
+145,Toronto,31
+146,Ottawa,31
+147,Mississauga,31
+148,Hamilton,31
+149,London,31
+150,Montreal,32
+151,Quebec City,32
+152,Laval,32
+153,Vancouver,33
+154,Victoria,33
+155,Surrey,33
+156,Calgary,34
+157,Edmonton,34
+158,Red Deer,34
+159,Winnipeg,35
+160,Brandon,35
+161,Regina,36
+162,Saskatoon,36
+163,Halifax,37
+164,Dartmouth,37
+165,Fredericton,38
+166,Moncton,38
+167,London,39
+168,Manchester,39
+169,Birmingham,39
+170,Liverpool,39
+171,Leeds,39
+172,Sheffield,39
+173,Bristol,39
+174,Newcastle,39
+175,Edinburgh,40
+176,Glasgow,40
+177,Aberdeen,40
+178,Cardiff,41
+179,Swansea,41
+180,Belfast,42
+181,Derry,42
+182,Sydney,43
+183,Newcastle,43
+184,Wollongong,43
+185,Melbourne,44
+186,Geelong,44
+187,Ballarat,44
+188,Brisbane,45
+189,Gold Coast,45
+190,Cairns,45
+191,Perth,46
+192,Fremantle,46
+193,Adelaide,47
+194,Mount Gambier,47
+195,Hobart,48
+196,Launceston,48
+197,Mumbai,49
+198,Pune,49
+199,Nagpur,49
+200,Bangalore,50
+201,Mysore,50
+202,Mangalore,50
+203,Chennai,51
+204,Coimbatore,51
+205,Madurai,51
+206,Ahmedabad,52
+207,Surat,52
+208,Vadodara,52
+209,Jaipur,53
+210,Jodhpur,53
+211,Udaipur,53
+212,Kolkata,54
+213,Howrah,54
+214,Lucknow,55
+215,Kanpur,55
+216,Agra,55
+217,New Delhi,56
+218,Delhi,56
+219,São Paulo,57
+220,Campinas,57
+221,Santos,57
+222,Rio de Janeiro,58
+223,Niterói,58
+224,Belo Horizonte,59
+225,Uberlândia,59
+226,Salvador,60
+227,Feira de Santana,60
+228,Curitiba,61
+229,Londrina,61
+230,Porto Alegre,62
+231,Caxias do Sul,62
+232,Munich,63
+233,Nuremberg,63
+234,Augsburg,63
+235,Cologne,64
+236,Düsseldorf,64
+237,Dortmund,64
+238,Stuttgart,65
+239,Mannheim,65
+240,Karlsruhe,65
+241,Hanover,66
+242,Brunswick,66
+243,Frankfurt,67
+244,Wiesbaden,67
+245,Dresden,68
+246,Leipzig,68
+247,Paris,69
+248,Versailles,69
+249,Boulogne-Billancourt,69
+250,Marseille,70
+251,Nice,70
+252,Toulon,70
+253,Lyon,71
+254,Grenoble,71
+255,Saint-Étienne,71
+256,Bordeaux,72
+257,Limoges,72
+258,Toulouse,73
+259,Montpellier,73
+260,Rennes,74
+261,Brest,74

@@ -1,0 +1,2001 @@
+quality_id,farm_id,product_id,check_date,location,status,remarks
+1,1427,1410,2023-12-21,1427.0,Passed,Below acceptable threshold
+2,1801,81,2020-06-18,1801.0,Failed,Some spoilage detected
+3,1919,610,2023-03-28,1919.0,Passed,Some spoilage detected
+4,1470,501,2022-03-18,1470.0,Failed,Standard grade quality
+5,1063,618,2021-06-01,1063.0,Failed,Meets organic certification standards
+6,1465,447,2020-05-11,1465.0,Pending Review,Product quality meets standards
+7,1541,350,2024-06-11,1541.0,Failed,Texture and firmness acceptable
+8,173,1634,2023-08-27,173.0,Pending Review,Standard grade quality
+9,86,53,2024-06-03,86.0,Failed,Color and appearance good
+10,1867,1763,2022-10-07,1867.0,Passed,Meets organic certification standards
+11,1892,1329,2023-05-25,1892.0,Rejected,Packaging integrity maintained
+12,62,1716,2022-07-09,62.0,Rejected,Excellent quality
+13,887,168,2024-08-26,887.0,Pending Review,Excellent quality
+14,123,1473,2023-07-12,123.0,Passed,Premium grade quality
+15,1994,1872,2023-10-17,1994.0,Failed,Below acceptable threshold
+16,1512,328,2024-12-20,1512.0,Rejected,Product quality meets standards
+17,1697,1210,2023-01-24,1697.0,Failed,Product quality meets standards
+18,1161,1065,2022-05-05,1161.0,Rejected,Freshness level acceptable
+19,1918,1757,2023-08-28,1918.0,Rejected,Requires further inspection
+20,832,653,2024-11-15,832.0,Rejected,Texture and firmness acceptable
+21,522,631,2020-10-26,522.0,Rejected,Some spoilage detected
+22,1824,1558,2023-04-21,1824.0,Conditional Pass,Standard grade quality
+23,1690,1925,2023-08-23,1690.0,Conditional Pass,Standard grade quality
+24,545,115,2024-10-30,545.0,Pending Review,Temperature control maintained
+25,648,89,2021-12-15,648.0,Passed,Color and appearance good
+26,1233,1610,2020-03-19,1233.0,Failed,Size and weight within specifications
+27,1736,732,2020-09-22,1736.0,Rejected,Premium grade quality
+28,1358,687,2023-07-06,1358.0,Passed,Premium grade quality
+29,1496,1738,2023-01-27,1496.0,Conditional Pass,Product quality meets standards
+30,1815,1477,2020-09-15,1815.0,Rejected,Packaging integrity maintained
+31,999,88,2020-02-24,999.0,Failed,Excellent quality
+32,58,1670,2023-11-17,58.0,Rejected,Packaging integrity maintained
+33,142,788,2022-07-16,142.0,Conditional Pass,Standard grade quality
+34,1753,1673,2024-05-14,1753.0,Rejected,Freshness level acceptable
+35,1082,1146,2022-10-01,1082.0,Pending Review,Standard grade quality
+36,266,1695,2020-02-05,266.0,Pending Review,Premium grade quality
+37,396,1,2021-10-20,396.0,Rejected,Size and weight within specifications
+38,547,672,2022-02-09,547.0,Rejected,Meets organic certification standards
+39,1865,1249,2022-03-17,1865.0,Conditional Pass,Standard grade quality
+40,1521,1606,2021-11-15,1521.0,Failed,Temperature control maintained
+41,540,1583,2020-08-07,540.0,Rejected,Color and appearance good
+42,1765,242,2022-07-09,1765.0,Conditional Pass,Meets organic certification standards
+43,315,870,2024-03-04,315.0,Pending Review,Size and weight within specifications
+44,1635,1177,2023-10-23,1635.0,Rejected,Standard grade quality
+45,923,411,2020-01-30,923.0,Conditional Pass,Product quality meets standards
+46,642,642,2021-03-16,642.0,Passed,Some spoilage detected
+47,583,370,2021-07-28,583.0,Failed,Minor defects detected
+48,1844,801,2021-05-06,1844.0,Pending Review,Standard grade quality
+49,371,302,2020-03-05,371.0,Passed,Some spoilage detected
+50,559,540,2021-08-18,559.0,Passed,Packaging integrity maintained
+51,81,1688,2022-07-05,81.0,Passed,Some spoilage detected
+52,1934,1908,2020-10-02,1934.0,Conditional Pass,Excellent quality
+53,1881,299,2022-02-25,1881.0,Conditional Pass,Below acceptable threshold
+54,1882,796,2022-12-13,1882.0,Passed,Freshness level acceptable
+55,826,874,2024-09-20,826.0,Failed,Meets organic certification standards
+56,1197,349,2024-12-21,1197.0,Rejected,Product quality meets standards
+57,568,327,2020-08-19,568.0,Conditional Pass,Packaging integrity maintained
+58,114,1429,2021-05-02,114.0,Conditional Pass,Size and weight within specifications
+59,1204,229,2022-10-30,1204.0,Pending Review,Requires further inspection
+60,1096,1139,2020-01-06,1096.0,Rejected,Temperature control maintained
+61,1709,998,2024-03-19,1709.0,Rejected,Temperature control maintained
+62,884,1063,2020-01-04,884.0,Rejected,Packaging integrity maintained
+63,329,357,2021-05-26,329.0,Pending Review,Premium grade quality
+64,577,1714,2024-08-10,577.0,Rejected,Product quality meets standards
+65,1594,734,2023-11-01,1594.0,Passed,Color and appearance good
+66,525,444,2020-09-01,525.0,Pending Review,Some spoilage detected
+67,629,267,2020-09-25,629.0,Failed,Requires further inspection
+68,352,1443,2020-09-25,352.0,Passed,Color and appearance good
+69,421,747,2020-11-25,421.0,Failed,Product quality meets standards
+70,1921,978,2023-11-29,1921.0,Rejected,Meets organic certification standards
+71,655,337,2021-11-09,655.0,Failed,Packaging integrity maintained
+72,816,1745,2024-11-09,816.0,Pending Review,Premium grade quality
+73,195,1763,2022-11-04,195.0,Rejected,Premium grade quality
+74,906,501,2023-12-22,906.0,Failed,Premium grade quality
+75,1215,128,2022-05-21,1215.0,Failed,Size and weight within specifications
+76,221,386,2021-04-26,221.0,Pending Review,Freshness level acceptable
+77,1065,1918,2022-05-17,1065.0,Rejected,Meets organic certification standards
+78,665,1414,2023-03-06,665.0,Failed,Product quality meets standards
+79,352,374,2024-09-29,352.0,Passed,Temperature control maintained
+80,1264,1286,2023-12-10,1264.0,Conditional Pass,Below acceptable threshold
+81,549,541,2022-06-26,549.0,Conditional Pass,Excellent quality
+82,1943,1464,2024-06-17,1943.0,Pending Review,Standard grade quality
+83,883,1760,2022-08-10,883.0,Rejected,Requires further inspection
+84,1043,86,2022-08-14,1043.0,Rejected,Color and appearance good
+85,1443,1225,2023-02-12,1443.0,Failed,Premium grade quality
+86,1929,705,2023-09-23,1929.0,Passed,Packaging integrity maintained
+87,344,976,2023-05-26,344.0,Failed,Minor defects detected
+88,1241,1453,2021-08-02,1241.0,Failed,Below acceptable threshold
+89,1317,1883,2020-04-28,1317.0,Conditional Pass,Minor defects detected
+90,1314,988,2024-06-15,1314.0,Pending Review,Standard grade quality
+91,547,958,2020-06-22,547.0,Pending Review,Minor defects detected
+92,1432,546,2023-10-10,1432.0,Failed,Freshness level acceptable
+93,989,1982,2024-11-19,989.0,Conditional Pass,Color and appearance good
+94,1996,118,2023-12-30,1996.0,Conditional Pass,Standard grade quality
+95,1613,328,2022-02-19,1613.0,Passed,Excellent quality
+96,1753,1833,2024-07-04,1753.0,Rejected,Meets organic certification standards
+97,154,1107,2024-01-27,154.0,Failed,Packaging integrity maintained
+98,1856,1517,2021-06-29,1856.0,Pending Review,Some spoilage detected
+99,288,70,2022-03-19,288.0,Rejected,Product quality meets standards
+100,941,1987,2022-10-17,941.0,Pending Review,Freshness level acceptable
+101,81,1547,2024-01-14,81.0,Rejected,Temperature control maintained
+102,1187,669,2024-07-18,1187.0,Conditional Pass,Freshness level acceptable
+103,1521,1403,2022-11-15,1521.0,Pending Review,Product quality meets standards
+104,1201,638,2021-11-25,1201.0,Failed,Requires further inspection
+105,321,245,2021-12-10,321.0,Rejected,Excellent quality
+106,1315,1212,2020-05-21,1315.0,Pending Review,Excellent quality
+107,136,1274,2024-01-18,136.0,Pending Review,Color and appearance good
+108,708,317,2022-07-12,708.0,Pending Review,Texture and firmness acceptable
+109,33,721,2021-09-13,33.0,Rejected,Meets organic certification standards
+110,1787,610,2023-10-13,1787.0,Rejected,Product quality meets standards
+111,1360,1701,2023-06-13,1360.0,Pending Review,Requires further inspection
+112,1752,114,2022-04-22,1752.0,Conditional Pass,Below acceptable threshold
+113,484,534,2024-04-25,484.0,Conditional Pass,Below acceptable threshold
+114,1387,551,2024-10-13,1387.0,Pending Review,Texture and firmness acceptable
+115,923,1183,2022-06-05,923.0,Conditional Pass,Color and appearance good
+116,230,21,2020-03-25,230.0,Rejected,Temperature control maintained
+117,294,994,2021-12-28,294.0,Passed,Minor defects detected
+118,249,253,2021-03-19,249.0,Failed,Temperature control maintained
+119,1497,1461,2022-08-31,1497.0,Rejected,Packaging integrity maintained
+120,692,447,2022-07-17,692.0,Failed,Meets organic certification standards
+121,532,1271,2024-02-15,532.0,Pending Review,Temperature control maintained
+122,1708,936,2023-09-21,1708.0,Rejected,Minor defects detected
+123,1932,650,2022-10-11,1932.0,Pending Review,Texture and firmness acceptable
+124,1995,342,2021-08-24,1995.0,Failed,Size and weight within specifications
+125,837,235,2021-06-05,837.0,Conditional Pass,Below acceptable threshold
+126,1842,450,2023-03-15,1842.0,Conditional Pass,Texture and firmness acceptable
+127,976,1780,2024-11-10,976.0,Conditional Pass,Minor defects detected
+128,124,505,2021-09-12,124.0,Rejected,Below acceptable threshold
+129,1403,543,2024-12-19,1403.0,Conditional Pass,Some spoilage detected
+130,469,982,2024-08-31,469.0,Pending Review,Packaging integrity maintained
+131,280,1254,2021-02-23,280.0,Conditional Pass,Color and appearance good
+132,1647,1174,2024-06-21,1647.0,Failed,Color and appearance good
+133,1863,341,2020-10-01,1863.0,Conditional Pass,Product quality meets standards
+134,1564,950,2021-04-12,1564.0,Passed,Premium grade quality
+135,702,88,2022-06-04,702.0,Failed,Freshness level acceptable
+136,672,1869,2021-02-03,672.0,Failed,Requires further inspection
+137,1383,1166,2023-06-03,1383.0,Rejected,Product quality meets standards
+138,511,777,2024-03-07,511.0,Conditional Pass,Some spoilage detected
+139,919,845,2020-06-06,919.0,Failed,Temperature control maintained
+140,1380,61,2022-02-27,1380.0,Pending Review,Meets organic certification standards
+141,711,911,2022-02-20,711.0,Pending Review,Temperature control maintained
+142,666,1078,2021-07-26,666.0,Passed,Temperature control maintained
+143,545,1338,2023-02-22,545.0,Pending Review,Below acceptable threshold
+144,543,479,2024-03-16,543.0,Passed,Premium grade quality
+145,590,391,2022-04-24,590.0,Rejected,Some spoilage detected
+146,1796,83,2020-10-29,1796.0,Conditional Pass,Size and weight within specifications
+147,862,396,2021-10-15,862.0,Pending Review,Freshness level acceptable
+148,891,368,2024-04-21,891.0,Rejected,Excellent quality
+149,1272,934,2022-03-07,1272.0,Pending Review,Excellent quality
+150,1038,206,2024-12-29,1038.0,Rejected,Temperature control maintained
+151,888,215,2021-01-06,888.0,Conditional Pass,Meets organic certification standards
+152,901,630,2020-05-16,901.0,Passed,Excellent quality
+153,1284,1576,2021-01-09,1284.0,Pending Review,Texture and firmness acceptable
+154,1097,262,2022-04-15,1097.0,Conditional Pass,Standard grade quality
+155,998,441,2020-07-21,998.0,Failed,Requires further inspection
+156,657,621,2022-01-20,657.0,Passed,Packaging integrity maintained
+157,229,112,2022-09-21,229.0,Passed,Minor defects detected
+158,790,383,2022-08-09,790.0,Conditional Pass,Requires further inspection
+159,1852,284,2024-10-24,1852.0,Pending Review,Minor defects detected
+160,298,135,2024-03-14,298.0,Pending Review,Texture and firmness acceptable
+161,1166,435,2023-09-20,1166.0,Rejected,Color and appearance good
+162,468,1428,2021-04-08,468.0,Failed,Below acceptable threshold
+163,773,1896,2022-11-27,773.0,Conditional Pass,Below acceptable threshold
+164,796,503,2022-02-09,796.0,Conditional Pass,Standard grade quality
+165,1030,135,2024-02-12,1030.0,Rejected,Size and weight within specifications
+166,333,1881,2021-03-21,333.0,Pending Review,Texture and firmness acceptable
+167,1659,99,2023-07-30,1659.0,Failed,Standard grade quality
+168,278,1182,2020-03-24,278.0,Rejected,Size and weight within specifications
+169,617,683,2020-11-28,617.0,Rejected,Color and appearance good
+170,789,1045,2022-09-07,789.0,Rejected,Some spoilage detected
+171,91,1591,2023-12-18,91.0,Rejected,Size and weight within specifications
+172,1658,1991,2021-06-07,1658.0,Passed,Size and weight within specifications
+173,1990,825,2023-06-17,1990.0,Conditional Pass,Color and appearance good
+174,757,491,2021-03-31,757.0,Passed,Meets organic certification standards
+175,444,790,2021-03-27,444.0,Pending Review,Packaging integrity maintained
+176,415,1515,2023-08-01,415.0,Rejected,Some spoilage detected
+177,652,894,2024-01-16,652.0,Failed,Color and appearance good
+178,561,1455,2022-03-15,561.0,Pending Review,Premium grade quality
+179,1597,1754,2021-04-04,1597.0,Pending Review,Texture and firmness acceptable
+180,1866,924,2024-03-23,1866.0,Passed,Texture and firmness acceptable
+181,786,1639,2024-09-19,786.0,Failed,Below acceptable threshold
+182,755,647,2020-09-30,755.0,Rejected,Size and weight within specifications
+183,1157,200,2023-11-21,1157.0,Failed,Premium grade quality
+184,946,1111,2021-06-17,946.0,Conditional Pass,Texture and firmness acceptable
+185,621,1045,2022-06-13,621.0,Conditional Pass,Freshness level acceptable
+186,812,550,2024-06-22,812.0,Passed,Color and appearance good
+187,898,1967,2022-08-30,898.0,Pending Review,Color and appearance good
+188,1529,1130,2020-05-13,1529.0,Passed,Premium grade quality
+189,1855,1415,2024-07-16,1855.0,Conditional Pass,Some spoilage detected
+190,655,1392,2020-01-28,655.0,Failed,Minor defects detected
+191,435,1574,2024-03-15,435.0,Rejected,Excellent quality
+192,710,870,2021-05-18,710.0,Rejected,Freshness level acceptable
+193,800,1778,2023-12-31,800.0,Passed,Size and weight within specifications
+194,579,1626,2023-05-03,579.0,Failed,Size and weight within specifications
+195,1031,1424,2020-08-30,1031.0,Passed,Some spoilage detected
+196,1064,1807,2022-11-06,1064.0,Failed,Temperature control maintained
+197,757,834,2022-11-22,757.0,Failed,Minor defects detected
+198,428,762,2022-01-10,428.0,Pending Review,Some spoilage detected
+199,1296,404,2023-05-08,1296.0,Failed,Freshness level acceptable
+200,115,439,2023-09-30,115.0,Rejected,Standard grade quality
+201,379,1855,2020-12-11,379.0,Pending Review,Meets organic certification standards
+202,1537,1084,2021-02-08,1537.0,Failed,Texture and firmness acceptable
+203,448,316,2021-10-01,448.0,Failed,Color and appearance good
+204,1603,412,2021-09-04,1603.0,Conditional Pass,Standard grade quality
+205,488,318,2023-10-11,488.0,Pending Review,Requires further inspection
+206,1210,1305,2021-03-12,1210.0,Failed,Color and appearance good
+207,1134,798,2020-09-22,1134.0,Failed,Excellent quality
+208,360,1042,2021-09-12,360.0,Pending Review,Standard grade quality
+209,406,1336,2023-10-07,406.0,Passed,Packaging integrity maintained
+210,244,926,2020-04-17,244.0,Pending Review,Excellent quality
+211,1984,1765,2024-06-25,1984.0,Rejected,Freshness level acceptable
+212,1056,1068,2020-09-07,1056.0,Passed,Meets organic certification standards
+213,806,733,2020-06-16,806.0,Passed,Texture and firmness acceptable
+214,233,214,2024-04-27,233.0,Pending Review,Packaging integrity maintained
+215,985,743,2022-03-22,985.0,Conditional Pass,Requires further inspection
+216,1605,605,2024-12-15,1605.0,Conditional Pass,Color and appearance good
+217,1474,329,2024-01-09,1474.0,Failed,Packaging integrity maintained
+218,1590,597,2024-07-01,1590.0,Pending Review,Freshness level acceptable
+219,539,1503,2021-11-09,539.0,Conditional Pass,Temperature control maintained
+220,1998,282,2022-12-12,1998.0,Conditional Pass,Temperature control maintained
+221,1110,588,2024-03-24,1110.0,Rejected,Standard grade quality
+222,641,60,2020-02-07,641.0,Conditional Pass,Size and weight within specifications
+223,1515,1430,2021-06-30,1515.0,Passed,Texture and firmness acceptable
+224,528,1658,2021-05-11,528.0,Pending Review,Temperature control maintained
+225,1097,499,2021-02-10,1097.0,Failed,Packaging integrity maintained
+226,1884,999,2022-08-15,1884.0,Rejected,Standard grade quality
+227,626,1944,2024-06-25,626.0,Conditional Pass,Minor defects detected
+228,1096,421,2023-02-08,1096.0,Conditional Pass,Some spoilage detected
+229,1627,79,2024-08-03,1627.0,Passed,Standard grade quality
+230,1432,82,2024-06-19,1432.0,Passed,Temperature control maintained
+231,1283,442,2021-06-29,1283.0,Passed,Meets organic certification standards
+232,354,1084,2021-09-23,354.0,Failed,Size and weight within specifications
+233,191,1143,2023-08-29,191.0,Pending Review,Requires further inspection
+234,1430,1898,2021-01-18,1430.0,Pending Review,Some spoilage detected
+235,948,310,2024-01-23,948.0,Conditional Pass,Product quality meets standards
+236,371,1336,2022-01-21,371.0,Conditional Pass,Requires further inspection
+237,1571,1463,2024-03-26,1571.0,Conditional Pass,Minor defects detected
+238,1212,657,2023-05-21,1212.0,Conditional Pass,Some spoilage detected
+239,1300,816,2023-12-10,1300.0,Conditional Pass,Standard grade quality
+240,1000,1277,2022-01-22,1000.0,Failed,Packaging integrity maintained
+241,1924,1253,2021-01-28,1924.0,Failed,Color and appearance good
+242,1804,265,2023-04-09,1804.0,Passed,Product quality meets standards
+243,1948,716,2021-04-27,1948.0,Rejected,Below acceptable threshold
+244,1742,481,2023-10-03,1742.0,Failed,Texture and firmness acceptable
+245,461,136,2020-02-25,461.0,Failed,Standard grade quality
+246,1099,877,2024-02-27,1099.0,Failed,Temperature control maintained
+247,1596,703,2021-08-08,1596.0,Conditional Pass,Texture and firmness acceptable
+248,1515,1823,2022-05-27,1515.0,Passed,Premium grade quality
+249,1414,5,2020-01-19,1414.0,Conditional Pass,Product quality meets standards
+250,1421,1634,2023-08-03,1421.0,Failed,Standard grade quality
+251,1444,1712,2024-12-10,1444.0,Conditional Pass,Standard grade quality
+252,498,666,2024-08-23,498.0,Passed,Minor defects detected
+253,138,1850,2024-12-14,138.0,Passed,Some spoilage detected
+254,1594,1915,2020-03-01,1594.0,Pending Review,Packaging integrity maintained
+255,392,1708,2020-03-12,392.0,Conditional Pass,Excellent quality
+256,1934,679,2022-01-01,1934.0,Conditional Pass,Product quality meets standards
+257,1080,1576,2023-11-20,1080.0,Pending Review,Premium grade quality
+258,60,1273,2020-11-26,60.0,Rejected,Below acceptable threshold
+259,1662,120,2021-08-25,1662.0,Rejected,Some spoilage detected
+260,1043,1116,2022-11-13,1043.0,Failed,Size and weight within specifications
+261,1680,82,2020-05-30,1680.0,Rejected,Below acceptable threshold
+262,80,67,2020-07-22,80.0,Failed,Freshness level acceptable
+263,857,611,2024-09-22,857.0,Passed,Below acceptable threshold
+264,1610,1,2021-03-23,1610.0,Conditional Pass,Requires further inspection
+265,417,1364,2020-11-01,417.0,Rejected,Meets organic certification standards
+266,1216,736,2022-01-07,1216.0,Conditional Pass,Temperature control maintained
+267,588,412,2020-07-12,588.0,Failed,Size and weight within specifications
+268,826,437,2024-04-25,826.0,Pending Review,Texture and firmness acceptable
+269,451,481,2021-02-16,451.0,Passed,Premium grade quality
+270,1903,439,2020-06-18,1903.0,Rejected,Size and weight within specifications
+271,1996,225,2022-07-03,1996.0,Rejected,Texture and firmness acceptable
+272,181,327,2024-04-15,181.0,Rejected,Premium grade quality
+273,758,188,2022-09-09,758.0,Pending Review,Texture and firmness acceptable
+274,1651,1338,2021-03-05,1651.0,Conditional Pass,Minor defects detected
+275,1439,1437,2021-05-31,1439.0,Pending Review,Below acceptable threshold
+276,865,1838,2023-07-17,865.0,Rejected,Below acceptable threshold
+277,916,1947,2021-06-29,916.0,Passed,Meets organic certification standards
+278,1369,1792,2022-02-15,1369.0,Rejected,Below acceptable threshold
+279,499,1263,2020-10-11,499.0,Failed,Meets organic certification standards
+280,495,1807,2023-07-18,495.0,Rejected,Minor defects detected
+281,1611,11,2021-03-18,1611.0,Rejected,Size and weight within specifications
+282,1647,712,2023-02-27,1647.0,Conditional Pass,Below acceptable threshold
+283,1792,1305,2024-02-25,1792.0,Passed,Standard grade quality
+284,256,182,2023-03-27,256.0,Failed,Premium grade quality
+285,1923,1581,2023-10-22,1923.0,Conditional Pass,Texture and firmness acceptable
+286,1304,1656,2021-08-21,1304.0,Failed,Freshness level acceptable
+287,1112,31,2023-11-26,1112.0,Conditional Pass,Freshness level acceptable
+288,271,808,2020-08-19,271.0,Failed,Temperature control maintained
+289,469,1314,2021-07-08,469.0,Failed,Premium grade quality
+290,717,1881,2024-12-18,717.0,Failed,Color and appearance good
+291,1957,133,2021-05-11,1957.0,Conditional Pass,Color and appearance good
+292,283,215,2022-05-05,283.0,Conditional Pass,Freshness level acceptable
+293,1548,509,2023-04-09,1548.0,Passed,Freshness level acceptable
+294,446,1069,2022-07-06,446.0,Conditional Pass,Premium grade quality
+295,1516,1413,2021-01-09,1516.0,Passed,Temperature control maintained
+296,829,1232,2021-08-02,829.0,Pending Review,Minor defects detected
+297,1007,917,2020-04-07,1007.0,Rejected,Below acceptable threshold
+298,128,318,2023-06-29,128.0,Failed,Meets organic certification standards
+299,246,1019,2022-11-20,246.0,Conditional Pass,Color and appearance good
+300,544,425,2022-08-18,544.0,Rejected,Texture and firmness acceptable
+301,1094,1214,2023-04-13,1094.0,Passed,Temperature control maintained
+302,519,648,2024-04-26,519.0,Failed,Below acceptable threshold
+303,1587,414,2024-11-07,1587.0,Conditional Pass,Product quality meets standards
+304,1817,1137,2022-11-19,1817.0,Failed,Requires further inspection
+305,299,97,2024-05-26,299.0,Rejected,Requires further inspection
+306,1955,1449,2020-05-02,1955.0,Pending Review,Freshness level acceptable
+307,1389,1512,2020-02-01,1389.0,Passed,Below acceptable threshold
+308,552,379,2023-04-16,552.0,Pending Review,Some spoilage detected
+309,976,528,2020-11-15,976.0,Conditional Pass,Size and weight within specifications
+310,1986,1180,2021-01-09,1986.0,Failed,Freshness level acceptable
+311,158,1304,2021-12-26,158.0,Rejected,Packaging integrity maintained
+312,317,663,2024-06-15,317.0,Failed,Size and weight within specifications
+313,958,408,2024-05-25,958.0,Conditional Pass,Minor defects detected
+314,1299,1053,2024-06-11,1299.0,Passed,Some spoilage detected
+315,1002,475,2021-04-16,1002.0,Conditional Pass,Temperature control maintained
+316,1395,888,2023-06-20,1395.0,Conditional Pass,Minor defects detected
+317,1969,631,2021-10-14,1969.0,Rejected,Product quality meets standards
+318,1879,914,2021-02-17,1879.0,Failed,Packaging integrity maintained
+319,1687,1372,2023-09-13,1687.0,Passed,Product quality meets standards
+320,214,206,2021-04-19,214.0,Pending Review,Some spoilage detected
+321,1435,546,2023-04-11,1435.0,Pending Review,Packaging integrity maintained
+322,1294,525,2024-07-03,1294.0,Passed,Meets organic certification standards
+323,1178,1226,2020-07-31,1178.0,Conditional Pass,Texture and firmness acceptable
+324,158,499,2021-07-11,158.0,Failed,Requires further inspection
+325,48,864,2020-12-06,48.0,Pending Review,Standard grade quality
+326,1449,1842,2022-09-15,1449.0,Pending Review,Size and weight within specifications
+327,367,714,2023-05-27,367.0,Passed,Freshness level acceptable
+328,1249,1416,2022-03-07,1249.0,Rejected,Meets organic certification standards
+329,1202,38,2020-08-28,1202.0,Passed,Requires further inspection
+330,921,317,2024-10-14,921.0,Rejected,Freshness level acceptable
+331,1937,782,2020-08-08,1937.0,Passed,Freshness level acceptable
+332,664,1606,2024-01-11,664.0,Passed,Size and weight within specifications
+333,1068,549,2020-10-14,1068.0,Failed,Requires further inspection
+334,899,766,2024-01-06,899.0,Failed,Texture and firmness acceptable
+335,786,777,2020-02-04,786.0,Conditional Pass,Packaging integrity maintained
+336,471,1646,2020-05-29,471.0,Pending Review,Temperature control maintained
+337,1596,1150,2024-04-12,1596.0,Rejected,Some spoilage detected
+338,262,694,2023-07-16,262.0,Passed,Below acceptable threshold
+339,231,1999,2020-10-23,231.0,Pending Review,Some spoilage detected
+340,1708,152,2020-02-08,1708.0,Pending Review,Minor defects detected
+341,1199,507,2021-03-07,1199.0,Conditional Pass,Meets organic certification standards
+342,1746,504,2020-05-10,1746.0,Failed,Some spoilage detected
+343,1049,397,2024-09-07,1049.0,Passed,Size and weight within specifications
+344,1750,252,2020-12-19,1750.0,Conditional Pass,Some spoilage detected
+345,52,927,2020-09-20,52.0,Failed,Premium grade quality
+346,1243,1750,2024-09-25,1243.0,Pending Review,Meets organic certification standards
+347,1602,1157,2020-12-07,1602.0,Rejected,Color and appearance good
+348,479,358,2021-03-16,479.0,Pending Review,Premium grade quality
+349,918,460,2021-10-08,918.0,Failed,Minor defects detected
+350,708,17,2024-08-23,708.0,Pending Review,Excellent quality
+351,304,1194,2020-05-07,304.0,Failed,Some spoilage detected
+352,1823,1249,2022-12-04,1823.0,Pending Review,Meets organic certification standards
+353,114,1670,2022-11-06,114.0,Passed,Size and weight within specifications
+354,1097,1227,2024-11-13,1097.0,Failed,Some spoilage detected
+355,1485,474,2023-11-23,1485.0,Pending Review,Standard grade quality
+356,1249,704,2022-01-24,1249.0,Failed,Excellent quality
+357,1169,993,2024-10-31,1169.0,Conditional Pass,Requires further inspection
+358,560,881,2024-08-12,560.0,Rejected,Packaging integrity maintained
+359,1887,1136,2021-09-16,1887.0,Passed,Excellent quality
+360,428,76,2020-04-16,428.0,Pending Review,Product quality meets standards
+361,265,1774,2022-01-06,265.0,Passed,Texture and firmness acceptable
+362,315,1413,2020-12-16,315.0,Failed,Packaging integrity maintained
+363,398,1095,2020-04-12,398.0,Failed,Meets organic certification standards
+364,1313,703,2022-05-04,1313.0,Failed,Minor defects detected
+365,1161,400,2023-12-25,1161.0,Conditional Pass,Some spoilage detected
+366,1145,954,2021-12-03,1145.0,Failed,Minor defects detected
+367,404,247,2023-06-24,404.0,Passed,Standard grade quality
+368,1889,473,2022-10-24,1889.0,Failed,Product quality meets standards
+369,1045,397,2020-08-11,1045.0,Failed,Meets organic certification standards
+370,880,857,2023-03-23,880.0,Pending Review,Excellent quality
+371,147,1448,2022-04-10,147.0,Pending Review,Color and appearance good
+372,1964,1140,2020-01-18,1964.0,Conditional Pass,Excellent quality
+373,1323,1896,2023-08-04,1323.0,Passed,Packaging integrity maintained
+374,392,552,2024-03-08,392.0,Rejected,Temperature control maintained
+375,1873,879,2021-08-28,1873.0,Passed,Minor defects detected
+376,520,620,2020-10-22,520.0,Rejected,Excellent quality
+377,452,1561,2022-08-27,452.0,Failed,Texture and firmness acceptable
+378,1503,786,2020-03-29,1503.0,Passed,Freshness level acceptable
+379,1875,1488,2022-07-25,1875.0,Failed,Requires further inspection
+380,381,932,2022-04-09,381.0,Pending Review,Some spoilage detected
+381,1181,1622,2020-12-01,1181.0,Failed,Some spoilage detected
+382,91,445,2021-03-06,91.0,Rejected,Meets organic certification standards
+383,1632,882,2022-05-05,1632.0,Conditional Pass,Temperature control maintained
+384,1582,1322,2022-12-17,1582.0,Failed,Standard grade quality
+385,1044,1108,2021-02-25,1044.0,Pending Review,Product quality meets standards
+386,1344,952,2021-06-27,1344.0,Failed,Excellent quality
+387,975,1968,2024-09-06,975.0,Rejected,Temperature control maintained
+388,1702,8,2023-02-21,1702.0,Pending Review,Temperature control maintained
+389,1552,1112,2021-11-01,1552.0,Rejected,Meets organic certification standards
+390,49,1830,2023-08-25,49.0,Pending Review,Packaging integrity maintained
+391,364,1237,2020-12-21,364.0,Failed,Product quality meets standards
+392,1015,1439,2021-08-05,1015.0,Conditional Pass,Some spoilage detected
+393,1394,1848,2020-05-15,1394.0,Pending Review,Some spoilage detected
+394,1649,1547,2022-10-27,1649.0,Pending Review,Texture and firmness acceptable
+395,1036,905,2020-12-11,1036.0,Failed,Freshness level acceptable
+396,1431,1049,2021-03-28,1431.0,Passed,Freshness level acceptable
+397,204,905,2023-07-20,204.0,Pending Review,Temperature control maintained
+398,1446,1401,2021-08-25,1446.0,Conditional Pass,Minor defects detected
+399,1904,1624,2023-08-14,1904.0,Conditional Pass,Below acceptable threshold
+400,455,966,2023-05-07,455.0,Rejected,Excellent quality
+401,1106,1112,2024-04-17,1106.0,Passed,Some spoilage detected
+402,1686,1003,2024-11-03,1686.0,Rejected,Color and appearance good
+403,385,32,2020-07-10,385.0,Conditional Pass,Size and weight within specifications
+404,792,1745,2022-10-17,792.0,Failed,Some spoilage detected
+405,67,7,2023-11-25,67.0,Failed,Packaging integrity maintained
+406,797,1335,2024-08-06,797.0,Rejected,Some spoilage detected
+407,305,300,2020-09-14,305.0,Pending Review,Color and appearance good
+408,1527,336,2020-05-22,1527.0,Pending Review,Requires further inspection
+409,1982,1447,2024-11-05,1982.0,Rejected,Meets organic certification standards
+410,1766,1270,2024-09-05,1766.0,Rejected,Texture and firmness acceptable
+411,953,731,2021-02-02,953.0,Rejected,Meets organic certification standards
+412,808,188,2022-02-22,808.0,Failed,Color and appearance good
+413,658,896,2023-10-23,658.0,Passed,Color and appearance good
+414,471,196,2022-04-02,471.0,Passed,Requires further inspection
+415,1571,1339,2023-01-12,1571.0,Passed,Size and weight within specifications
+416,1561,1553,2021-08-22,1561.0,Rejected,Product quality meets standards
+417,1594,137,2023-03-03,1594.0,Pending Review,Product quality meets standards
+418,1009,81,2021-08-31,1009.0,Pending Review,Standard grade quality
+419,1025,1000,2024-05-01,1025.0,Rejected,Below acceptable threshold
+420,1379,1542,2023-03-16,1379.0,Conditional Pass,Freshness level acceptable
+421,267,1381,2020-08-07,267.0,Rejected,Size and weight within specifications
+422,17,1498,2024-10-20,17.0,Rejected,Product quality meets standards
+423,585,1461,2021-01-19,585.0,Conditional Pass,Freshness level acceptable
+424,291,1183,2024-10-23,291.0,Pending Review,Color and appearance good
+425,1980,602,2024-09-15,1980.0,Failed,Temperature control maintained
+426,1576,989,2021-06-06,1576.0,Passed,Requires further inspection
+427,1422,1705,2024-08-04,1422.0,Conditional Pass,Freshness level acceptable
+428,236,1919,2021-07-01,236.0,Conditional Pass,Color and appearance good
+429,1379,1647,2022-12-29,1379.0,Pending Review,Excellent quality
+430,1943,1828,2024-03-21,1943.0,Passed,Product quality meets standards
+431,674,130,2024-11-30,674.0,Passed,Standard grade quality
+432,270,1464,2020-08-16,270.0,Rejected,Minor defects detected
+433,1520,990,2023-02-08,1520.0,Pending Review,Color and appearance good
+434,1859,521,2023-03-17,1859.0,Failed,Meets organic certification standards
+435,1280,1383,2023-10-13,1280.0,Pending Review,Standard grade quality
+436,1508,1040,2021-10-23,1508.0,Rejected,Requires further inspection
+437,1305,784,2021-06-08,1305.0,Rejected,Excellent quality
+438,1805,1541,2024-10-03,1805.0,Pending Review,Premium grade quality
+439,981,1775,2023-03-08,981.0,Passed,Premium grade quality
+440,876,1011,2023-09-10,876.0,Rejected,Packaging integrity maintained
+441,1488,499,2021-07-19,1488.0,Passed,Standard grade quality
+442,1551,1823,2021-10-30,1551.0,Pending Review,Product quality meets standards
+443,1744,1863,2023-05-01,1744.0,Conditional Pass,Color and appearance good
+444,1245,659,2023-07-05,1245.0,Rejected,Packaging integrity maintained
+445,101,1721,2023-05-16,101.0,Rejected,Temperature control maintained
+446,332,1130,2022-08-29,332.0,Pending Review,Product quality meets standards
+447,1986,15,2021-11-18,1986.0,Pending Review,Product quality meets standards
+448,947,1686,2022-05-14,947.0,Conditional Pass,Requires further inspection
+449,1836,1737,2022-09-08,1836.0,Pending Review,Meets organic certification standards
+450,1714,756,2022-04-15,1714.0,Passed,Standard grade quality
+451,621,531,2023-10-26,621.0,Failed,Some spoilage detected
+452,486,1958,2022-02-12,486.0,Passed,Premium grade quality
+453,1567,1696,2024-06-09,1567.0,Pending Review,Temperature control maintained
+454,1054,430,2024-12-13,1054.0,Passed,Packaging integrity maintained
+455,1191,34,2021-08-25,1191.0,Failed,Excellent quality
+456,1934,24,2024-11-29,1934.0,Conditional Pass,Premium grade quality
+457,666,200,2021-11-15,666.0,Pending Review,Excellent quality
+458,1666,1516,2021-10-13,1666.0,Conditional Pass,Some spoilage detected
+459,20,1186,2023-04-24,20.0,Conditional Pass,Premium grade quality
+460,1860,284,2023-10-06,1860.0,Passed,Packaging integrity maintained
+461,1436,1734,2021-04-25,1436.0,Pending Review,Premium grade quality
+462,279,436,2022-03-25,279.0,Conditional Pass,Size and weight within specifications
+463,727,1918,2022-12-03,727.0,Failed,Below acceptable threshold
+464,954,1409,2020-02-02,954.0,Passed,Below acceptable threshold
+465,959,540,2023-09-29,959.0,Conditional Pass,Some spoilage detected
+466,945,784,2022-07-01,945.0,Pending Review,Premium grade quality
+467,364,1641,2021-09-29,364.0,Pending Review,Temperature control maintained
+468,1119,280,2021-12-16,1119.0,Failed,Temperature control maintained
+469,1460,1686,2023-11-15,1460.0,Passed,Temperature control maintained
+470,551,28,2022-05-17,551.0,Pending Review,Below acceptable threshold
+471,1902,42,2021-04-09,1902.0,Passed,Packaging integrity maintained
+472,1594,1667,2021-04-07,1594.0,Passed,Temperature control maintained
+473,1826,378,2020-09-08,1826.0,Failed,Premium grade quality
+474,1968,1880,2020-04-09,1968.0,Conditional Pass,Temperature control maintained
+475,533,1652,2020-06-28,533.0,Conditional Pass,Excellent quality
+476,1655,221,2021-02-06,1655.0,Passed,Texture and firmness acceptable
+477,840,898,2024-10-12,840.0,Passed,Standard grade quality
+478,1517,1826,2023-03-21,1517.0,Pending Review,Packaging integrity maintained
+479,1677,457,2024-05-21,1677.0,Rejected,Size and weight within specifications
+480,1727,52,2024-06-23,1727.0,Failed,Packaging integrity maintained
+481,621,506,2024-03-26,621.0,Failed,Excellent quality
+482,903,1446,2024-11-22,903.0,Failed,Temperature control maintained
+483,1909,951,2024-03-16,1909.0,Conditional Pass,Requires further inspection
+484,1409,212,2022-02-20,1409.0,Rejected,Some spoilage detected
+485,28,196,2023-03-22,28.0,Passed,Product quality meets standards
+486,1599,387,2021-10-07,1599.0,Rejected,Meets organic certification standards
+487,1963,469,2023-09-29,1963.0,Passed,Color and appearance good
+488,670,1699,2024-12-21,670.0,Rejected,Product quality meets standards
+489,1512,1593,2023-08-20,1512.0,Failed,Requires further inspection
+490,126,1240,2021-09-22,126.0,Pending Review,Freshness level acceptable
+491,1767,832,2021-11-07,1767.0,Failed,Requires further inspection
+492,848,362,2022-03-11,848.0,Failed,Some spoilage detected
+493,448,1894,2023-04-02,448.0,Conditional Pass,Packaging integrity maintained
+494,1160,748,2024-05-21,1160.0,Conditional Pass,Excellent quality
+495,1323,760,2024-07-16,1323.0,Failed,Meets organic certification standards
+496,1127,1199,2024-03-21,1127.0,Passed,Temperature control maintained
+497,578,1172,2023-10-01,578.0,Failed,Freshness level acceptable
+498,701,345,2020-03-03,701.0,Passed,Meets organic certification standards
+499,1723,1833,2021-08-28,1723.0,Rejected,Minor defects detected
+500,838,1601,2023-10-09,838.0,Passed,Packaging integrity maintained
+501,53,715,2021-04-06,53.0,Passed,Color and appearance good
+502,274,1588,2021-06-25,274.0,Failed,Meets organic certification standards
+503,280,1919,2020-05-06,280.0,Pending Review,Packaging integrity maintained
+504,490,1783,2022-11-25,490.0,Passed,Meets organic certification standards
+505,1908,286,2020-02-17,1908.0,Rejected,Requires further inspection
+506,872,504,2023-11-22,872.0,Conditional Pass,Size and weight within specifications
+507,1467,1359,2021-11-14,1467.0,Conditional Pass,Temperature control maintained
+508,92,27,2021-12-12,92.0,Passed,Packaging integrity maintained
+509,1137,1514,2023-08-19,1137.0,Pending Review,Freshness level acceptable
+510,966,20,2022-12-13,966.0,Rejected,Texture and firmness acceptable
+511,1005,209,2021-11-21,1005.0,Pending Review,Excellent quality
+512,359,1276,2021-07-09,359.0,Rejected,Meets organic certification standards
+513,698,1457,2023-05-11,698.0,Failed,Temperature control maintained
+514,329,1046,2020-12-02,329.0,Failed,Texture and firmness acceptable
+515,1439,452,2023-10-25,1439.0,Conditional Pass,Texture and firmness acceptable
+516,1976,1723,2021-06-18,1976.0,Conditional Pass,Color and appearance good
+517,179,1167,2023-10-25,179.0,Passed,Excellent quality
+518,219,1024,2023-02-21,219.0,Passed,Freshness level acceptable
+519,1586,943,2023-08-25,1586.0,Pending Review,Below acceptable threshold
+520,85,731,2024-05-22,85.0,Failed,Product quality meets standards
+521,1958,1321,2022-09-02,1958.0,Pending Review,Size and weight within specifications
+522,1760,754,2024-09-19,1760.0,Pending Review,Premium grade quality
+523,832,1807,2021-04-08,832.0,Conditional Pass,Packaging integrity maintained
+524,1138,339,2022-11-08,1138.0,Failed,Size and weight within specifications
+525,916,769,2024-02-20,916.0,Pending Review,Below acceptable threshold
+526,973,1787,2021-07-23,973.0,Failed,Minor defects detected
+527,181,900,2020-12-25,181.0,Pending Review,Requires further inspection
+528,431,795,2021-02-21,431.0,Failed,Product quality meets standards
+529,1048,1742,2023-07-12,1048.0,Failed,Requires further inspection
+530,1197,986,2020-01-09,1197.0,Passed,Product quality meets standards
+531,280,748,2024-09-12,280.0,Failed,Requires further inspection
+532,1669,251,2024-07-12,1669.0,Passed,Excellent quality
+533,569,439,2022-05-13,569.0,Passed,Below acceptable threshold
+534,1496,975,2021-09-21,1496.0,Conditional Pass,Product quality meets standards
+535,706,1791,2023-04-28,706.0,Pending Review,Below acceptable threshold
+536,245,1454,2024-04-21,245.0,Passed,Excellent quality
+537,947,108,2020-01-10,947.0,Passed,Temperature control maintained
+538,1397,826,2024-03-24,1397.0,Failed,Freshness level acceptable
+539,963,1723,2024-07-28,963.0,Pending Review,Premium grade quality
+540,613,758,2020-04-28,613.0,Failed,Packaging integrity maintained
+541,863,1379,2024-12-02,863.0,Pending Review,Meets organic certification standards
+542,60,1377,2021-07-31,60.0,Conditional Pass,Standard grade quality
+543,534,1992,2024-02-13,534.0,Rejected,Below acceptable threshold
+544,950,728,2021-06-24,950.0,Failed,Minor defects detected
+545,955,600,2024-03-22,955.0,Conditional Pass,Below acceptable threshold
+546,244,1521,2020-01-02,244.0,Rejected,Temperature control maintained
+547,1809,295,2020-07-23,1809.0,Passed,Excellent quality
+548,578,1356,2024-08-27,578.0,Rejected,Below acceptable threshold
+549,1077,947,2024-04-14,1077.0,Passed,Requires further inspection
+550,316,1471,2020-01-30,316.0,Passed,Excellent quality
+551,1450,321,2020-05-03,1450.0,Rejected,Requires further inspection
+552,1433,1803,2023-01-19,1433.0,Pending Review,Texture and firmness acceptable
+553,1648,111,2021-01-24,1648.0,Conditional Pass,Premium grade quality
+554,645,470,2021-01-30,645.0,Conditional Pass,Premium grade quality
+555,720,347,2021-01-31,720.0,Conditional Pass,Minor defects detected
+556,991,1554,2023-05-22,991.0,Failed,Texture and firmness acceptable
+557,1569,1375,2024-12-25,1569.0,Pending Review,Some spoilage detected
+558,716,1195,2022-12-11,716.0,Rejected,Premium grade quality
+559,538,1817,2021-10-08,538.0,Conditional Pass,Texture and firmness acceptable
+560,1893,1732,2023-11-25,1893.0,Failed,Temperature control maintained
+561,591,174,2020-02-09,591.0,Conditional Pass,Product quality meets standards
+562,1259,139,2022-10-27,1259.0,Failed,Below acceptable threshold
+563,1424,1928,2024-05-30,1424.0,Conditional Pass,Temperature control maintained
+564,252,802,2022-01-28,252.0,Passed,Requires further inspection
+565,1975,1082,2022-10-02,1975.0,Passed,Minor defects detected
+566,1615,1037,2022-11-06,1615.0,Failed,Meets organic certification standards
+567,1007,135,2021-05-27,1007.0,Conditional Pass,Product quality meets standards
+568,1972,442,2021-05-26,1972.0,Rejected,Color and appearance good
+569,312,645,2020-04-22,312.0,Rejected,Product quality meets standards
+570,94,618,2020-04-02,94.0,Rejected,Standard grade quality
+571,1277,1664,2020-08-11,1277.0,Conditional Pass,Meets organic certification standards
+572,993,1367,2021-01-24,993.0,Pending Review,Texture and firmness acceptable
+573,1613,589,2024-07-24,1613.0,Pending Review,Size and weight within specifications
+574,1737,895,2021-11-29,1737.0,Conditional Pass,Premium grade quality
+575,116,1558,2023-05-20,116.0,Rejected,Temperature control maintained
+576,1917,824,2024-09-21,1917.0,Pending Review,Freshness level acceptable
+577,1163,994,2020-08-04,1163.0,Pending Review,Some spoilage detected
+578,339,1853,2021-12-07,339.0,Passed,Texture and firmness acceptable
+579,473,1835,2021-01-28,473.0,Conditional Pass,Excellent quality
+580,1348,1636,2022-02-01,1348.0,Failed,Texture and firmness acceptable
+581,142,274,2024-01-03,142.0,Conditional Pass,Texture and firmness acceptable
+582,1013,209,2021-10-27,1013.0,Conditional Pass,Some spoilage detected
+583,1362,1142,2023-05-21,1362.0,Failed,Freshness level acceptable
+584,1564,1145,2020-06-28,1564.0,Conditional Pass,Color and appearance good
+585,1809,1311,2023-12-04,1809.0,Failed,Packaging integrity maintained
+586,989,759,2024-09-12,989.0,Failed,Standard grade quality
+587,61,1200,2023-02-24,61.0,Passed,Freshness level acceptable
+588,929,1685,2023-05-03,929.0,Rejected,Below acceptable threshold
+589,897,1625,2024-03-17,897.0,Failed,Requires further inspection
+590,47,756,2022-02-03,47.0,Conditional Pass,Freshness level acceptable
+591,827,1848,2020-04-06,827.0,Passed,Product quality meets standards
+592,552,1918,2023-07-13,552.0,Conditional Pass,Standard grade quality
+593,1640,611,2022-04-30,1640.0,Conditional Pass,Product quality meets standards
+594,880,692,2022-06-27,880.0,Conditional Pass,Temperature control maintained
+595,922,449,2024-04-26,922.0,Failed,Meets organic certification standards
+596,370,1348,2024-03-25,370.0,Failed,Texture and firmness acceptable
+597,419,1799,2023-01-27,419.0,Passed,Premium grade quality
+598,742,1281,2024-10-07,742.0,Failed,Color and appearance good
+599,1338,1073,2022-01-06,1338.0,Passed,Size and weight within specifications
+600,1353,818,2023-10-05,1353.0,Conditional Pass,Packaging integrity maintained
+601,722,770,2024-06-05,722.0,Failed,Freshness level acceptable
+602,84,1596,2023-02-03,84.0,Passed,Requires further inspection
+603,424,1516,2024-03-19,424.0,Failed,Texture and firmness acceptable
+604,761,1892,2021-10-07,761.0,Conditional Pass,Product quality meets standards
+605,1716,834,2023-08-05,1716.0,Pending Review,Minor defects detected
+606,340,1521,2024-08-26,340.0,Conditional Pass,Freshness level acceptable
+607,775,445,2024-11-14,775.0,Pending Review,Size and weight within specifications
+608,618,1439,2023-01-27,618.0,Failed,Packaging integrity maintained
+609,374,1386,2022-01-02,374.0,Passed,Packaging integrity maintained
+610,1477,844,2022-07-27,1477.0,Failed,Premium grade quality
+611,1284,828,2024-08-09,1284.0,Pending Review,Color and appearance good
+612,1114,227,2022-08-04,1114.0,Failed,Meets organic certification standards
+613,1877,328,2023-04-11,1877.0,Pending Review,Minor defects detected
+614,1489,1192,2020-08-01,1489.0,Passed,Premium grade quality
+615,7,211,2021-10-26,7.0,Passed,Premium grade quality
+616,697,161,2024-09-26,697.0,Pending Review,Size and weight within specifications
+617,1508,1947,2022-06-04,1508.0,Failed,Requires further inspection
+618,1915,1447,2022-08-18,1915.0,Passed,Freshness level acceptable
+619,1628,663,2024-06-06,1628.0,Passed,Excellent quality
+620,1319,1802,2024-08-21,1319.0,Failed,Temperature control maintained
+621,569,390,2022-11-02,569.0,Pending Review,Below acceptable threshold
+622,1245,1827,2021-06-06,1245.0,Pending Review,Packaging integrity maintained
+623,745,1195,2024-10-15,745.0,Conditional Pass,Below acceptable threshold
+624,954,1781,2020-10-15,954.0,Failed,Packaging integrity maintained
+625,651,1371,2023-12-26,651.0,Passed,Product quality meets standards
+626,1796,1927,2021-08-29,1796.0,Pending Review,Color and appearance good
+627,445,1738,2023-03-17,445.0,Conditional Pass,Size and weight within specifications
+628,1839,828,2023-04-09,1839.0,Passed,Size and weight within specifications
+629,769,1348,2024-06-27,769.0,Passed,Temperature control maintained
+630,1,572,2021-10-09,1.0,Failed,Texture and firmness acceptable
+631,1133,1953,2024-07-25,1133.0,Passed,Minor defects detected
+632,1527,703,2020-06-17,1527.0,Conditional Pass,Premium grade quality
+633,738,1051,2023-12-17,738.0,Rejected,Requires further inspection
+634,1984,139,2021-12-04,1984.0,Conditional Pass,Freshness level acceptable
+635,45,897,2022-04-08,45.0,Passed,Size and weight within specifications
+636,1813,1779,2024-05-10,1813.0,Pending Review,Standard grade quality
+637,490,827,2020-09-23,490.0,Pending Review,Below acceptable threshold
+638,514,811,2022-03-30,514.0,Pending Review,Requires further inspection
+639,1611,581,2020-01-20,1611.0,Conditional Pass,Some spoilage detected
+640,1774,1736,2023-03-29,1774.0,Pending Review,Meets organic certification standards
+641,459,1562,2020-07-15,459.0,Pending Review,Requires further inspection
+642,1012,1881,2021-09-28,1012.0,Passed,Freshness level acceptable
+643,456,1958,2024-06-25,456.0,Passed,Texture and firmness acceptable
+644,1007,551,2023-05-13,1007.0,Pending Review,Temperature control maintained
+645,1950,1068,2023-03-07,1950.0,Rejected,Standard grade quality
+646,1924,406,2023-01-07,1924.0,Passed,Some spoilage detected
+647,26,288,2021-11-20,26.0,Rejected,Standard grade quality
+648,1360,1564,2020-03-24,1360.0,Passed,Minor defects detected
+649,1145,548,2020-07-27,1145.0,Conditional Pass,Requires further inspection
+650,1276,1000,2020-07-24,1276.0,Passed,Product quality meets standards
+651,1600,1615,2023-06-13,1600.0,Passed,Meets organic certification standards
+652,1414,1423,2020-12-20,1414.0,Conditional Pass,Freshness level acceptable
+653,903,203,2024-02-21,903.0,Failed,Minor defects detected
+654,1900,1198,2022-02-14,1900.0,Pending Review,Premium grade quality
+655,318,799,2022-08-14,318.0,Passed,Requires further inspection
+656,1748,1064,2023-04-14,1748.0,Passed,Below acceptable threshold
+657,275,925,2024-12-08,275.0,Pending Review,Standard grade quality
+658,359,545,2020-05-31,359.0,Failed,Excellent quality
+659,232,1991,2021-12-17,232.0,Passed,Texture and firmness acceptable
+660,860,751,2021-09-21,860.0,Passed,Product quality meets standards
+661,903,764,2024-05-10,903.0,Pending Review,Color and appearance good
+662,288,1989,2022-08-28,288.0,Conditional Pass,Color and appearance good
+663,939,1580,2020-01-11,939.0,Conditional Pass,Premium grade quality
+664,402,1893,2023-09-02,402.0,Conditional Pass,Below acceptable threshold
+665,210,271,2021-08-18,210.0,Passed,Temperature control maintained
+666,186,1619,2022-01-24,186.0,Failed,Premium grade quality
+667,202,491,2024-08-25,202.0,Failed,Size and weight within specifications
+668,209,1268,2022-08-12,209.0,Conditional Pass,Texture and firmness acceptable
+669,1189,1836,2020-08-19,1189.0,Rejected,Size and weight within specifications
+670,1766,473,2022-05-10,1766.0,Passed,Temperature control maintained
+671,1525,1588,2024-12-02,1525.0,Passed,Packaging integrity maintained
+672,1486,1535,2022-08-20,1486.0,Rejected,Meets organic certification standards
+673,1949,1716,2023-09-09,1949.0,Passed,Size and weight within specifications
+674,1245,1027,2020-09-22,1245.0,Passed,Texture and firmness acceptable
+675,50,1939,2022-06-27,50.0,Failed,Meets organic certification standards
+676,1357,1326,2021-02-23,1357.0,Conditional Pass,Below acceptable threshold
+677,718,318,2023-11-19,718.0,Conditional Pass,Product quality meets standards
+678,1142,1632,2022-05-22,1142.0,Rejected,Temperature control maintained
+679,228,224,2023-05-22,228.0,Rejected,Standard grade quality
+680,1947,356,2023-10-26,1947.0,Rejected,Some spoilage detected
+681,598,1479,2024-07-28,598.0,Pending Review,Temperature control maintained
+682,499,685,2022-11-11,499.0,Passed,Minor defects detected
+683,1230,1299,2021-07-19,1230.0,Pending Review,Requires further inspection
+684,350,680,2024-07-13,350.0,Rejected,Excellent quality
+685,1428,154,2023-09-18,1428.0,Pending Review,Texture and firmness acceptable
+686,747,1691,2022-02-17,747.0,Failed,Size and weight within specifications
+687,827,646,2023-10-05,827.0,Failed,Below acceptable threshold
+688,1297,1078,2022-12-03,1297.0,Failed,Premium grade quality
+689,1314,1252,2020-02-18,1314.0,Conditional Pass,Premium grade quality
+690,1462,1626,2021-05-26,1462.0,Pending Review,Color and appearance good
+691,456,1827,2021-05-21,456.0,Passed,Premium grade quality
+692,1814,396,2024-12-29,1814.0,Pending Review,Some spoilage detected
+693,688,30,2024-03-09,688.0,Rejected,Meets organic certification standards
+694,1512,1653,2024-02-21,1512.0,Passed,Standard grade quality
+695,811,120,2021-08-09,811.0,Failed,Product quality meets standards
+696,691,365,2024-11-23,691.0,Passed,Meets organic certification standards
+697,980,736,2024-03-24,980.0,Pending Review,Packaging integrity maintained
+698,1214,1940,2023-12-07,1214.0,Rejected,Meets organic certification standards
+699,1492,1826,2020-01-24,1492.0,Failed,Freshness level acceptable
+700,1956,590,2024-09-08,1956.0,Pending Review,Color and appearance good
+701,1777,1229,2020-03-06,1777.0,Rejected,Product quality meets standards
+702,1471,964,2021-11-08,1471.0,Failed,Temperature control maintained
+703,647,1767,2024-05-15,647.0,Conditional Pass,Freshness level acceptable
+704,227,1880,2023-07-22,227.0,Rejected,Standard grade quality
+705,380,1824,2024-06-25,380.0,Passed,Some spoilage detected
+706,1590,278,2021-02-25,1590.0,Conditional Pass,Below acceptable threshold
+707,1969,1059,2024-06-05,1969.0,Pending Review,Size and weight within specifications
+708,178,1146,2020-04-10,178.0,Failed,Standard grade quality
+709,643,599,2023-12-06,643.0,Passed,Texture and firmness acceptable
+710,135,37,2021-02-01,135.0,Conditional Pass,Premium grade quality
+711,56,651,2024-02-13,56.0,Passed,Freshness level acceptable
+712,1841,688,2020-10-24,1841.0,Rejected,Texture and firmness acceptable
+713,567,894,2024-12-09,567.0,Failed,Some spoilage detected
+714,69,941,2023-12-18,69.0,Pending Review,Temperature control maintained
+715,1377,217,2021-05-20,1377.0,Pending Review,Minor defects detected
+716,158,1693,2023-07-01,158.0,Failed,Some spoilage detected
+717,1804,561,2024-12-30,1804.0,Passed,Premium grade quality
+718,1639,1194,2024-06-28,1639.0,Failed,Color and appearance good
+719,408,1596,2024-09-04,408.0,Conditional Pass,Freshness level acceptable
+720,517,526,2024-12-22,517.0,Passed,Packaging integrity maintained
+721,1138,964,2022-06-13,1138.0,Rejected,Requires further inspection
+722,1608,1616,2021-08-12,1608.0,Rejected,Size and weight within specifications
+723,1796,502,2024-11-05,1796.0,Conditional Pass,Meets organic certification standards
+724,811,332,2020-11-27,811.0,Pending Review,Some spoilage detected
+725,1982,1165,2023-05-11,1982.0,Pending Review,Texture and firmness acceptable
+726,1189,1360,2020-03-09,1189.0,Pending Review,Minor defects detected
+727,79,1300,2023-04-19,79.0,Conditional Pass,Packaging integrity maintained
+728,962,376,2021-02-05,962.0,Rejected,Some spoilage detected
+729,435,1484,2022-11-03,435.0,Passed,Color and appearance good
+730,660,761,2024-08-16,660.0,Rejected,Size and weight within specifications
+731,1400,970,2022-05-03,1400.0,Conditional Pass,Packaging integrity maintained
+732,1352,731,2021-03-23,1352.0,Failed,Standard grade quality
+733,1415,369,2020-03-19,1415.0,Failed,Product quality meets standards
+734,91,872,2022-07-01,91.0,Failed,Size and weight within specifications
+735,1609,683,2020-05-02,1609.0,Rejected,Packaging integrity maintained
+736,330,1186,2021-11-05,330.0,Failed,Premium grade quality
+737,739,1112,2020-06-03,739.0,Rejected,Premium grade quality
+738,327,989,2021-07-01,327.0,Passed,Product quality meets standards
+739,1494,916,2024-09-27,1494.0,Failed,Size and weight within specifications
+740,1987,1698,2022-08-23,1987.0,Failed,Product quality meets standards
+741,658,1687,2022-04-27,658.0,Rejected,Freshness level acceptable
+742,713,924,2020-03-09,713.0,Pending Review,Packaging integrity maintained
+743,1322,1327,2021-12-08,1322.0,Conditional Pass,Texture and firmness acceptable
+744,1644,1749,2024-04-22,1644.0,Passed,Below acceptable threshold
+745,704,635,2023-10-30,704.0,Pending Review,Meets organic certification standards
+746,1466,789,2023-06-06,1466.0,Failed,Color and appearance good
+747,952,228,2022-08-12,952.0,Rejected,Size and weight within specifications
+748,529,130,2024-12-18,529.0,Failed,Below acceptable threshold
+749,892,443,2021-02-19,892.0,Failed,Freshness level acceptable
+750,1235,1587,2021-12-27,1235.0,Passed,Color and appearance good
+751,1052,1585,2020-03-27,1052.0,Passed,Product quality meets standards
+752,287,446,2024-11-13,287.0,Conditional Pass,Excellent quality
+753,1195,843,2022-03-04,1195.0,Pending Review,Temperature control maintained
+754,182,1627,2024-02-17,182.0,Passed,Below acceptable threshold
+755,62,17,2021-07-17,62.0,Conditional Pass,Excellent quality
+756,237,1065,2020-10-16,237.0,Conditional Pass,Excellent quality
+757,1894,1852,2022-10-11,1894.0,Conditional Pass,Minor defects detected
+758,262,549,2021-11-01,262.0,Pending Review,Some spoilage detected
+759,1676,1550,2021-12-08,1676.0,Conditional Pass,Freshness level acceptable
+760,1445,791,2020-07-24,1445.0,Rejected,Minor defects detected
+761,1551,1611,2022-04-17,1551.0,Passed,Freshness level acceptable
+762,1793,754,2023-08-11,1793.0,Pending Review,Texture and firmness acceptable
+763,583,733,2022-12-27,583.0,Failed,Requires further inspection
+764,543,1899,2023-09-09,543.0,Failed,Premium grade quality
+765,654,73,2020-11-12,654.0,Failed,Packaging integrity maintained
+766,944,431,2021-10-25,944.0,Rejected,Size and weight within specifications
+767,852,807,2022-08-22,852.0,Passed,Below acceptable threshold
+768,1966,1552,2024-07-11,1966.0,Pending Review,Requires further inspection
+769,1359,165,2021-04-15,1359.0,Pending Review,Some spoilage detected
+770,1065,917,2022-03-05,1065.0,Passed,Texture and firmness acceptable
+771,1408,302,2023-03-22,1408.0,Pending Review,Packaging integrity maintained
+772,1709,471,2021-12-17,1709.0,Rejected,Below acceptable threshold
+773,327,1437,2020-06-06,327.0,Pending Review,Temperature control maintained
+774,472,1484,2020-01-20,472.0,Pending Review,Freshness level acceptable
+775,1787,616,2023-02-17,1787.0,Failed,Excellent quality
+776,1993,1045,2022-09-26,1993.0,Conditional Pass,Meets organic certification standards
+777,978,1011,2023-07-10,978.0,Failed,Packaging integrity maintained
+778,976,167,2023-03-09,976.0,Conditional Pass,Size and weight within specifications
+779,1419,1301,2024-02-29,1419.0,Conditional Pass,Requires further inspection
+780,547,1122,2024-01-25,547.0,Conditional Pass,Standard grade quality
+781,1177,844,2021-10-15,1177.0,Passed,Requires further inspection
+782,1840,130,2021-05-05,1840.0,Rejected,Requires further inspection
+783,263,246,2021-09-12,263.0,Passed,Some spoilage detected
+784,1946,1893,2021-05-03,1946.0,Failed,Minor defects detected
+785,468,1101,2023-10-05,468.0,Pending Review,Excellent quality
+786,1125,1780,2024-11-08,1125.0,Conditional Pass,Packaging integrity maintained
+787,1193,1166,2021-01-24,1193.0,Rejected,Premium grade quality
+788,13,1684,2020-09-13,13.0,Failed,Texture and firmness acceptable
+789,929,1115,2024-08-08,929.0,Rejected,Packaging integrity maintained
+790,1782,1208,2022-08-11,1782.0,Pending Review,Minor defects detected
+791,1940,667,2021-09-14,1940.0,Pending Review,Excellent quality
+792,1099,1926,2023-09-26,1099.0,Pending Review,Standard grade quality
+793,1813,1530,2020-03-14,1813.0,Conditional Pass,Color and appearance good
+794,1682,871,2024-02-28,1682.0,Failed,Freshness level acceptable
+795,57,1864,2024-09-03,57.0,Failed,Premium grade quality
+796,880,484,2024-01-28,880.0,Pending Review,Some spoilage detected
+797,52,63,2023-01-07,52.0,Pending Review,Temperature control maintained
+798,1740,105,2021-08-22,1740.0,Conditional Pass,Premium grade quality
+799,1991,1870,2020-03-19,1991.0,Failed,Temperature control maintained
+800,1635,766,2024-05-09,1635.0,Pending Review,Temperature control maintained
+801,1579,485,2021-09-14,1579.0,Rejected,Premium grade quality
+802,1332,1671,2024-02-10,1332.0,Passed,Some spoilage detected
+803,781,423,2023-11-05,781.0,Failed,Some spoilage detected
+804,1896,1986,2024-05-03,1896.0,Conditional Pass,Color and appearance good
+805,495,807,2024-06-21,495.0,Passed,Size and weight within specifications
+806,906,525,2022-02-02,906.0,Pending Review,Premium grade quality
+807,1422,1967,2021-06-14,1422.0,Pending Review,Color and appearance good
+808,341,1230,2024-08-10,341.0,Failed,Temperature control maintained
+809,1585,141,2024-11-06,1585.0,Pending Review,Minor defects detected
+810,1539,1437,2024-03-08,1539.0,Failed,Freshness level acceptable
+811,593,1432,2022-11-06,593.0,Failed,Color and appearance good
+812,1343,745,2023-01-07,1343.0,Rejected,Color and appearance good
+813,1722,101,2020-02-03,1722.0,Pending Review,Texture and firmness acceptable
+814,988,1285,2023-04-09,988.0,Pending Review,Below acceptable threshold
+815,168,969,2024-12-25,168.0,Passed,Texture and firmness acceptable
+816,108,581,2020-12-06,108.0,Rejected,Below acceptable threshold
+817,1793,1758,2020-04-14,1793.0,Rejected,Some spoilage detected
+818,1089,1285,2020-09-21,1089.0,Passed,Size and weight within specifications
+819,1096,1137,2022-02-22,1096.0,Failed,Freshness level acceptable
+820,994,1025,2020-12-11,994.0,Failed,Texture and firmness acceptable
+821,819,1145,2021-05-25,819.0,Pending Review,Color and appearance good
+822,702,902,2023-04-29,702.0,Passed,Product quality meets standards
+823,1092,1500,2021-02-25,1092.0,Rejected,Size and weight within specifications
+824,265,1792,2022-03-01,265.0,Conditional Pass,Premium grade quality
+825,1505,1760,2024-01-16,1505.0,Passed,Freshness level acceptable
+826,515,1512,2022-08-11,515.0,Conditional Pass,Requires further inspection
+827,1017,895,2020-12-02,1017.0,Conditional Pass,Temperature control maintained
+828,1992,1684,2020-09-07,1992.0,Rejected,Temperature control maintained
+829,767,1210,2021-12-14,767.0,Conditional Pass,Meets organic certification standards
+830,1289,344,2022-03-05,1289.0,Conditional Pass,Requires further inspection
+831,579,1248,2020-06-22,579.0,Pending Review,Packaging integrity maintained
+832,1453,1909,2023-09-17,1453.0,Passed,Minor defects detected
+833,559,246,2022-06-10,559.0,Conditional Pass,Meets organic certification standards
+834,411,592,2020-07-03,411.0,Rejected,Standard grade quality
+835,976,1281,2020-10-02,976.0,Conditional Pass,Minor defects detected
+836,271,808,2023-01-05,271.0,Conditional Pass,Packaging integrity maintained
+837,907,470,2020-05-04,907.0,Conditional Pass,Product quality meets standards
+838,417,1547,2020-11-30,417.0,Conditional Pass,Freshness level acceptable
+839,617,365,2024-07-08,617.0,Conditional Pass,Packaging integrity maintained
+840,1448,44,2023-11-27,1448.0,Conditional Pass,Some spoilage detected
+841,1693,1294,2021-01-15,1693.0,Pending Review,Some spoilage detected
+842,1521,1457,2024-02-29,1521.0,Passed,Temperature control maintained
+843,734,263,2023-05-30,734.0,Passed,Color and appearance good
+844,110,1089,2020-09-03,110.0,Passed,Freshness level acceptable
+845,1058,1806,2023-03-09,1058.0,Conditional Pass,Excellent quality
+846,1381,915,2020-11-29,1381.0,Failed,Size and weight within specifications
+847,964,1495,2021-09-04,964.0,Pending Review,Packaging integrity maintained
+848,1534,1069,2020-02-02,1534.0,Conditional Pass,Standard grade quality
+849,23,674,2023-10-29,23.0,Conditional Pass,Freshness level acceptable
+850,629,771,2020-08-25,629.0,Failed,Standard grade quality
+851,1589,97,2021-05-29,1589.0,Passed,Minor defects detected
+852,1792,1992,2023-03-29,1792.0,Failed,Premium grade quality
+853,1467,1093,2023-01-06,1467.0,Failed,Size and weight within specifications
+854,788,799,2024-06-12,788.0,Conditional Pass,Requires further inspection
+855,1447,492,2024-11-24,1447.0,Passed,Freshness level acceptable
+856,1253,742,2020-01-04,1253.0,Passed,Size and weight within specifications
+857,650,1272,2020-05-26,650.0,Pending Review,Excellent quality
+858,674,1396,2024-08-13,674.0,Conditional Pass,Packaging integrity maintained
+859,1672,654,2022-03-09,1672.0,Pending Review,Meets organic certification standards
+860,1316,736,2022-04-11,1316.0,Rejected,Meets organic certification standards
+861,1414,49,2020-01-14,1414.0,Failed,Requires further inspection
+862,369,59,2024-03-12,369.0,Failed,Product quality meets standards
+863,868,431,2023-04-23,868.0,Passed,Minor defects detected
+864,521,1609,2024-09-24,521.0,Passed,Excellent quality
+865,1309,1141,2020-05-21,1309.0,Passed,Meets organic certification standards
+866,569,761,2024-01-12,569.0,Passed,Color and appearance good
+867,1468,1696,2020-04-28,1468.0,Rejected,Temperature control maintained
+868,1331,857,2023-06-06,1331.0,Passed,Excellent quality
+869,1452,501,2023-02-24,1452.0,Rejected,Standard grade quality
+870,154,1177,2022-05-22,154.0,Passed,Temperature control maintained
+871,1075,296,2024-01-26,1075.0,Passed,Texture and firmness acceptable
+872,1852,1311,2022-11-06,1852.0,Rejected,Temperature control maintained
+873,481,296,2023-04-16,481.0,Pending Review,Standard grade quality
+874,1565,738,2024-03-26,1565.0,Pending Review,Texture and firmness acceptable
+875,1321,1122,2022-04-13,1321.0,Conditional Pass,Excellent quality
+876,1933,1819,2020-10-15,1933.0,Pending Review,Premium grade quality
+877,126,908,2020-08-19,126.0,Pending Review,Minor defects detected
+878,1876,207,2022-06-19,1876.0,Passed,Below acceptable threshold
+879,371,568,2020-10-11,371.0,Conditional Pass,Packaging integrity maintained
+880,1581,420,2022-01-14,1581.0,Rejected,Color and appearance good
+881,794,903,2020-10-12,794.0,Pending Review,Texture and firmness acceptable
+882,1611,1142,2024-05-10,1611.0,Rejected,Some spoilage detected
+883,948,771,2023-02-13,948.0,Passed,Requires further inspection
+884,700,1075,2020-04-25,700.0,Rejected,Requires further inspection
+885,1249,1429,2023-12-04,1249.0,Rejected,Standard grade quality
+886,19,136,2020-07-25,19.0,Failed,Standard grade quality
+887,955,493,2021-03-09,955.0,Pending Review,Excellent quality
+888,662,28,2024-07-09,662.0,Rejected,Some spoilage detected
+889,39,1170,2021-09-23,39.0,Passed,Texture and firmness acceptable
+890,1985,1080,2024-08-28,1985.0,Failed,Some spoilage detected
+891,1640,1832,2022-11-22,1640.0,Pending Review,Excellent quality
+892,351,1457,2022-06-04,351.0,Pending Review,Standard grade quality
+893,1765,257,2020-07-19,1765.0,Failed,Color and appearance good
+894,1595,436,2023-03-05,1595.0,Conditional Pass,Below acceptable threshold
+895,1760,1445,2020-04-07,1760.0,Conditional Pass,Size and weight within specifications
+896,35,502,2022-06-10,35.0,Passed,Product quality meets standards
+897,188,260,2021-11-06,188.0,Pending Review,Meets organic certification standards
+898,1628,645,2020-01-23,1628.0,Failed,Freshness level acceptable
+899,700,1148,2021-10-16,700.0,Failed,Requires further inspection
+900,1114,1334,2022-10-07,1114.0,Conditional Pass,Minor defects detected
+901,66,18,2024-10-22,66.0,Rejected,Size and weight within specifications
+902,1429,75,2021-04-24,1429.0,Rejected,Some spoilage detected
+903,195,1023,2024-03-12,195.0,Rejected,Premium grade quality
+904,1004,1594,2022-05-20,1004.0,Passed,Texture and firmness acceptable
+905,676,993,2021-07-12,676.0,Conditional Pass,Standard grade quality
+906,1131,1232,2022-12-28,1131.0,Passed,Premium grade quality
+907,1834,1050,2020-11-14,1834.0,Rejected,Requires further inspection
+908,1811,49,2024-02-04,1811.0,Failed,Standard grade quality
+909,310,1891,2024-11-21,310.0,Rejected,Freshness level acceptable
+910,1514,1961,2020-12-16,1514.0,Failed,Color and appearance good
+911,854,1885,2020-09-19,854.0,Conditional Pass,Meets organic certification standards
+912,1930,142,2024-10-03,1930.0,Rejected,Requires further inspection
+913,1204,1107,2021-10-30,1204.0,Passed,Premium grade quality
+914,1020,1486,2024-04-04,1020.0,Pending Review,Freshness level acceptable
+915,836,1653,2024-06-24,836.0,Passed,Product quality meets standards
+916,1979,716,2023-08-16,1979.0,Failed,Some spoilage detected
+917,960,1316,2021-03-01,960.0,Failed,Product quality meets standards
+918,624,1218,2021-11-01,624.0,Conditional Pass,Meets organic certification standards
+919,1708,1574,2020-11-28,1708.0,Conditional Pass,Product quality meets standards
+920,1075,1716,2024-04-20,1075.0,Conditional Pass,Excellent quality
+921,554,1853,2023-10-20,554.0,Failed,Texture and firmness acceptable
+922,780,1319,2022-07-26,780.0,Passed,Requires further inspection
+923,1442,718,2020-04-26,1442.0,Conditional Pass,Packaging integrity maintained
+924,1552,911,2020-04-15,1552.0,Rejected,Below acceptable threshold
+925,962,1792,2022-03-09,962.0,Rejected,Below acceptable threshold
+926,633,1879,2022-01-09,633.0,Conditional Pass,Size and weight within specifications
+927,584,87,2024-05-04,584.0,Passed,Color and appearance good
+928,1268,1647,2020-11-11,1268.0,Failed,Size and weight within specifications
+929,875,1780,2021-02-13,875.0,Conditional Pass,Packaging integrity maintained
+930,593,1256,2023-06-04,593.0,Passed,Packaging integrity maintained
+931,1015,474,2023-05-30,1015.0,Passed,Requires further inspection
+932,98,412,2024-03-27,98.0,Conditional Pass,Excellent quality
+933,1931,1372,2023-01-13,1931.0,Failed,Requires further inspection
+934,184,1561,2024-11-14,184.0,Conditional Pass,Freshness level acceptable
+935,932,1244,2020-05-14,932.0,Rejected,Minor defects detected
+936,1944,1029,2020-09-22,1944.0,Pending Review,Requires further inspection
+937,647,1128,2024-08-08,647.0,Passed,Meets organic certification standards
+938,1356,1345,2020-09-10,1356.0,Rejected,Meets organic certification standards
+939,1644,749,2024-06-30,1644.0,Pending Review,Requires further inspection
+940,1020,641,2021-05-23,1020.0,Rejected,Product quality meets standards
+941,1336,222,2024-10-14,1336.0,Failed,Size and weight within specifications
+942,652,1405,2022-09-18,652.0,Pending Review,Color and appearance good
+943,600,1104,2022-03-02,600.0,Rejected,Some spoilage detected
+944,1583,1067,2022-05-03,1583.0,Rejected,Texture and firmness acceptable
+945,1047,834,2020-03-10,1047.0,Failed,Packaging integrity maintained
+946,1020,1335,2022-09-29,1020.0,Failed,Minor defects detected
+947,795,387,2021-03-06,795.0,Failed,Freshness level acceptable
+948,1472,1898,2022-01-20,1472.0,Failed,Excellent quality
+949,911,143,2023-11-13,911.0,Conditional Pass,Meets organic certification standards
+950,930,1764,2023-09-13,930.0,Passed,Size and weight within specifications
+951,654,1092,2020-10-11,654.0,Rejected,Packaging integrity maintained
+952,47,1204,2020-07-09,47.0,Passed,Some spoilage detected
+953,1364,1964,2021-02-13,1364.0,Passed,Size and weight within specifications
+954,330,1267,2023-09-01,330.0,Failed,Color and appearance good
+955,559,1771,2020-02-13,559.0,Pending Review,Standard grade quality
+956,1260,925,2024-12-11,1260.0,Conditional Pass,Some spoilage detected
+957,613,199,2021-10-09,613.0,Passed,Premium grade quality
+958,1213,828,2023-10-17,1213.0,Pending Review,Standard grade quality
+959,1058,1627,2022-05-13,1058.0,Rejected,Excellent quality
+960,1052,602,2023-03-20,1052.0,Passed,Product quality meets standards
+961,407,4,2024-02-02,407.0,Passed,Temperature control maintained
+962,343,1456,2021-05-17,343.0,Failed,Size and weight within specifications
+963,1492,907,2021-11-26,1492.0,Conditional Pass,Standard grade quality
+964,1704,1454,2021-09-19,1704.0,Failed,Standard grade quality
+965,444,1736,2020-09-22,444.0,Passed,Color and appearance good
+966,1348,1264,2023-07-27,1348.0,Passed,Texture and firmness acceptable
+967,556,1122,2021-09-24,556.0,Failed,Temperature control maintained
+968,541,269,2024-10-23,541.0,Failed,Excellent quality
+969,545,1450,2023-12-28,545.0,Conditional Pass,Premium grade quality
+970,1326,1453,2021-06-29,1326.0,Failed,Below acceptable threshold
+971,1582,1298,2023-12-08,1582.0,Conditional Pass,Below acceptable threshold
+972,1618,313,2023-04-11,1618.0,Rejected,Freshness level acceptable
+973,1939,1248,2024-03-03,1939.0,Conditional Pass,Size and weight within specifications
+974,763,1173,2024-02-23,763.0,Conditional Pass,Packaging integrity maintained
+975,1691,1310,2023-12-04,1691.0,Passed,Standard grade quality
+976,554,135,2023-03-28,554.0,Conditional Pass,Meets organic certification standards
+977,794,707,2023-01-06,794.0,Rejected,Requires further inspection
+978,1337,707,2024-11-24,1337.0,Conditional Pass,Premium grade quality
+979,1428,1005,2024-03-28,1428.0,Failed,Some spoilage detected
+980,763,1359,2021-08-01,763.0,Conditional Pass,Freshness level acceptable
+981,1230,952,2024-03-08,1230.0,Passed,Meets organic certification standards
+982,902,1637,2021-12-11,902.0,Passed,Size and weight within specifications
+983,1357,188,2022-04-17,1357.0,Passed,Color and appearance good
+984,1443,1172,2023-09-27,1443.0,Failed,Some spoilage detected
+985,341,1801,2022-05-12,341.0,Rejected,Meets organic certification standards
+986,1044,1315,2023-07-06,1044.0,Conditional Pass,Requires further inspection
+987,1972,429,2020-10-20,1972.0,Failed,Requires further inspection
+988,1937,173,2021-10-01,1937.0,Passed,Some spoilage detected
+989,1363,177,2022-08-31,1363.0,Failed,Product quality meets standards
+990,582,543,2020-03-20,582.0,Passed,Some spoilage detected
+991,349,1378,2024-01-20,349.0,Passed,Minor defects detected
+992,813,1063,2021-01-09,813.0,Failed,Requires further inspection
+993,203,1762,2022-02-12,203.0,Conditional Pass,Excellent quality
+994,1564,21,2022-02-28,1564.0,Rejected,Temperature control maintained
+995,1755,1193,2020-03-01,1755.0,Rejected,Requires further inspection
+996,1129,993,2020-08-15,1129.0,Passed,Standard grade quality
+997,857,1737,2024-04-07,857.0,Conditional Pass,Excellent quality
+998,1019,628,2023-01-25,1019.0,Conditional Pass,Texture and firmness acceptable
+999,1961,1858,2022-06-14,1961.0,Pending Review,Minor defects detected
+1000,1970,1842,2024-11-10,1970.0,Rejected,Excellent quality
+1001,479,1896,2022-01-23,479.0,Failed,Minor defects detected
+1002,602,232,2021-08-05,602.0,Passed,Temperature control maintained
+1003,118,1050,2023-05-22,118.0,Passed,Color and appearance good
+1004,1615,663,2023-01-03,1615.0,Conditional Pass,Size and weight within specifications
+1005,1387,296,2021-07-03,1387.0,Rejected,Standard grade quality
+1006,1935,1918,2024-06-01,1935.0,Conditional Pass,Requires further inspection
+1007,1999,449,2020-02-21,1999.0,Conditional Pass,Standard grade quality
+1008,1945,435,2023-05-08,1945.0,Pending Review,Excellent quality
+1009,427,1774,2023-12-18,427.0,Failed,Freshness level acceptable
+1010,1597,384,2023-09-25,1597.0,Pending Review,Packaging integrity maintained
+1011,541,138,2022-10-02,541.0,Failed,Excellent quality
+1012,131,1230,2023-06-01,131.0,Passed,Standard grade quality
+1013,1953,975,2024-11-12,1953.0,Failed,Meets organic certification standards
+1014,1793,1229,2021-04-19,1793.0,Rejected,Color and appearance good
+1015,789,501,2023-03-29,789.0,Failed,Size and weight within specifications
+1016,1722,1717,2023-02-07,1722.0,Failed,Color and appearance good
+1017,693,1106,2024-08-02,693.0,Conditional Pass,Temperature control maintained
+1018,1788,1609,2023-03-12,1788.0,Pending Review,Product quality meets standards
+1019,1278,740,2024-11-18,1278.0,Passed,Color and appearance good
+1020,1988,414,2023-11-21,1988.0,Pending Review,Color and appearance good
+1021,1674,657,2020-05-31,1674.0,Pending Review,Some spoilage detected
+1022,1845,796,2020-07-12,1845.0,Failed,Color and appearance good
+1023,1767,23,2024-08-24,1767.0,Passed,Excellent quality
+1024,788,211,2021-11-29,788.0,Pending Review,Product quality meets standards
+1025,1288,461,2023-08-01,1288.0,Conditional Pass,Size and weight within specifications
+1026,12,984,2023-06-17,12.0,Rejected,Meets organic certification standards
+1027,1908,1052,2022-02-03,1908.0,Conditional Pass,Packaging integrity maintained
+1028,1239,1673,2020-09-01,1239.0,Conditional Pass,Temperature control maintained
+1029,1518,1942,2022-06-06,1518.0,Failed,Excellent quality
+1030,1131,1498,2021-10-12,1131.0,Failed,Temperature control maintained
+1031,198,864,2024-01-16,198.0,Conditional Pass,Minor defects detected
+1032,1828,1984,2021-02-04,1828.0,Rejected,Temperature control maintained
+1033,230,1060,2024-03-27,230.0,Failed,Meets organic certification standards
+1034,516,1587,2022-12-31,516.0,Passed,Size and weight within specifications
+1035,441,1469,2022-10-07,441.0,Rejected,Excellent quality
+1036,59,1442,2020-10-18,59.0,Pending Review,Below acceptable threshold
+1037,1878,1308,2023-12-03,1878.0,Passed,Some spoilage detected
+1038,671,1200,2023-09-11,671.0,Rejected,Freshness level acceptable
+1039,730,1105,2020-03-11,730.0,Conditional Pass,Excellent quality
+1040,1719,289,2024-10-22,1719.0,Conditional Pass,Excellent quality
+1041,711,741,2022-06-30,711.0,Pending Review,Temperature control maintained
+1042,1290,1309,2021-02-24,1290.0,Conditional Pass,Premium grade quality
+1043,67,858,2024-01-16,67.0,Passed,Premium grade quality
+1044,1540,62,2020-03-24,1540.0,Rejected,Some spoilage detected
+1045,363,483,2020-07-16,363.0,Pending Review,Excellent quality
+1046,63,1389,2021-07-14,63.0,Passed,Requires further inspection
+1047,1239,378,2020-11-23,1239.0,Passed,Packaging integrity maintained
+1048,1928,1128,2023-07-22,1928.0,Failed,Size and weight within specifications
+1049,788,1575,2024-10-12,788.0,Conditional Pass,Size and weight within specifications
+1050,1672,1374,2020-10-15,1672.0,Pending Review,Some spoilage detected
+1051,51,1290,2022-10-01,51.0,Failed,Freshness level acceptable
+1052,1477,1401,2024-03-13,1477.0,Failed,Texture and firmness acceptable
+1053,1095,1655,2022-08-24,1095.0,Pending Review,Product quality meets standards
+1054,504,1655,2023-01-09,504.0,Failed,Excellent quality
+1055,1274,45,2024-03-20,1274.0,Pending Review,Freshness level acceptable
+1056,1515,1229,2021-05-21,1515.0,Rejected,Size and weight within specifications
+1057,1494,1204,2022-06-27,1494.0,Pending Review,Freshness level acceptable
+1058,1306,1,2022-06-30,1306.0,Pending Review,Premium grade quality
+1059,1694,770,2022-04-17,1694.0,Failed,Texture and firmness acceptable
+1060,1714,1708,2020-01-31,1714.0,Passed,Standard grade quality
+1061,1051,167,2024-06-13,1051.0,Conditional Pass,Packaging integrity maintained
+1062,1172,1288,2024-12-10,1172.0,Conditional Pass,Requires further inspection
+1063,919,438,2020-09-29,919.0,Conditional Pass,Premium grade quality
+1064,63,1225,2024-04-21,63.0,Pending Review,Requires further inspection
+1065,1194,485,2020-01-26,1194.0,Rejected,Size and weight within specifications
+1066,501,821,2022-06-27,501.0,Passed,Minor defects detected
+1067,1661,1248,2023-11-05,1661.0,Failed,Product quality meets standards
+1068,1290,1949,2020-03-04,1290.0,Rejected,Texture and firmness acceptable
+1069,1526,1261,2022-12-15,1526.0,Conditional Pass,Below acceptable threshold
+1070,1022,147,2020-09-20,1022.0,Rejected,Standard grade quality
+1071,1111,1006,2023-03-09,1111.0,Conditional Pass,Requires further inspection
+1072,4,1,2024-03-05,4.0,Pending Review,Below acceptable threshold
+1073,66,1741,2022-06-18,66.0,Failed,Product quality meets standards
+1074,75,759,2022-07-09,75.0,Rejected,Texture and firmness acceptable
+1075,1857,1214,2020-03-23,1857.0,Rejected,Standard grade quality
+1076,532,809,2024-09-19,532.0,Rejected,Some spoilage detected
+1077,1792,1274,2023-01-12,1792.0,Failed,Premium grade quality
+1078,1759,239,2024-05-27,1759.0,Passed,Minor defects detected
+1079,179,549,2020-12-16,179.0,Failed,Size and weight within specifications
+1080,1373,1251,2022-11-27,1373.0,Conditional Pass,Below acceptable threshold
+1081,1258,1140,2024-06-11,1258.0,Pending Review,Product quality meets standards
+1082,1219,664,2024-09-22,1219.0,Failed,Premium grade quality
+1083,585,1419,2023-01-02,585.0,Pending Review,Freshness level acceptable
+1084,1476,1144,2021-08-24,1476.0,Conditional Pass,Packaging integrity maintained
+1085,392,550,2024-06-02,392.0,Conditional Pass,Packaging integrity maintained
+1086,1554,955,2024-02-14,1554.0,Conditional Pass,Texture and firmness acceptable
+1087,1252,436,2021-11-21,1252.0,Passed,Some spoilage detected
+1088,1801,393,2023-12-12,1801.0,Pending Review,Freshness level acceptable
+1089,1104,1703,2022-09-26,1104.0,Passed,Standard grade quality
+1090,1088,948,2024-12-16,1088.0,Conditional Pass,Some spoilage detected
+1091,1680,584,2022-10-16,1680.0,Failed,Temperature control maintained
+1092,446,512,2020-02-15,446.0,Passed,Some spoilage detected
+1093,1986,736,2020-06-10,1986.0,Rejected,Requires further inspection
+1094,1473,330,2020-01-26,1473.0,Conditional Pass,Minor defects detected
+1095,263,1404,2020-01-24,263.0,Passed,Freshness level acceptable
+1096,784,724,2022-07-16,784.0,Rejected,Below acceptable threshold
+1097,1160,574,2021-11-30,1160.0,Passed,Temperature control maintained
+1098,390,1999,2024-01-08,390.0,Rejected,Standard grade quality
+1099,651,1096,2024-05-21,651.0,Conditional Pass,Size and weight within specifications
+1100,136,1240,2023-02-01,136.0,Pending Review,Color and appearance good
+1101,639,399,2023-08-22,639.0,Pending Review,Minor defects detected
+1102,714,1717,2020-01-22,714.0,Failed,Below acceptable threshold
+1103,1781,1580,2022-11-18,1781.0,Failed,Size and weight within specifications
+1104,167,1599,2020-06-07,167.0,Failed,Some spoilage detected
+1105,478,871,2023-09-29,478.0,Failed,Packaging integrity maintained
+1106,1743,1957,2024-05-31,1743.0,Passed,Texture and firmness acceptable
+1107,1136,763,2020-08-23,1136.0,Passed,Some spoilage detected
+1108,1225,1971,2022-06-10,1225.0,Failed,Some spoilage detected
+1109,1666,1701,2022-11-21,1666.0,Passed,Excellent quality
+1110,799,1186,2021-11-04,799.0,Pending Review,Freshness level acceptable
+1111,56,1110,2021-01-06,56.0,Failed,Requires further inspection
+1112,511,204,2021-08-15,511.0,Rejected,Some spoilage detected
+1113,831,1580,2022-11-12,831.0,Passed,Color and appearance good
+1114,34,1142,2023-08-15,34.0,Conditional Pass,Below acceptable threshold
+1115,524,185,2020-03-04,524.0,Pending Review,Minor defects detected
+1116,1417,32,2023-06-07,1417.0,Rejected,Packaging integrity maintained
+1117,7,556,2023-05-17,7.0,Passed,Packaging integrity maintained
+1118,1173,997,2021-01-01,1173.0,Failed,Packaging integrity maintained
+1119,196,732,2023-07-28,196.0,Pending Review,Temperature control maintained
+1120,709,290,2022-01-13,709.0,Failed,Premium grade quality
+1121,603,634,2021-07-29,603.0,Passed,Color and appearance good
+1122,1342,1133,2020-12-19,1342.0,Passed,Color and appearance good
+1123,1948,1245,2022-10-27,1948.0,Pending Review,Excellent quality
+1124,763,1551,2024-09-18,763.0,Failed,Packaging integrity maintained
+1125,397,401,2020-12-29,397.0,Failed,Requires further inspection
+1126,1138,554,2021-10-25,1138.0,Conditional Pass,Requires further inspection
+1127,657,283,2024-09-05,657.0,Pending Review,Excellent quality
+1128,1427,115,2024-04-18,1427.0,Failed,Freshness level acceptable
+1129,350,1536,2021-01-14,350.0,Failed,Texture and firmness acceptable
+1130,1442,1497,2021-03-07,1442.0,Failed,Texture and firmness acceptable
+1131,625,975,2022-03-14,625.0,Pending Review,Product quality meets standards
+1132,1752,873,2021-06-23,1752.0,Conditional Pass,Product quality meets standards
+1133,1064,1895,2020-02-26,1064.0,Passed,Size and weight within specifications
+1134,408,948,2020-03-30,408.0,Failed,Excellent quality
+1135,1433,1617,2022-06-11,1433.0,Rejected,Meets organic certification standards
+1136,606,1641,2023-11-14,606.0,Failed,Some spoilage detected
+1137,1439,755,2022-06-19,1439.0,Rejected,Meets organic certification standards
+1138,465,502,2023-01-31,465.0,Rejected,Premium grade quality
+1139,124,140,2024-08-31,124.0,Rejected,Excellent quality
+1140,1606,1653,2021-11-13,1606.0,Pending Review,Premium grade quality
+1141,622,1438,2021-01-08,622.0,Conditional Pass,Requires further inspection
+1142,1593,621,2022-07-04,1593.0,Passed,Packaging integrity maintained
+1143,296,438,2020-07-05,296.0,Rejected,Packaging integrity maintained
+1144,777,572,2023-11-29,777.0,Rejected,Below acceptable threshold
+1145,1321,100,2021-06-25,1321.0,Passed,Some spoilage detected
+1146,398,545,2022-01-19,398.0,Rejected,Size and weight within specifications
+1147,1263,242,2023-04-19,1263.0,Passed,Excellent quality
+1148,1335,785,2021-09-01,1335.0,Rejected,Meets organic certification standards
+1149,73,890,2020-01-20,73.0,Rejected,Excellent quality
+1150,534,1700,2022-12-21,534.0,Pending Review,Below acceptable threshold
+1151,1675,1395,2023-06-30,1675.0,Pending Review,Below acceptable threshold
+1152,999,1751,2021-05-29,999.0,Failed,Standard grade quality
+1153,1243,799,2022-07-23,1243.0,Rejected,Freshness level acceptable
+1154,221,1580,2024-01-14,221.0,Passed,Freshness level acceptable
+1155,252,1497,2024-02-16,252.0,Passed,Texture and firmness acceptable
+1156,504,59,2021-04-28,504.0,Conditional Pass,Standard grade quality
+1157,811,1136,2021-03-30,811.0,Failed,Requires further inspection
+1158,541,223,2020-03-16,541.0,Pending Review,Premium grade quality
+1159,1787,1588,2024-03-16,1787.0,Pending Review,Color and appearance good
+1160,1657,453,2020-01-28,1657.0,Failed,Excellent quality
+1161,911,1838,2020-02-19,911.0,Passed,Below acceptable threshold
+1162,950,511,2021-07-07,950.0,Conditional Pass,Product quality meets standards
+1163,622,1103,2022-10-16,622.0,Conditional Pass,Freshness level acceptable
+1164,116,1813,2021-07-28,116.0,Passed,Color and appearance good
+1165,470,483,2022-10-20,470.0,Passed,Color and appearance good
+1166,997,553,2024-10-06,997.0,Failed,Size and weight within specifications
+1167,553,1624,2021-01-04,553.0,Rejected,Premium grade quality
+1168,21,768,2020-01-10,21.0,Pending Review,Temperature control maintained
+1169,1719,1589,2023-01-31,1719.0,Passed,Packaging integrity maintained
+1170,106,1756,2020-07-05,106.0,Pending Review,Premium grade quality
+1171,1593,720,2020-06-25,1593.0,Pending Review,Packaging integrity maintained
+1172,329,324,2020-12-11,329.0,Pending Review,Packaging integrity maintained
+1173,812,170,2021-06-20,812.0,Rejected,Temperature control maintained
+1174,1502,1469,2023-01-01,1502.0,Pending Review,Minor defects detected
+1175,894,892,2023-11-07,894.0,Conditional Pass,Some spoilage detected
+1176,248,1535,2023-10-20,248.0,Rejected,Meets organic certification standards
+1177,1745,636,2023-12-26,1745.0,Failed,Requires further inspection
+1178,1289,1568,2020-08-02,1289.0,Failed,Requires further inspection
+1179,748,909,2021-12-04,748.0,Passed,Requires further inspection
+1180,108,871,2020-06-27,108.0,Failed,Minor defects detected
+1181,258,1941,2024-08-01,258.0,Pending Review,Some spoilage detected
+1182,84,30,2024-06-26,84.0,Conditional Pass,Size and weight within specifications
+1183,1896,1483,2020-11-01,1896.0,Rejected,Size and weight within specifications
+1184,107,948,2024-07-17,107.0,Passed,Temperature control maintained
+1185,1611,453,2022-03-11,1611.0,Pending Review,Excellent quality
+1186,308,434,2024-05-10,308.0,Failed,Meets organic certification standards
+1187,1648,922,2023-09-21,1648.0,Conditional Pass,Below acceptable threshold
+1188,1829,1518,2024-01-19,1829.0,Rejected,Freshness level acceptable
+1189,1703,1354,2021-02-15,1703.0,Pending Review,Premium grade quality
+1190,1828,451,2024-07-09,1828.0,Failed,Excellent quality
+1191,1535,1678,2020-03-14,1535.0,Failed,Meets organic certification standards
+1192,347,888,2023-07-20,347.0,Conditional Pass,Packaging integrity maintained
+1193,303,615,2022-03-27,303.0,Pending Review,Excellent quality
+1194,949,1224,2022-11-04,949.0,Rejected,Excellent quality
+1195,1371,862,2020-08-10,1371.0,Conditional Pass,Minor defects detected
+1196,458,1383,2023-01-21,458.0,Pending Review,Some spoilage detected
+1197,1721,1362,2020-05-26,1721.0,Conditional Pass,Texture and firmness acceptable
+1198,1706,1898,2024-03-09,1706.0,Failed,Product quality meets standards
+1199,534,250,2021-02-06,534.0,Rejected,Temperature control maintained
+1200,655,215,2021-03-14,655.0,Failed,Texture and firmness acceptable
+1201,1209,193,2020-10-13,1209.0,Passed,Meets organic certification standards
+1202,1417,156,2020-09-08,1417.0,Failed,Packaging integrity maintained
+1203,589,1299,2020-06-22,589.0,Pending Review,Minor defects detected
+1204,1686,1822,2022-05-19,1686.0,Passed,Color and appearance good
+1205,649,701,2022-08-13,649.0,Passed,Freshness level acceptable
+1206,929,320,2024-05-21,929.0,Passed,Freshness level acceptable
+1207,455,35,2024-05-04,455.0,Pending Review,Meets organic certification standards
+1208,113,1196,2022-12-03,113.0,Failed,Minor defects detected
+1209,1992,434,2023-12-27,1992.0,Failed,Requires further inspection
+1210,1169,19,2022-12-26,1169.0,Rejected,Color and appearance good
+1211,897,668,2023-02-10,897.0,Conditional Pass,Size and weight within specifications
+1212,900,945,2021-08-15,900.0,Failed,Texture and firmness acceptable
+1213,348,433,2023-02-10,348.0,Pending Review,Freshness level acceptable
+1214,1209,200,2023-09-09,1209.0,Failed,Meets organic certification standards
+1215,381,159,2021-12-12,381.0,Pending Review,Premium grade quality
+1216,1151,1619,2020-11-24,1151.0,Failed,Temperature control maintained
+1217,1315,324,2021-05-23,1315.0,Conditional Pass,Excellent quality
+1218,113,467,2023-06-29,113.0,Rejected,Size and weight within specifications
+1219,1696,1335,2021-06-14,1696.0,Conditional Pass,Color and appearance good
+1220,1431,382,2023-05-10,1431.0,Failed,Standard grade quality
+1221,1503,1912,2021-12-03,1503.0,Passed,Standard grade quality
+1222,171,1154,2022-04-02,171.0,Pending Review,Some spoilage detected
+1223,1847,910,2022-01-28,1847.0,Passed,Size and weight within specifications
+1224,455,1476,2023-11-04,455.0,Rejected,Texture and firmness acceptable
+1225,905,68,2021-09-23,905.0,Failed,Packaging integrity maintained
+1226,558,685,2023-11-24,558.0,Conditional Pass,Minor defects detected
+1227,383,846,2021-09-21,383.0,Passed,Some spoilage detected
+1228,1442,29,2024-08-24,1442.0,Rejected,Product quality meets standards
+1229,1564,143,2023-09-11,1564.0,Conditional Pass,Requires further inspection
+1230,1794,403,2022-11-04,1794.0,Rejected,Requires further inspection
+1231,1019,713,2020-10-06,1019.0,Conditional Pass,Freshness level acceptable
+1232,658,282,2022-12-23,658.0,Failed,Premium grade quality
+1233,385,1632,2020-01-31,385.0,Failed,Packaging integrity maintained
+1234,1408,1167,2022-09-19,1408.0,Pending Review,Premium grade quality
+1235,1265,1406,2020-05-17,1265.0,Rejected,Product quality meets standards
+1236,274,1572,2020-03-24,274.0,Failed,Standard grade quality
+1237,240,984,2023-09-13,240.0,Conditional Pass,Excellent quality
+1238,1091,346,2022-12-11,1091.0,Failed,Freshness level acceptable
+1239,711,1481,2023-08-20,711.0,Failed,Excellent quality
+1240,1796,231,2023-01-15,1796.0,Failed,Requires further inspection
+1241,1376,694,2021-11-02,1376.0,Passed,Requires further inspection
+1242,1738,1195,2024-05-01,1738.0,Conditional Pass,Below acceptable threshold
+1243,1489,1158,2022-03-22,1489.0,Failed,Some spoilage detected
+1244,1072,1213,2020-06-30,1072.0,Conditional Pass,Product quality meets standards
+1245,1300,1129,2022-05-16,1300.0,Pending Review,Texture and firmness acceptable
+1246,601,721,2020-02-23,601.0,Rejected,Excellent quality
+1247,1211,1715,2024-05-27,1211.0,Pending Review,Freshness level acceptable
+1248,1846,1685,2022-11-16,1846.0,Failed,Color and appearance good
+1249,222,671,2023-04-23,222.0,Pending Review,Texture and firmness acceptable
+1250,953,190,2020-04-26,953.0,Conditional Pass,Product quality meets standards
+1251,476,671,2022-09-22,476.0,Rejected,Size and weight within specifications
+1252,845,1903,2020-04-22,845.0,Pending Review,Size and weight within specifications
+1253,1175,1509,2024-10-10,1175.0,Pending Review,Product quality meets standards
+1254,1760,1172,2021-10-01,1760.0,Passed,Minor defects detected
+1255,684,403,2024-02-17,684.0,Failed,Minor defects detected
+1256,1165,864,2023-04-22,1165.0,Failed,Below acceptable threshold
+1257,1705,888,2024-03-14,1705.0,Conditional Pass,Color and appearance good
+1258,247,26,2021-02-14,247.0,Pending Review,Size and weight within specifications
+1259,1283,1400,2020-05-17,1283.0,Passed,Meets organic certification standards
+1260,608,1006,2022-01-13,608.0,Failed,Excellent quality
+1261,148,1408,2024-12-09,148.0,Conditional Pass,Premium grade quality
+1262,1621,893,2024-07-04,1621.0,Passed,Texture and firmness acceptable
+1263,1567,1002,2021-04-15,1567.0,Failed,Excellent quality
+1264,1086,1232,2021-09-23,1086.0,Failed,Color and appearance good
+1265,1173,1681,2022-09-04,1173.0,Pending Review,Below acceptable threshold
+1266,284,1704,2022-07-25,284.0,Conditional Pass,Temperature control maintained
+1267,445,238,2020-06-24,445.0,Failed,Packaging integrity maintained
+1268,1887,454,2023-06-19,1887.0,Pending Review,Packaging integrity maintained
+1269,1176,1247,2022-10-27,1176.0,Failed,Standard grade quality
+1270,664,1615,2020-05-08,664.0,Passed,Standard grade quality
+1271,236,147,2024-08-08,236.0,Conditional Pass,Premium grade quality
+1272,614,1076,2021-02-06,614.0,Pending Review,Excellent quality
+1273,1373,1721,2020-11-19,1373.0,Failed,Packaging integrity maintained
+1274,1344,1771,2020-03-14,1344.0,Pending Review,Some spoilage detected
+1275,1320,1172,2022-05-02,1320.0,Passed,Meets organic certification standards
+1276,622,1585,2020-04-14,622.0,Passed,Some spoilage detected
+1277,88,137,2021-01-25,88.0,Conditional Pass,Packaging integrity maintained
+1278,1985,1992,2021-09-13,1985.0,Passed,Requires further inspection
+1279,1395,702,2023-07-18,1395.0,Pending Review,Premium grade quality
+1280,1633,881,2023-07-10,1633.0,Pending Review,Some spoilage detected
+1281,1834,1010,2020-09-24,1834.0,Conditional Pass,Size and weight within specifications
+1282,484,1736,2022-05-27,484.0,Rejected,Temperature control maintained
+1283,1143,276,2024-11-01,1143.0,Passed,Product quality meets standards
+1284,138,221,2024-09-10,138.0,Failed,Size and weight within specifications
+1285,1107,1582,2024-10-31,1107.0,Conditional Pass,Premium grade quality
+1286,444,1290,2022-07-28,444.0,Conditional Pass,Below acceptable threshold
+1287,1313,284,2020-10-13,1313.0,Conditional Pass,Minor defects detected
+1288,1038,1259,2020-09-08,1038.0,Pending Review,Requires further inspection
+1289,1097,282,2024-04-24,1097.0,Passed,Product quality meets standards
+1290,693,307,2022-10-09,693.0,Failed,Temperature control maintained
+1291,751,863,2021-04-07,751.0,Conditional Pass,Premium grade quality
+1292,1231,1387,2020-08-18,1231.0,Conditional Pass,Freshness level acceptable
+1293,1275,192,2020-09-01,1275.0,Rejected,Premium grade quality
+1294,1575,1637,2023-12-24,1575.0,Passed,Requires further inspection
+1295,1516,1205,2023-12-06,1516.0,Conditional Pass,Below acceptable threshold
+1296,1532,460,2020-04-19,1532.0,Conditional Pass,Requires further inspection
+1297,653,1834,2022-11-23,653.0,Rejected,Product quality meets standards
+1298,1690,1883,2021-10-05,1690.0,Pending Review,Packaging integrity maintained
+1299,1837,1428,2024-11-23,1837.0,Rejected,Color and appearance good
+1300,315,369,2024-08-08,315.0,Conditional Pass,Packaging integrity maintained
+1301,66,1198,2024-12-22,66.0,Failed,Texture and firmness acceptable
+1302,356,1042,2023-12-05,356.0,Rejected,Premium grade quality
+1303,1749,423,2022-11-24,1749.0,Conditional Pass,Premium grade quality
+1304,854,947,2020-10-28,854.0,Conditional Pass,Some spoilage detected
+1305,1079,1168,2024-04-16,1079.0,Failed,Premium grade quality
+1306,719,739,2024-12-21,719.0,Passed,Requires further inspection
+1307,63,1882,2020-11-19,63.0,Rejected,Meets organic certification standards
+1308,402,955,2023-06-26,402.0,Conditional Pass,Meets organic certification standards
+1309,1287,691,2020-08-22,1287.0,Failed,Packaging integrity maintained
+1310,876,1040,2021-09-25,876.0,Failed,Meets organic certification standards
+1311,152,19,2024-11-01,152.0,Rejected,Packaging integrity maintained
+1312,405,382,2021-07-26,405.0,Rejected,Standard grade quality
+1313,1794,702,2023-04-16,1794.0,Rejected,Premium grade quality
+1314,1921,455,2021-04-03,1921.0,Passed,Packaging integrity maintained
+1315,1530,926,2020-10-27,1530.0,Rejected,Temperature control maintained
+1316,1936,841,2021-12-30,1936.0,Rejected,Freshness level acceptable
+1317,545,1685,2020-02-10,545.0,Failed,Standard grade quality
+1318,1948,317,2024-09-05,1948.0,Pending Review,Premium grade quality
+1319,970,668,2021-09-02,970.0,Conditional Pass,Product quality meets standards
+1320,1667,718,2021-05-02,1667.0,Passed,Packaging integrity maintained
+1321,364,230,2021-04-06,364.0,Conditional Pass,Meets organic certification standards
+1322,1674,287,2020-04-21,1674.0,Conditional Pass,Packaging integrity maintained
+1323,1238,147,2021-03-17,1238.0,Conditional Pass,Minor defects detected
+1324,568,1773,2024-08-24,568.0,Rejected,Temperature control maintained
+1325,22,1410,2024-10-27,22.0,Conditional Pass,Minor defects detected
+1326,1751,1098,2024-01-24,1751.0,Failed,Below acceptable threshold
+1327,1729,346,2024-09-11,1729.0,Failed,Color and appearance good
+1328,1907,1816,2023-07-17,1907.0,Conditional Pass,Color and appearance good
+1329,545,1308,2023-03-27,545.0,Conditional Pass,Product quality meets standards
+1330,93,923,2021-05-04,93.0,Pending Review,Color and appearance good
+1331,295,356,2020-01-15,295.0,Failed,Product quality meets standards
+1332,890,1596,2022-06-15,890.0,Passed,Requires further inspection
+1333,702,1014,2023-03-07,702.0,Rejected,Below acceptable threshold
+1334,252,1393,2021-03-25,252.0,Passed,Some spoilage detected
+1335,1387,1637,2022-05-12,1387.0,Conditional Pass,Freshness level acceptable
+1336,499,1786,2022-05-10,499.0,Rejected,Excellent quality
+1337,1310,101,2020-08-11,1310.0,Conditional Pass,Minor defects detected
+1338,485,130,2022-10-07,485.0,Conditional Pass,Below acceptable threshold
+1339,863,253,2021-08-09,863.0,Pending Review,Texture and firmness acceptable
+1340,1255,239,2020-05-25,1255.0,Conditional Pass,Size and weight within specifications
+1341,307,888,2024-05-11,307.0,Conditional Pass,Temperature control maintained
+1342,1692,1339,2021-12-01,1692.0,Failed,Requires further inspection
+1343,1974,223,2023-05-22,1974.0,Failed,Requires further inspection
+1344,441,104,2023-05-28,441.0,Failed,Minor defects detected
+1345,503,1230,2021-01-12,503.0,Failed,Requires further inspection
+1346,1390,1327,2023-01-28,1390.0,Conditional Pass,Texture and firmness acceptable
+1347,486,931,2024-08-22,486.0,Conditional Pass,Minor defects detected
+1348,1843,1284,2020-01-20,1843.0,Passed,Meets organic certification standards
+1349,1600,347,2023-12-22,1600.0,Failed,Freshness level acceptable
+1350,1644,334,2024-01-22,1644.0,Rejected,Premium grade quality
+1351,507,1163,2022-02-09,507.0,Pending Review,Below acceptable threshold
+1352,974,1010,2022-03-22,974.0,Failed,Freshness level acceptable
+1353,9,1688,2023-05-15,9.0,Conditional Pass,Color and appearance good
+1354,1540,898,2020-01-19,1540.0,Failed,Packaging integrity maintained
+1355,50,1472,2021-08-14,50.0,Passed,Texture and firmness acceptable
+1356,563,288,2021-05-28,563.0,Passed,Excellent quality
+1357,185,1061,2020-12-12,185.0,Passed,Temperature control maintained
+1358,1787,1096,2021-03-16,1787.0,Conditional Pass,Some spoilage detected
+1359,398,911,2023-07-07,398.0,Pending Review,Premium grade quality
+1360,1568,818,2023-10-28,1568.0,Rejected,Temperature control maintained
+1361,536,1124,2020-02-03,536.0,Conditional Pass,Packaging integrity maintained
+1362,1148,1191,2020-09-04,1148.0,Conditional Pass,Texture and firmness acceptable
+1363,66,207,2023-05-18,66.0,Rejected,Freshness level acceptable
+1364,1852,1706,2023-09-20,1852.0,Rejected,Temperature control maintained
+1365,1212,567,2020-03-30,1212.0,Failed,Size and weight within specifications
+1366,972,1684,2024-09-02,972.0,Rejected,Freshness level acceptable
+1367,526,1608,2020-11-15,526.0,Passed,Minor defects detected
+1368,1022,778,2022-09-16,1022.0,Rejected,Some spoilage detected
+1369,1396,206,2024-02-13,1396.0,Rejected,Standard grade quality
+1370,323,227,2021-09-17,323.0,Pending Review,Freshness level acceptable
+1371,604,1103,2021-12-06,604.0,Pending Review,Minor defects detected
+1372,65,310,2023-09-23,65.0,Pending Review,Color and appearance good
+1373,503,1652,2021-09-18,503.0,Rejected,Requires further inspection
+1374,1187,244,2024-03-20,1187.0,Failed,Texture and firmness acceptable
+1375,546,419,2024-02-19,546.0,Rejected,Requires further inspection
+1376,331,1739,2022-06-24,331.0,Conditional Pass,Freshness level acceptable
+1377,1296,1165,2022-07-08,1296.0,Conditional Pass,Temperature control maintained
+1378,1013,423,2022-02-22,1013.0,Passed,Packaging integrity maintained
+1379,1244,149,2022-12-28,1244.0,Pending Review,Minor defects detected
+1380,868,348,2022-08-20,868.0,Pending Review,Color and appearance good
+1381,1772,148,2021-05-31,1772.0,Passed,Texture and firmness acceptable
+1382,909,1543,2020-03-24,909.0,Passed,Color and appearance good
+1383,937,828,2022-03-23,937.0,Passed,Meets organic certification standards
+1384,700,620,2021-11-16,700.0,Pending Review,Premium grade quality
+1385,1872,1185,2023-11-07,1872.0,Passed,Requires further inspection
+1386,193,179,2022-07-16,193.0,Rejected,Product quality meets standards
+1387,1447,1909,2023-10-01,1447.0,Conditional Pass,Requires further inspection
+1388,845,1139,2024-07-31,845.0,Passed,Texture and firmness acceptable
+1389,407,807,2022-02-04,407.0,Passed,Requires further inspection
+1390,630,655,2021-12-24,630.0,Failed,Freshness level acceptable
+1391,1485,1690,2024-11-14,1485.0,Conditional Pass,Some spoilage detected
+1392,957,1574,2021-08-29,957.0,Failed,Texture and firmness acceptable
+1393,322,847,2021-12-03,322.0,Failed,Minor defects detected
+1394,757,1172,2021-05-07,757.0,Pending Review,Excellent quality
+1395,1782,347,2022-03-06,1782.0,Passed,Some spoilage detected
+1396,46,1231,2022-05-17,46.0,Failed,Packaging integrity maintained
+1397,309,1993,2022-08-26,309.0,Failed,Temperature control maintained
+1398,769,1946,2023-06-02,769.0,Rejected,Product quality meets standards
+1399,581,696,2023-05-06,581.0,Failed,Minor defects detected
+1400,1345,1386,2022-02-08,1345.0,Rejected,Standard grade quality
+1401,393,693,2023-11-24,393.0,Pending Review,Size and weight within specifications
+1402,822,1514,2024-01-06,822.0,Passed,Temperature control maintained
+1403,43,582,2020-09-09,43.0,Pending Review,Packaging integrity maintained
+1404,1238,463,2024-04-13,1238.0,Rejected,Freshness level acceptable
+1405,706,906,2021-04-16,706.0,Pending Review,Meets organic certification standards
+1406,1406,657,2021-03-18,1406.0,Conditional Pass,Texture and firmness acceptable
+1407,312,1879,2022-11-21,312.0,Conditional Pass,Color and appearance good
+1408,1751,1262,2020-06-15,1751.0,Conditional Pass,Freshness level acceptable
+1409,495,474,2023-02-18,495.0,Pending Review,Meets organic certification standards
+1410,513,440,2023-05-04,513.0,Conditional Pass,Requires further inspection
+1411,390,641,2021-02-09,390.0,Failed,Some spoilage detected
+1412,109,175,2023-10-05,109.0,Failed,Texture and firmness acceptable
+1413,1840,1993,2021-04-12,1840.0,Rejected,Requires further inspection
+1414,1996,963,2021-09-11,1996.0,Rejected,Temperature control maintained
+1415,1552,316,2020-03-19,1552.0,Pending Review,Packaging integrity maintained
+1416,955,55,2020-08-04,955.0,Rejected,Texture and firmness acceptable
+1417,588,2,2022-11-10,588.0,Failed,Size and weight within specifications
+1418,1195,120,2020-01-22,1195.0,Conditional Pass,Below acceptable threshold
+1419,1488,1827,2022-09-04,1488.0,Conditional Pass,Packaging integrity maintained
+1420,46,82,2021-12-13,46.0,Pending Review,Freshness level acceptable
+1421,52,1148,2020-06-23,52.0,Passed,Product quality meets standards
+1422,401,555,2024-04-20,401.0,Conditional Pass,Size and weight within specifications
+1423,382,1059,2023-07-24,382.0,Passed,Packaging integrity maintained
+1424,1649,160,2024-03-26,1649.0,Pending Review,Some spoilage detected
+1425,403,373,2024-01-28,403.0,Pending Review,Excellent quality
+1426,1681,337,2022-07-31,1681.0,Conditional Pass,Standard grade quality
+1427,178,1048,2022-10-21,178.0,Rejected,Excellent quality
+1428,398,1055,2024-07-26,398.0,Rejected,Some spoilage detected
+1429,262,1868,2021-05-01,262.0,Rejected,Product quality meets standards
+1430,1188,1250,2022-08-05,1188.0,Conditional Pass,Size and weight within specifications
+1431,1044,182,2022-06-14,1044.0,Conditional Pass,Packaging integrity maintained
+1432,525,1442,2020-11-07,525.0,Passed,Product quality meets standards
+1433,1563,270,2020-10-23,1563.0,Pending Review,Texture and firmness acceptable
+1434,1582,504,2023-11-23,1582.0,Failed,Freshness level acceptable
+1435,538,39,2020-12-20,538.0,Failed,Standard grade quality
+1436,1967,533,2023-07-12,1967.0,Pending Review,Product quality meets standards
+1437,164,1214,2021-04-26,164.0,Failed,Standard grade quality
+1438,1364,1191,2022-08-15,1364.0,Failed,Some spoilage detected
+1439,1583,331,2024-08-20,1583.0,Conditional Pass,Minor defects detected
+1440,939,1743,2023-07-09,939.0,Failed,Product quality meets standards
+1441,35,815,2021-04-16,35.0,Conditional Pass,Below acceptable threshold
+1442,968,1705,2020-05-20,968.0,Pending Review,Standard grade quality
+1443,1068,1411,2023-12-23,1068.0,Conditional Pass,Freshness level acceptable
+1444,687,627,2023-05-22,687.0,Conditional Pass,Product quality meets standards
+1445,1300,890,2022-03-30,1300.0,Passed,Size and weight within specifications
+1446,1075,1980,2024-04-09,1075.0,Rejected,Some spoilage detected
+1447,1120,290,2020-01-05,1120.0,Pending Review,Premium grade quality
+1448,1512,1697,2020-05-14,1512.0,Failed,Standard grade quality
+1449,432,1800,2021-06-07,432.0,Failed,Premium grade quality
+1450,51,1834,2021-12-27,51.0,Failed,Excellent quality
+1451,1332,1256,2024-04-13,1332.0,Conditional Pass,Meets organic certification standards
+1452,553,1623,2024-05-19,553.0,Passed,Requires further inspection
+1453,1092,1882,2020-03-18,1092.0,Passed,Minor defects detected
+1454,168,1239,2023-10-19,168.0,Passed,Premium grade quality
+1455,1843,324,2024-03-08,1843.0,Conditional Pass,Requires further inspection
+1456,150,1914,2021-08-08,150.0,Passed,Color and appearance good
+1457,1318,393,2021-01-08,1318.0,Passed,Excellent quality
+1458,1092,1831,2020-12-10,1092.0,Failed,Below acceptable threshold
+1459,1756,608,2024-05-19,1756.0,Conditional Pass,Texture and firmness acceptable
+1460,666,1290,2023-12-21,666.0,Conditional Pass,Packaging integrity maintained
+1461,989,1386,2021-04-10,989.0,Failed,Packaging integrity maintained
+1462,405,370,2022-11-20,405.0,Conditional Pass,Some spoilage detected
+1463,1188,86,2022-11-29,1188.0,Conditional Pass,Packaging integrity maintained
+1464,892,349,2022-10-04,892.0,Rejected,Freshness level acceptable
+1465,635,285,2024-11-27,635.0,Failed,Requires further inspection
+1466,134,1333,2021-07-17,134.0,Passed,Color and appearance good
+1467,1756,99,2021-01-21,1756.0,Rejected,Premium grade quality
+1468,1548,321,2020-06-04,1548.0,Rejected,Some spoilage detected
+1469,475,158,2021-07-27,475.0,Passed,Size and weight within specifications
+1470,89,484,2023-08-25,89.0,Passed,Texture and firmness acceptable
+1471,1323,1537,2020-08-07,1323.0,Conditional Pass,Standard grade quality
+1472,912,1676,2022-01-04,912.0,Rejected,Some spoilage detected
+1473,1083,1392,2020-06-04,1083.0,Conditional Pass,Color and appearance good
+1474,1164,351,2022-12-21,1164.0,Conditional Pass,Size and weight within specifications
+1475,1085,1767,2020-10-30,1085.0,Pending Review,Below acceptable threshold
+1476,1482,1680,2020-06-12,1482.0,Failed,Size and weight within specifications
+1477,1027,644,2021-09-05,1027.0,Rejected,Temperature control maintained
+1478,411,169,2022-04-22,411.0,Passed,Size and weight within specifications
+1479,1179,538,2020-01-02,1179.0,Pending Review,Color and appearance good
+1480,1053,1120,2023-07-11,1053.0,Pending Review,Excellent quality
+1481,1147,997,2021-11-03,1147.0,Passed,Some spoilage detected
+1482,468,1429,2023-09-07,468.0,Pending Review,Minor defects detected
+1483,1983,1726,2023-09-07,1983.0,Conditional Pass,Texture and firmness acceptable
+1484,297,591,2021-01-24,297.0,Failed,Excellent quality
+1485,395,462,2021-07-31,395.0,Passed,Freshness level acceptable
+1486,1632,1241,2023-11-11,1632.0,Passed,Premium grade quality
+1487,1683,587,2022-12-30,1683.0,Pending Review,Some spoilage detected
+1488,1250,1248,2024-09-02,1250.0,Rejected,Freshness level acceptable
+1489,1884,1428,2022-04-24,1884.0,Failed,Below acceptable threshold
+1490,759,1436,2021-01-15,759.0,Conditional Pass,Freshness level acceptable
+1491,1132,407,2024-07-05,1132.0,Rejected,Texture and firmness acceptable
+1492,1873,979,2020-12-04,1873.0,Rejected,Minor defects detected
+1493,577,1500,2023-12-07,577.0,Passed,Freshness level acceptable
+1494,1170,808,2022-12-10,1170.0,Pending Review,Color and appearance good
+1495,598,180,2024-06-12,598.0,Pending Review,Minor defects detected
+1496,365,1232,2022-07-28,365.0,Pending Review,Requires further inspection
+1497,1621,229,2022-04-18,1621.0,Rejected,Below acceptable threshold
+1498,968,1242,2023-11-06,968.0,Conditional Pass,Temperature control maintained
+1499,1267,1567,2020-11-02,1267.0,Passed,Premium grade quality
+1500,296,1884,2023-11-26,296.0,Pending Review,Texture and firmness acceptable
+1501,1334,1809,2020-12-27,1334.0,Rejected,Temperature control maintained
+1502,502,1436,2020-02-02,502.0,Passed,Minor defects detected
+1503,1539,24,2020-09-16,1539.0,Rejected,Standard grade quality
+1504,652,397,2021-11-26,652.0,Failed,Excellent quality
+1505,641,1656,2023-10-02,641.0,Failed,Requires further inspection
+1506,581,739,2024-05-04,581.0,Failed,Freshness level acceptable
+1507,1538,487,2023-07-03,1538.0,Pending Review,Color and appearance good
+1508,1834,775,2021-02-17,1834.0,Passed,Some spoilage detected
+1509,494,649,2021-03-04,494.0,Pending Review,Product quality meets standards
+1510,1151,1911,2024-03-23,1151.0,Conditional Pass,Size and weight within specifications
+1511,302,1311,2021-01-19,302.0,Conditional Pass,Standard grade quality
+1512,876,1649,2021-07-29,876.0,Rejected,Below acceptable threshold
+1513,1838,50,2021-08-07,1838.0,Passed,Size and weight within specifications
+1514,1184,1225,2023-04-08,1184.0,Pending Review,Meets organic certification standards
+1515,1226,548,2020-12-04,1226.0,Rejected,Requires further inspection
+1516,99,1808,2020-03-16,99.0,Passed,Meets organic certification standards
+1517,1099,546,2021-04-07,1099.0,Conditional Pass,Requires further inspection
+1518,1025,1393,2023-11-12,1025.0,Passed,Size and weight within specifications
+1519,1457,1794,2021-10-24,1457.0,Pending Review,Size and weight within specifications
+1520,1635,1264,2024-08-21,1635.0,Rejected,Size and weight within specifications
+1521,1200,50,2020-04-07,1200.0,Pending Review,Premium grade quality
+1522,1165,1050,2023-08-04,1165.0,Pending Review,Meets organic certification standards
+1523,1093,883,2022-01-01,1093.0,Passed,Meets organic certification standards
+1524,687,783,2021-05-11,687.0,Conditional Pass,Size and weight within specifications
+1525,1322,868,2024-04-06,1322.0,Failed,Size and weight within specifications
+1526,1733,1885,2020-05-31,1733.0,Conditional Pass,Requires further inspection
+1527,905,1558,2020-07-02,905.0,Passed,Freshness level acceptable
+1528,799,1237,2024-05-08,799.0,Conditional Pass,Requires further inspection
+1529,283,714,2022-09-27,283.0,Pending Review,Size and weight within specifications
+1530,1714,52,2023-12-30,1714.0,Conditional Pass,Temperature control maintained
+1531,1027,665,2022-09-06,1027.0,Failed,Below acceptable threshold
+1532,130,48,2020-03-11,130.0,Pending Review,Below acceptable threshold
+1533,1034,560,2024-02-09,1034.0,Conditional Pass,Requires further inspection
+1534,1033,1999,2023-06-01,1033.0,Failed,Below acceptable threshold
+1535,562,1606,2022-10-30,562.0,Pending Review,Minor defects detected
+1536,1839,545,2020-12-31,1839.0,Passed,Some spoilage detected
+1537,110,1944,2021-11-23,110.0,Conditional Pass,Packaging integrity maintained
+1538,877,1738,2024-12-07,877.0,Conditional Pass,Excellent quality
+1539,1451,1090,2023-12-26,1451.0,Pending Review,Standard grade quality
+1540,417,1570,2024-07-03,417.0,Passed,Below acceptable threshold
+1541,1211,374,2022-03-18,1211.0,Rejected,Premium grade quality
+1542,309,868,2022-09-09,309.0,Passed,Some spoilage detected
+1543,865,1293,2024-05-22,865.0,Rejected,Minor defects detected
+1544,1204,303,2023-07-04,1204.0,Pending Review,Excellent quality
+1545,16,496,2024-09-26,16.0,Passed,Color and appearance good
+1546,888,277,2024-08-28,888.0,Rejected,Texture and firmness acceptable
+1547,1060,1065,2024-11-17,1060.0,Passed,Standard grade quality
+1548,1270,1658,2023-12-28,1270.0,Rejected,Product quality meets standards
+1549,1137,1555,2022-07-11,1137.0,Passed,Packaging integrity maintained
+1550,1712,1161,2021-02-17,1712.0,Passed,Temperature control maintained
+1551,409,976,2024-02-23,409.0,Conditional Pass,Below acceptable threshold
+1552,1087,456,2023-07-23,1087.0,Rejected,Temperature control maintained
+1553,1315,1177,2023-05-06,1315.0,Pending Review,Meets organic certification standards
+1554,1493,790,2021-03-08,1493.0,Rejected,Color and appearance good
+1555,1894,1519,2022-05-16,1894.0,Conditional Pass,Texture and firmness acceptable
+1556,1522,767,2022-09-07,1522.0,Pending Review,Packaging integrity maintained
+1557,1883,1451,2021-12-13,1883.0,Failed,Color and appearance good
+1558,903,624,2021-11-22,903.0,Rejected,Product quality meets standards
+1559,1366,419,2022-07-23,1366.0,Rejected,Meets organic certification standards
+1560,1571,251,2020-09-10,1571.0,Pending Review,Excellent quality
+1561,581,73,2022-03-31,581.0,Pending Review,Premium grade quality
+1562,1171,1190,2020-09-16,1171.0,Passed,Freshness level acceptable
+1563,731,1495,2020-08-30,731.0,Rejected,Standard grade quality
+1564,1448,530,2023-02-17,1448.0,Pending Review,Standard grade quality
+1565,1476,1462,2021-06-19,1476.0,Rejected,Requires further inspection
+1566,919,1163,2021-02-20,919.0,Rejected,Texture and firmness acceptable
+1567,906,1279,2022-11-14,906.0,Failed,Standard grade quality
+1568,896,773,2023-05-18,896.0,Rejected,Standard grade quality
+1569,1582,1710,2022-08-19,1582.0,Passed,Some spoilage detected
+1570,842,10,2021-08-14,842.0,Passed,Temperature control maintained
+1571,1233,1298,2022-08-24,1233.0,Conditional Pass,Excellent quality
+1572,517,650,2022-04-20,517.0,Rejected,Size and weight within specifications
+1573,1342,494,2022-02-25,1342.0,Rejected,Minor defects detected
+1574,44,170,2022-02-21,44.0,Rejected,Meets organic certification standards
+1575,307,233,2024-03-25,307.0,Passed,Texture and firmness acceptable
+1576,1814,1357,2021-12-28,1814.0,Pending Review,Product quality meets standards
+1577,753,937,2021-08-03,753.0,Passed,Standard grade quality
+1578,910,1913,2020-03-31,910.0,Conditional Pass,Texture and firmness acceptable
+1579,891,741,2023-05-31,891.0,Rejected,Texture and firmness acceptable
+1580,774,343,2022-12-20,774.0,Rejected,Minor defects detected
+1581,1082,484,2021-09-25,1082.0,Pending Review,Requires further inspection
+1582,796,1835,2024-05-22,796.0,Conditional Pass,Temperature control maintained
+1583,1894,599,2022-09-22,1894.0,Rejected,Premium grade quality
+1584,1737,1831,2020-08-13,1737.0,Rejected,Freshness level acceptable
+1585,1376,76,2022-09-07,1376.0,Passed,Excellent quality
+1586,17,1156,2021-04-21,17.0,Pending Review,Temperature control maintained
+1587,38,1603,2020-07-16,38.0,Failed,Product quality meets standards
+1588,1539,303,2021-01-07,1539.0,Rejected,Color and appearance good
+1589,34,507,2024-02-23,34.0,Passed,Product quality meets standards
+1590,1901,1496,2024-02-25,1901.0,Passed,Premium grade quality
+1591,293,417,2024-03-06,293.0,Passed,Freshness level acceptable
+1592,1466,1562,2020-12-02,1466.0,Conditional Pass,Requires further inspection
+1593,1916,106,2023-09-26,1916.0,Passed,Meets organic certification standards
+1594,219,556,2021-08-15,219.0,Pending Review,Premium grade quality
+1595,1110,1030,2020-01-07,1110.0,Rejected,Below acceptable threshold
+1596,780,1166,2024-10-29,780.0,Pending Review,Below acceptable threshold
+1597,1314,548,2024-07-23,1314.0,Conditional Pass,Some spoilage detected
+1598,1305,100,2021-11-01,1305.0,Passed,Size and weight within specifications
+1599,104,1525,2020-11-16,104.0,Failed,Premium grade quality
+1600,1866,612,2021-11-12,1866.0,Conditional Pass,Requires further inspection
+1601,381,530,2024-09-07,381.0,Pending Review,Minor defects detected
+1602,1087,882,2022-06-08,1087.0,Pending Review,Excellent quality
+1603,1847,33,2023-03-07,1847.0,Conditional Pass,Size and weight within specifications
+1604,210,1554,2022-12-30,210.0,Pending Review,Meets organic certification standards
+1605,746,504,2020-07-31,746.0,Conditional Pass,Color and appearance good
+1606,1257,821,2023-05-23,1257.0,Conditional Pass,Below acceptable threshold
+1607,97,474,2021-05-22,97.0,Passed,Premium grade quality
+1608,1762,1137,2022-08-09,1762.0,Pending Review,Minor defects detected
+1609,1987,755,2022-02-13,1987.0,Failed,Premium grade quality
+1610,980,931,2022-10-17,980.0,Passed,Packaging integrity maintained
+1611,1698,1349,2020-03-29,1698.0,Passed,Standard grade quality
+1612,196,1209,2023-12-06,196.0,Passed,Minor defects detected
+1613,1650,1311,2021-04-30,1650.0,Conditional Pass,Minor defects detected
+1614,230,672,2022-08-29,230.0,Conditional Pass,Minor defects detected
+1615,791,100,2021-09-05,791.0,Passed,Freshness level acceptable
+1616,201,910,2023-11-03,201.0,Passed,Standard grade quality
+1617,1660,568,2020-01-03,1660.0,Pending Review,Temperature control maintained
+1618,497,1825,2020-05-28,497.0,Passed,Temperature control maintained
+1619,956,643,2022-07-26,956.0,Rejected,Standard grade quality
+1620,1534,1304,2023-05-03,1534.0,Pending Review,Standard grade quality
+1621,176,1773,2021-04-19,176.0,Conditional Pass,Color and appearance good
+1622,1299,295,2021-12-16,1299.0,Conditional Pass,Packaging integrity maintained
+1623,1844,1766,2023-11-18,1844.0,Conditional Pass,Freshness level acceptable
+1624,1304,1259,2022-02-11,1304.0,Passed,Texture and firmness acceptable
+1625,1091,1264,2021-08-05,1091.0,Pending Review,Product quality meets standards
+1626,137,1422,2022-11-03,137.0,Failed,Meets organic certification standards
+1627,1815,291,2021-02-22,1815.0,Passed,Excellent quality
+1628,99,427,2021-07-29,99.0,Passed,Freshness level acceptable
+1629,521,96,2022-03-17,521.0,Conditional Pass,Packaging integrity maintained
+1630,641,233,2020-01-25,641.0,Conditional Pass,Product quality meets standards
+1631,1162,795,2023-10-30,1162.0,Failed,Requires further inspection
+1632,1740,116,2021-11-29,1740.0,Conditional Pass,Excellent quality
+1633,401,861,2021-04-06,401.0,Passed,Minor defects detected
+1634,388,881,2024-03-28,388.0,Pending Review,Size and weight within specifications
+1635,1436,595,2021-04-28,1436.0,Passed,Product quality meets standards
+1636,1203,959,2023-09-18,1203.0,Conditional Pass,Below acceptable threshold
+1637,492,1337,2022-10-17,492.0,Pending Review,Product quality meets standards
+1638,1047,1615,2022-03-22,1047.0,Pending Review,Texture and firmness acceptable
+1639,117,253,2022-10-04,117.0,Rejected,Temperature control maintained
+1640,560,1679,2024-06-27,560.0,Conditional Pass,Standard grade quality
+1641,865,5,2021-04-21,865.0,Pending Review,Minor defects detected
+1642,1510,156,2024-06-27,1510.0,Conditional Pass,Temperature control maintained
+1643,1461,1097,2020-08-27,1461.0,Passed,Standard grade quality
+1644,1117,88,2021-04-18,1117.0,Conditional Pass,Some spoilage detected
+1645,51,57,2024-04-18,51.0,Failed,Some spoilage detected
+1646,1481,127,2023-11-03,1481.0,Conditional Pass,Excellent quality
+1647,913,71,2021-05-25,913.0,Conditional Pass,Some spoilage detected
+1648,1908,1113,2020-07-17,1908.0,Pending Review,Below acceptable threshold
+1649,450,1607,2024-04-03,450.0,Pending Review,Excellent quality
+1650,544,1391,2022-10-25,544.0,Pending Review,Excellent quality
+1651,719,1471,2020-07-10,719.0,Conditional Pass,Freshness level acceptable
+1652,283,1919,2023-06-16,283.0,Failed,Minor defects detected
+1653,202,1276,2020-09-05,202.0,Rejected,Packaging integrity maintained
+1654,1671,643,2021-10-27,1671.0,Passed,Below acceptable threshold
+1655,122,1842,2020-11-10,122.0,Pending Review,Minor defects detected
+1656,1806,1211,2022-09-25,1806.0,Failed,Texture and firmness acceptable
+1657,1260,1667,2024-11-10,1260.0,Pending Review,Meets organic certification standards
+1658,1538,372,2021-03-08,1538.0,Rejected,Minor defects detected
+1659,386,858,2020-02-15,386.0,Conditional Pass,Size and weight within specifications
+1660,1857,791,2022-01-03,1857.0,Pending Review,Freshness level acceptable
+1661,1034,838,2023-10-11,1034.0,Failed,Freshness level acceptable
+1662,1637,1198,2023-06-24,1637.0,Conditional Pass,Requires further inspection
+1663,1737,1648,2024-06-11,1737.0,Conditional Pass,Excellent quality
+1664,1637,1542,2020-04-07,1637.0,Conditional Pass,Excellent quality
+1665,1982,1375,2024-06-23,1982.0,Rejected,Below acceptable threshold
+1666,1139,738,2021-07-30,1139.0,Passed,Excellent quality
+1667,114,1193,2023-10-28,114.0,Conditional Pass,Freshness level acceptable
+1668,935,287,2024-10-22,935.0,Pending Review,Below acceptable threshold
+1669,1306,375,2021-05-19,1306.0,Pending Review,Product quality meets standards
+1670,810,771,2022-04-03,810.0,Failed,Color and appearance good
+1671,1995,407,2023-02-28,1995.0,Failed,Size and weight within specifications
+1672,1134,1930,2023-11-17,1134.0,Passed,Some spoilage detected
+1673,1022,579,2023-10-29,1022.0,Conditional Pass,Some spoilage detected
+1674,1706,1763,2020-01-13,1706.0,Rejected,Texture and firmness acceptable
+1675,1929,1745,2021-03-12,1929.0,Pending Review,Some spoilage detected
+1676,867,1248,2021-03-11,867.0,Conditional Pass,Product quality meets standards
+1677,1335,438,2023-08-24,1335.0,Failed,Packaging integrity maintained
+1678,1352,1837,2021-08-05,1352.0,Passed,Meets organic certification standards
+1679,358,1789,2021-12-17,358.0,Conditional Pass,Below acceptable threshold
+1680,1154,146,2020-10-12,1154.0,Failed,Below acceptable threshold
+1681,1648,1046,2020-10-15,1648.0,Pending Review,Packaging integrity maintained
+1682,389,1081,2020-07-31,389.0,Failed,Texture and firmness acceptable
+1683,268,1451,2024-01-14,268.0,Pending Review,Texture and firmness acceptable
+1684,1418,762,2024-09-21,1418.0,Rejected,Requires further inspection
+1685,1978,647,2021-04-28,1978.0,Passed,Size and weight within specifications
+1686,812,1288,2023-05-29,812.0,Passed,Requires further inspection
+1687,1738,1923,2022-11-24,1738.0,Rejected,Texture and firmness acceptable
+1688,72,1982,2024-01-17,72.0,Failed,Size and weight within specifications
+1689,1137,209,2024-07-04,1137.0,Passed,Minor defects detected
+1690,1448,891,2021-05-31,1448.0,Failed,Premium grade quality
+1691,356,1150,2022-09-13,356.0,Passed,Standard grade quality
+1692,143,1599,2023-12-23,143.0,Conditional Pass,Temperature control maintained
+1693,1894,363,2020-01-15,1894.0,Rejected,Texture and firmness acceptable
+1694,1820,1550,2021-10-10,1820.0,Pending Review,Premium grade quality
+1695,831,1039,2020-01-06,831.0,Conditional Pass,Excellent quality
+1696,473,1932,2022-08-06,473.0,Pending Review,Minor defects detected
+1697,929,1078,2021-02-03,929.0,Failed,Temperature control maintained
+1698,1269,498,2020-07-11,1269.0,Conditional Pass,Below acceptable threshold
+1699,702,397,2021-06-09,702.0,Rejected,Freshness level acceptable
+1700,1975,1921,2021-02-18,1975.0,Conditional Pass,Size and weight within specifications
+1701,781,1305,2024-02-20,781.0,Failed,Temperature control maintained
+1702,72,177,2021-12-20,72.0,Pending Review,Some spoilage detected
+1703,1156,750,2022-08-27,1156.0,Conditional Pass,Product quality meets standards
+1704,470,311,2020-08-22,470.0,Pending Review,Color and appearance good
+1705,1715,486,2023-10-30,1715.0,Failed,Below acceptable threshold
+1706,961,947,2021-11-12,961.0,Passed,Packaging integrity maintained
+1707,1616,1913,2024-08-27,1616.0,Pending Review,Excellent quality
+1708,629,5,2021-04-20,629.0,Pending Review,Texture and firmness acceptable
+1709,1214,300,2024-11-28,1214.0,Rejected,Premium grade quality
+1710,1609,1496,2022-10-12,1609.0,Pending Review,Product quality meets standards
+1711,1459,1332,2024-10-12,1459.0,Passed,Standard grade quality
+1712,790,209,2020-08-27,790.0,Pending Review,Requires further inspection
+1713,1189,880,2020-09-06,1189.0,Passed,Requires further inspection
+1714,1288,1696,2023-07-29,1288.0,Failed,Product quality meets standards
+1715,17,374,2021-05-14,17.0,Passed,Packaging integrity maintained
+1716,1101,1271,2021-05-06,1101.0,Rejected,Minor defects detected
+1717,1247,831,2024-08-28,1247.0,Failed,Premium grade quality
+1718,1504,1567,2021-02-23,1504.0,Passed,Color and appearance good
+1719,66,819,2022-06-21,66.0,Conditional Pass,Some spoilage detected
+1720,390,38,2021-02-11,390.0,Passed,Meets organic certification standards
+1721,230,1568,2021-02-23,230.0,Passed,Excellent quality
+1722,850,588,2021-04-05,850.0,Conditional Pass,Size and weight within specifications
+1723,620,404,2023-05-02,620.0,Pending Review,Premium grade quality
+1724,1430,452,2020-03-21,1430.0,Rejected,Texture and firmness acceptable
+1725,1713,1656,2023-08-15,1713.0,Rejected,Excellent quality
+1726,1211,1543,2023-09-30,1211.0,Failed,Below acceptable threshold
+1727,1569,1105,2021-03-26,1569.0,Pending Review,Minor defects detected
+1728,1962,1140,2024-11-06,1962.0,Failed,Size and weight within specifications
+1729,486,1272,2021-12-09,486.0,Rejected,Meets organic certification standards
+1730,130,824,2021-07-07,130.0,Rejected,Texture and firmness acceptable
+1731,1298,1675,2022-06-06,1298.0,Passed,Meets organic certification standards
+1732,310,1391,2022-10-12,310.0,Failed,Color and appearance good
+1733,1295,1256,2022-06-28,1295.0,Rejected,Requires further inspection
+1734,1905,1436,2021-10-20,1905.0,Failed,Some spoilage detected
+1735,1573,728,2023-10-20,1573.0,Pending Review,Color and appearance good
+1736,414,1570,2022-04-27,414.0,Pending Review,Color and appearance good
+1737,102,234,2023-02-02,102.0,Failed,Below acceptable threshold
+1738,1829,1942,2024-07-23,1829.0,Conditional Pass,Temperature control maintained
+1739,664,1462,2024-05-19,664.0,Conditional Pass,Color and appearance good
+1740,840,469,2020-11-26,840.0,Failed,Below acceptable threshold
+1741,1238,1683,2021-11-04,1238.0,Passed,Color and appearance good
+1742,133,212,2021-06-17,133.0,Passed,Size and weight within specifications
+1743,543,781,2024-03-13,543.0,Conditional Pass,Packaging integrity maintained
+1744,566,1452,2024-10-09,566.0,Conditional Pass,Excellent quality
+1745,1875,1294,2021-07-13,1875.0,Pending Review,Minor defects detected
+1746,1785,475,2020-05-15,1785.0,Failed,Meets organic certification standards
+1747,1515,1353,2023-09-27,1515.0,Pending Review,Color and appearance good
+1748,563,649,2020-11-06,563.0,Pending Review,Product quality meets standards
+1749,1571,1972,2020-10-07,1571.0,Conditional Pass,Size and weight within specifications
+1750,1056,748,2020-10-20,1056.0,Conditional Pass,Meets organic certification standards
+1751,796,423,2024-09-11,796.0,Failed,Product quality meets standards
+1752,119,1620,2024-12-27,119.0,Pending Review,Standard grade quality
+1753,1764,830,2023-04-28,1764.0,Rejected,Size and weight within specifications
+1754,1579,225,2021-06-11,1579.0,Failed,Product quality meets standards
+1755,631,382,2023-06-06,631.0,Passed,Some spoilage detected
+1756,930,1029,2020-11-29,930.0,Conditional Pass,Excellent quality
+1757,408,1232,2020-09-25,408.0,Failed,Texture and firmness acceptable
+1758,785,1078,2021-10-25,785.0,Pending Review,Excellent quality
+1759,900,335,2020-03-15,900.0,Failed,Minor defects detected
+1760,505,1149,2022-11-16,505.0,Pending Review,Freshness level acceptable
+1761,1797,1899,2020-05-18,1797.0,Passed,Size and weight within specifications
+1762,122,918,2020-03-21,122.0,Conditional Pass,Size and weight within specifications
+1763,128,377,2022-07-28,128.0,Conditional Pass,Size and weight within specifications
+1764,1448,973,2021-05-24,1448.0,Passed,Color and appearance good
+1765,1556,1624,2023-03-25,1556.0,Conditional Pass,Freshness level acceptable
+1766,1931,1694,2023-06-21,1931.0,Rejected,Requires further inspection
+1767,1230,1040,2022-05-06,1230.0,Passed,Temperature control maintained
+1768,887,1879,2024-10-07,887.0,Rejected,Packaging integrity maintained
+1769,1411,1781,2021-09-25,1411.0,Passed,Packaging integrity maintained
+1770,742,587,2023-02-10,742.0,Rejected,Freshness level acceptable
+1771,1996,1574,2023-10-22,1996.0,Conditional Pass,Size and weight within specifications
+1772,1050,920,2024-01-20,1050.0,Passed,Packaging integrity maintained
+1773,385,1641,2020-12-15,385.0,Pending Review,Excellent quality
+1774,1247,500,2022-10-23,1247.0,Rejected,Standard grade quality
+1775,181,1018,2024-01-21,181.0,Pending Review,Minor defects detected
+1776,1611,587,2022-07-01,1611.0,Conditional Pass,Temperature control maintained
+1777,787,1812,2023-05-22,787.0,Conditional Pass,Standard grade quality
+1778,1870,966,2022-07-16,1870.0,Conditional Pass,Product quality meets standards
+1779,246,1991,2022-05-20,246.0,Conditional Pass,Color and appearance good
+1780,520,1564,2020-02-08,520.0,Conditional Pass,Some spoilage detected
+1781,1641,218,2024-02-20,1641.0,Failed,Freshness level acceptable
+1782,95,1533,2020-07-02,95.0,Rejected,Size and weight within specifications
+1783,754,1421,2024-03-16,754.0,Pending Review,Size and weight within specifications
+1784,527,406,2021-07-08,527.0,Failed,Minor defects detected
+1785,423,1235,2021-10-19,423.0,Rejected,Packaging integrity maintained
+1786,596,1238,2024-09-09,596.0,Rejected,Texture and firmness acceptable
+1787,1466,1837,2022-04-25,1466.0,Conditional Pass,Packaging integrity maintained
+1788,1995,1842,2022-07-04,1995.0,Passed,Product quality meets standards
+1789,832,1779,2020-09-13,832.0,Pending Review,Product quality meets standards
+1790,1091,1677,2023-03-01,1091.0,Rejected,Some spoilage detected
+1791,1245,364,2022-06-27,1245.0,Pending Review,Excellent quality
+1792,1891,817,2020-10-15,1891.0,Pending Review,Standard grade quality
+1793,927,1084,2022-08-29,927.0,Rejected,Meets organic certification standards
+1794,521,1731,2023-09-25,521.0,Pending Review,Standard grade quality
+1795,623,1476,2022-02-16,623.0,Rejected,Requires further inspection
+1796,976,77,2024-01-05,976.0,Passed,Meets organic certification standards
+1797,722,331,2021-12-11,722.0,Passed,Color and appearance good
+1798,27,510,2023-02-07,27.0,Pending Review,Texture and firmness acceptable
+1799,1693,1260,2023-08-14,1693.0,Pending Review,Packaging integrity maintained
+1800,1037,1171,2020-10-21,1037.0,Pending Review,Below acceptable threshold
+1801,1303,870,2023-06-28,1303.0,Rejected,Temperature control maintained
+1802,1023,1401,2023-06-30,1023.0,Rejected,Some spoilage detected
+1803,114,365,2020-07-09,114.0,Pending Review,Some spoilage detected
+1804,1875,1935,2023-10-31,1875.0,Failed,Packaging integrity maintained
+1805,854,628,2021-01-17,854.0,Rejected,Premium grade quality
+1806,172,1508,2023-02-28,172.0,Failed,Standard grade quality
+1807,588,1917,2021-02-17,588.0,Pending Review,Product quality meets standards
+1808,431,1485,2024-11-13,431.0,Conditional Pass,Excellent quality
+1809,791,1948,2024-10-18,791.0,Failed,Freshness level acceptable
+1810,1687,1394,2024-03-19,1687.0,Rejected,Excellent quality
+1811,49,275,2024-02-18,49.0,Conditional Pass,Minor defects detected
+1812,1203,1347,2023-10-02,1203.0,Failed,Texture and firmness acceptable
+1813,365,817,2022-04-14,365.0,Conditional Pass,Standard grade quality
+1814,1122,693,2023-08-09,1122.0,Failed,Requires further inspection
+1815,1019,1131,2021-12-07,1019.0,Passed,Some spoilage detected
+1816,1257,426,2023-10-12,1257.0,Pending Review,Size and weight within specifications
+1817,876,1982,2024-06-06,876.0,Failed,Size and weight within specifications
+1818,884,1483,2021-03-25,884.0,Conditional Pass,Excellent quality
+1819,888,336,2021-08-13,888.0,Failed,Below acceptable threshold
+1820,376,1708,2020-04-11,376.0,Passed,Below acceptable threshold
+1821,1016,392,2021-02-16,1016.0,Conditional Pass,Below acceptable threshold
+1822,1435,1935,2022-11-02,1435.0,Rejected,Meets organic certification standards
+1823,1736,1761,2020-04-07,1736.0,Pending Review,Below acceptable threshold
+1824,639,628,2023-01-26,639.0,Passed,Texture and firmness acceptable
+1825,1729,22,2022-09-13,1729.0,Passed,Requires further inspection
+1826,1867,1749,2022-07-19,1867.0,Conditional Pass,Some spoilage detected
+1827,1455,685,2022-06-14,1455.0,Passed,Temperature control maintained
+1828,1661,954,2023-03-30,1661.0,Passed,Texture and firmness acceptable
+1829,1787,1120,2020-04-18,1787.0,Pending Review,Excellent quality
+1830,1956,1110,2023-06-29,1956.0,Conditional Pass,Standard grade quality
+1831,258,1962,2023-06-04,258.0,Passed,Standard grade quality
+1832,424,954,2020-05-27,424.0,Pending Review,Texture and firmness acceptable
+1833,1126,1988,2020-06-08,1126.0,Conditional Pass,Premium grade quality
+1834,455,1554,2024-07-21,455.0,Failed,Color and appearance good
+1835,478,1895,2020-06-20,478.0,Passed,Freshness level acceptable
+1836,685,705,2022-08-06,685.0,Rejected,Excellent quality
+1837,1588,1110,2024-11-15,1588.0,Failed,Minor defects detected
+1838,1225,1240,2022-12-03,1225.0,Failed,Packaging integrity maintained
+1839,1563,121,2020-04-02,1563.0,Conditional Pass,Size and weight within specifications
+1840,65,128,2020-02-20,65.0,Pending Review,Some spoilage detected
+1841,1306,1513,2024-02-19,1306.0,Rejected,Texture and firmness acceptable
+1842,448,763,2024-08-21,448.0,Conditional Pass,Product quality meets standards
+1843,558,308,2022-06-04,558.0,Passed,Freshness level acceptable
+1844,1876,254,2022-04-01,1876.0,Conditional Pass,Excellent quality
+1845,1010,689,2022-06-21,1010.0,Failed,Freshness level acceptable
+1846,619,1158,2023-06-12,619.0,Passed,Below acceptable threshold
+1847,1566,1894,2020-09-28,1566.0,Passed,Excellent quality
+1848,1098,1215,2022-11-21,1098.0,Rejected,Product quality meets standards
+1849,87,1866,2023-01-06,87.0,Rejected,Freshness level acceptable
+1850,126,1292,2020-03-26,126.0,Rejected,Some spoilage detected
+1851,1091,1432,2024-05-09,1091.0,Passed,Some spoilage detected
+1852,1395,241,2021-02-09,1395.0,Rejected,Product quality meets standards
+1853,1696,33,2022-07-01,1696.0,Rejected,Temperature control maintained
+1854,905,1710,2024-07-07,905.0,Rejected,Some spoilage detected
+1855,281,496,2020-08-19,281.0,Conditional Pass,Size and weight within specifications
+1856,289,1588,2024-02-10,289.0,Failed,Excellent quality
+1857,1626,847,2021-03-26,1626.0,Failed,Excellent quality
+1858,282,1106,2020-04-09,282.0,Rejected,Meets organic certification standards
+1859,752,1018,2022-03-30,752.0,Conditional Pass,Product quality meets standards
+1860,481,1545,2023-03-27,481.0,Conditional Pass,Temperature control maintained
+1861,727,905,2023-12-29,727.0,Pending Review,Minor defects detected
+1862,1452,239,2023-04-03,1452.0,Rejected,Excellent quality
+1863,1778,642,2024-03-11,1778.0,Rejected,Size and weight within specifications
+1864,490,698,2021-04-11,490.0,Conditional Pass,Freshness level acceptable
+1865,1569,1135,2022-03-22,1569.0,Pending Review,Some spoilage detected
+1866,1191,561,2024-08-27,1191.0,Conditional Pass,Size and weight within specifications
+1867,1205,34,2022-04-27,1205.0,Failed,Product quality meets standards
+1868,319,1914,2023-05-05,319.0,Failed,Size and weight within specifications
+1869,1807,1705,2021-11-06,1807.0,Pending Review,Size and weight within specifications
+1870,37,919,2022-01-08,37.0,Passed,Product quality meets standards
+1871,1219,1097,2024-01-26,1219.0,Pending Review,Some spoilage detected
+1872,1941,1783,2022-05-31,1941.0,Failed,Below acceptable threshold
+1873,764,1074,2022-12-25,764.0,Pending Review,Size and weight within specifications
+1874,380,1926,2022-10-22,380.0,Passed,Temperature control maintained
+1875,143,1609,2023-08-14,143.0,Passed,Freshness level acceptable
+1876,110,771,2021-12-15,110.0,Rejected,Below acceptable threshold
+1877,261,1551,2020-07-08,261.0,Rejected,Temperature control maintained
+1878,640,622,2022-11-14,640.0,Rejected,Size and weight within specifications
+1879,954,475,2021-07-31,954.0,Passed,Requires further inspection
+1880,1946,1016,2021-01-11,1946.0,Passed,Premium grade quality
+1881,1406,976,2020-10-02,1406.0,Passed,Standard grade quality
+1882,1879,783,2022-06-24,1879.0,Passed,Color and appearance good
+1883,1897,1910,2020-03-25,1897.0,Rejected,Texture and firmness acceptable
+1884,1959,171,2021-02-07,1959.0,Conditional Pass,Color and appearance good
+1885,1049,1011,2020-06-21,1049.0,Conditional Pass,Size and weight within specifications
+1886,540,1405,2022-09-16,540.0,Failed,Temperature control maintained
+1887,541,1252,2024-08-02,541.0,Rejected,Standard grade quality
+1888,544,577,2021-12-10,544.0,Conditional Pass,Packaging integrity maintained
+1889,596,1093,2022-01-02,596.0,Failed,Standard grade quality
+1890,461,277,2023-01-14,461.0,Passed,Texture and firmness acceptable
+1891,747,711,2020-07-03,747.0,Rejected,Requires further inspection
+1892,1270,1344,2021-07-24,1270.0,Failed,Freshness level acceptable
+1893,544,1997,2021-11-25,544.0,Pending Review,Excellent quality
+1894,1349,854,2021-03-27,1349.0,Conditional Pass,Standard grade quality
+1895,1727,1488,2023-09-10,1727.0,Rejected,Requires further inspection
+1896,1271,359,2021-02-15,1271.0,Passed,Premium grade quality
+1897,1288,307,2022-10-24,1288.0,Passed,Product quality meets standards
+1898,512,1563,2020-10-11,512.0,Conditional Pass,Temperature control maintained
+1899,129,1934,2023-03-07,129.0,Pending Review,Some spoilage detected
+1900,430,1975,2021-09-20,430.0,Failed,Texture and firmness acceptable
+1901,448,397,2022-09-04,448.0,Pending Review,Size and weight within specifications
+1902,643,89,2022-07-07,643.0,Failed,Standard grade quality
+1903,302,1114,2023-02-10,302.0,Rejected,Size and weight within specifications
+1904,133,968,2020-09-20,133.0,Conditional Pass,Minor defects detected
+1905,30,1745,2022-02-20,30.0,Passed,Standard grade quality
+1906,1442,1728,2020-11-02,1442.0,Rejected,Minor defects detected
+1907,1091,1925,2020-12-02,1091.0,Failed,Below acceptable threshold
+1908,93,1348,2024-01-08,93.0,Conditional Pass,Requires further inspection
+1909,284,177,2021-12-26,284.0,Failed,Below acceptable threshold
+1910,1297,707,2020-05-12,1297.0,Pending Review,Below acceptable threshold
+1911,1001,974,2024-05-16,1001.0,Failed,Temperature control maintained
+1912,1782,603,2020-05-09,1782.0,Pending Review,Meets organic certification standards
+1913,1611,994,2022-05-27,1611.0,Passed,Product quality meets standards
+1914,733,1751,2023-03-26,733.0,Passed,Freshness level acceptable
+1915,1945,789,2020-09-03,1945.0,Pending Review,Excellent quality
+1916,1191,357,2020-09-17,1191.0,Rejected,Standard grade quality
+1917,541,1149,2022-04-26,541.0,Pending Review,Some spoilage detected
+1918,1691,1154,2021-12-21,1691.0,Failed,Meets organic certification standards
+1919,8,181,2024-07-21,8.0,Failed,Color and appearance good
+1920,1583,1324,2023-04-25,1583.0,Pending Review,Texture and firmness acceptable
+1921,1043,1804,2024-01-18,1043.0,Passed,Freshness level acceptable
+1922,982,1596,2023-04-30,982.0,Conditional Pass,Product quality meets standards
+1923,1053,1261,2024-02-26,1053.0,Failed,Temperature control maintained
+1924,374,891,2020-02-06,374.0,Passed,Excellent quality
+1925,731,1683,2020-07-04,731.0,Passed,Temperature control maintained
+1926,257,1332,2022-04-21,257.0,Pending Review,Temperature control maintained
+1927,1551,1511,2024-12-16,1551.0,Failed,Texture and firmness acceptable
+1928,1504,111,2022-06-27,1504.0,Failed,Packaging integrity maintained
+1929,1344,1605,2022-06-01,1344.0,Conditional Pass,Excellent quality
+1930,1289,891,2024-07-17,1289.0,Failed,Freshness level acceptable
+1931,1951,1334,2020-09-11,1951.0,Pending Review,Premium grade quality
+1932,603,1735,2024-12-01,603.0,Passed,Packaging integrity maintained
+1933,157,717,2021-03-06,157.0,Passed,Excellent quality
+1934,548,752,2022-01-07,548.0,Failed,Size and weight within specifications
+1935,794,464,2023-10-16,794.0,Pending Review,Excellent quality
+1936,1984,108,2022-06-01,1984.0,Rejected,Requires further inspection
+1937,339,256,2021-10-21,339.0,Failed,Requires further inspection
+1938,1546,1484,2020-06-22,1546.0,Passed,Temperature control maintained
+1939,32,646,2020-10-01,32.0,Rejected,Below acceptable threshold
+1940,1493,1708,2022-08-14,1493.0,Passed,Texture and firmness acceptable
+1941,454,348,2022-12-18,454.0,Conditional Pass,Excellent quality
+1942,27,1382,2024-05-08,27.0,Passed,Temperature control maintained
+1943,390,185,2024-12-19,390.0,Conditional Pass,Minor defects detected
+1944,423,1899,2023-04-13,423.0,Rejected,Packaging integrity maintained
+1945,1643,1193,2022-08-27,1643.0,Pending Review,Meets organic certification standards
+1946,1964,530,2023-01-12,1964.0,Rejected,Packaging integrity maintained
+1947,243,374,2020-02-02,243.0,Conditional Pass,Size and weight within specifications
+1948,1679,1754,2024-08-28,1679.0,Passed,Packaging integrity maintained
+1949,672,1700,2022-11-12,672.0,Pending Review,Packaging integrity maintained
+1950,713,171,2024-07-31,713.0,Rejected,Texture and firmness acceptable
+1951,1824,1736,2022-11-04,1824.0,Rejected,Below acceptable threshold
+1952,1742,920,2024-10-14,1742.0,Passed,Standard grade quality
+1953,1228,1875,2021-08-24,1228.0,Passed,Some spoilage detected
+1954,1791,1726,2022-10-05,1791.0,Passed,Freshness level acceptable
+1955,55,609,2020-02-23,55.0,Passed,Some spoilage detected
+1956,1950,1440,2020-01-31,1950.0,Pending Review,Requires further inspection
+1957,97,63,2023-04-28,97.0,Conditional Pass,Product quality meets standards
+1958,1170,675,2022-08-08,1170.0,Passed,Size and weight within specifications
+1959,593,1114,2020-07-15,593.0,Pending Review,Texture and firmness acceptable
+1960,1527,583,2023-11-17,1527.0,Passed,Temperature control maintained
+1961,1676,882,2023-04-29,1676.0,Conditional Pass,Texture and firmness acceptable
+1962,973,1494,2023-08-20,973.0,Passed,Temperature control maintained
+1963,22,315,2024-09-18,22.0,Pending Review,Product quality meets standards
+1964,42,1184,2023-03-27,42.0,Rejected,Some spoilage detected
+1965,1090,1465,2021-09-20,1090.0,Pending Review,Minor defects detected
+1966,1670,1670,2021-07-09,1670.0,Failed,Requires further inspection
+1967,29,1560,2022-03-03,29.0,Conditional Pass,Temperature control maintained
+1968,557,601,2023-02-24,557.0,Conditional Pass,Some spoilage detected
+1969,1952,1058,2020-04-06,1952.0,Pending Review,Requires further inspection
+1970,1612,1803,2024-09-30,1612.0,Pending Review,Minor defects detected
+1971,421,242,2022-02-18,421.0,Rejected,Size and weight within specifications
+1972,975,428,2023-06-15,975.0,Pending Review,Premium grade quality
+1973,1339,103,2023-12-08,1339.0,Rejected,Excellent quality
+1974,999,1252,2023-07-28,999.0,Conditional Pass,Below acceptable threshold
+1975,11,797,2024-05-05,11.0,Passed,Meets organic certification standards
+1976,88,727,2024-09-17,88.0,Pending Review,Size and weight within specifications
+1977,197,929,2024-02-18,197.0,Failed,Standard grade quality
+1978,1412,1550,2024-02-23,1412.0,Rejected,Requires further inspection
+1979,728,466,2024-05-05,728.0,Pending Review,Excellent quality
+1980,296,968,2022-12-07,296.0,Rejected,Standard grade quality
+1981,937,330,2020-07-24,937.0,Conditional Pass,Minor defects detected
+1982,1706,1150,2022-04-28,1706.0,Conditional Pass,Below acceptable threshold
+1983,1347,1204,2020-09-20,1347.0,Failed,Standard grade quality
+1984,942,89,2020-07-26,942.0,Failed,Some spoilage detected
+1985,1422,391,2020-03-29,1422.0,Failed,Texture and firmness acceptable
+1986,1384,583,2021-10-27,1384.0,Passed,Product quality meets standards
+1987,712,47,2024-01-09,712.0,Pending Review,Temperature control maintained
+1988,1634,479,2021-08-06,1634.0,Pending Review,Size and weight within specifications
+1989,1865,1513,2022-05-31,1865.0,Pending Review,Premium grade quality
+1990,293,1209,2023-03-14,293.0,Pending Review,Standard grade quality
+1991,1555,596,2023-07-07,1555.0,Conditional Pass,Premium grade quality
+1992,1811,1970,2020-06-15,1811.0,Rejected,Standard grade quality
+1993,585,1799,2022-10-18,585.0,Conditional Pass,Color and appearance good
+1994,212,891,2020-09-06,212.0,Passed,Temperature control maintained
+1995,262,1820,2023-10-18,262.0,Pending Review,Texture and firmness acceptable
+1996,128,1463,2021-04-12,128.0,Failed,Standard grade quality
+1997,1116,1043,2021-11-04,1116.0,Passed,Size and weight within specifications
+1998,1484,943,2022-10-21,1484.0,Passed,Color and appearance good
+1999,1683,1122,2020-12-04,1683.0,Passed,Some spoilage detected
+2000,667,1276,2021-05-07,667.0,Conditional Pass,Texture and firmness acceptable

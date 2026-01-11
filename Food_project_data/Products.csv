@@ -1,0 +1,2001 @@
+product_id,name,price,category,farm_id
+1,Organic Tomatoes,2.97,Vegetables,687
+2,Fresh Carrots,2.02,Vegetables,3
+3,Bell Peppers,2.2,Vegetables,146
+4,Cucumbers,1.95,Vegetables,223
+5,Lettuce,2.02,Vegetables,826
+6,Spinach,5.14,Vegetables,642
+7,Broccoli,2.8,Vegetables,1540
+8,Cauliflower,5.62,Vegetables,1653
+9,Zucchini,3.78,Vegetables,1290
+10,Green Beans,3.31,Vegetables,8
+11,Potatoes,1.37,Vegetables,1285
+12,Sweet Potatoes,3.33,Vegetables,1930
+13,Onions,1.72,Vegetables,336
+14,Garlic,5.19,Vegetables,1995
+15,Fresh Apples,5.35,Fruits,1337
+16,Oranges,4.46,Fruits,1459
+17,Bananas,2.21,Fruits,1412
+18,Strawberries,6.98,Fruits,1913
+19,Blueberries,9.4,Fruits,1896
+20,Grapes,3.22,Fruits,71
+21,Watermelon,7.74,Fruits,1743
+22,Peaches,6.4,Fruits,209
+23,Pears,4.74,Fruits,57
+24,Cherries,6.5,Fruits,662
+25,Mangoes,4.34,Fruits,288
+26,Pineapple,5.3,Fruits,1737
+27,Whole Milk,3.65,Dairy,734
+28,Fresh Butter,5.7,Dairy,118
+29,Cheddar Cheese,8.25,Dairy,567
+30,Mozzarella Cheese,6.82,Dairy,113
+31,Greek Yogurt,3.86,Dairy,1267
+32,Cream,7.86,Dairy,772
+33,Fresh Eggs,4.07,Dairy,805
+34,Wheat,0.98,Crops,19
+35,Corn,1.61,Crops,1962
+36,Rice,2.05,Crops,1739
+37,Soybeans,2.66,Crops,1801
+38,Barley,1.64,Crops,223
+39,Oats,1.31,Crops,850
+40,Quinoa,8.28,Crops,371
+41,Organic Tomatoes Grade B,2.64,Vegetables,1867
+42,Fresh Carrots Grade B,2.06,Vegetables,1540
+43,Bell Peppers Grade B,3.76,Vegetables,1595
+44,Cucumbers Grade B,3.8,Vegetables,1288
+45,Lettuce Grade B,1.75,Vegetables,4
+46,Spinach Grade B,5.09,Vegetables,1085
+47,Broccoli Grade B,5.51,Vegetables,1274
+48,Cauliflower Grade B,5.69,Vegetables,1214
+49,Zucchini Grade B,2.59,Vegetables,736
+50,Green Beans Grade B,3.58,Vegetables,1893
+51,Potatoes Grade B,2.35,Vegetables,579
+52,Sweet Potatoes Grade B,3.32,Vegetables,317
+53,Onions Grade B,1.12,Vegetables,1292
+54,Garlic Grade B,5.85,Vegetables,253
+55,Fresh Apples Grade B,4.44,Fruits,554
+56,Oranges Grade B,2.38,Fruits,967
+57,Bananas Grade B,1.93,Fruits,947
+58,Strawberries Grade B,6.33,Fruits,16
+59,Blueberries Grade B,10.98,Fruits,1599
+60,Grapes Grade B,4.38,Fruits,279
+61,Watermelon Grade B,7.58,Fruits,1459
+62,Peaches Grade B,6.81,Fruits,1782
+63,Pears Grade B,4.49,Fruits,1060
+64,Cherries Grade B,11.82,Fruits,1274
+65,Mangoes Grade B,5.31,Fruits,1243
+66,Pineapple Grade B,4.47,Fruits,1706
+67,Whole Milk Grade B,4.61,Dairy,172
+68,Fresh Butter Grade B,6.2,Dairy,1003
+69,Cheddar Cheese Grade B,7.89,Dairy,1010
+70,Mozzarella Cheese Grade B,7.61,Dairy,1797
+71,Greek Yogurt Grade B,4.41,Dairy,940
+72,Cream Grade B,5.48,Dairy,815
+73,Fresh Eggs Grade B,4.12,Dairy,1432
+74,Wheat Grade B,1.39,Crops,419
+75,Corn Grade B,1.11,Crops,1032
+76,Rice Grade B,2.3,Crops,202
+77,Soybeans Grade B,3.35,Crops,982
+78,Barley Grade B,1.26,Crops,1282
+79,Oats Grade B,1.28,Crops,1837
+80,Quinoa Grade B,8.85,Crops,1428
+81,Organic Tomatoes Grade C,3.05,Vegetables,928
+82,Fresh Carrots Grade C,2.77,Vegetables,370
+83,Bell Peppers Grade C,3.24,Vegetables,294
+84,Cucumbers Grade C,2.38,Vegetables,814
+85,Lettuce Grade C,1.83,Vegetables,754
+86,Spinach Grade C,3.27,Vegetables,1452
+87,Broccoli Grade C,5.49,Vegetables,933
+88,Cauliflower Grade C,3.96,Vegetables,825
+89,Zucchini Grade C,2.47,Vegetables,425
+90,Green Beans Grade C,3.62,Vegetables,1517
+91,Potatoes Grade C,1.34,Vegetables,1505
+92,Sweet Potatoes Grade C,2.83,Vegetables,588
+93,Onions Grade C,1.71,Vegetables,903
+94,Garlic Grade C,5.64,Vegetables,346
+95,Fresh Apples Grade C,3.84,Fruits,1200
+96,Oranges Grade C,3.68,Fruits,127
+97,Bananas Grade C,1.58,Fruits,513
+98,Strawberries Grade C,5.29,Fruits,1855
+99,Blueberries Grade C,5.74,Fruits,1135
+100,Grapes Grade C,5.99,Fruits,1786
+101,Watermelon Grade C,6.59,Fruits,748
+102,Peaches Grade C,5.73,Fruits,933
+103,Pears Grade C,4.32,Fruits,526
+104,Cherries Grade C,8.97,Fruits,911
+105,Mangoes Grade C,4.75,Fruits,1869
+106,Pineapple Grade C,4.89,Fruits,979
+107,Whole Milk Grade C,4.55,Dairy,1086
+108,Fresh Butter Grade C,6.56,Dairy,1356
+109,Cheddar Cheese Grade C,6.35,Dairy,604
+110,Mozzarella Cheese Grade C,5.79,Dairy,701
+111,Greek Yogurt Grade C,4.4,Dairy,1497
+112,Cream Grade C,7.51,Dairy,731
+113,Fresh Eggs Grade C,4.27,Dairy,1567
+114,Wheat Grade C,1.08,Crops,1087
+115,Corn Grade C,1.66,Crops,1327
+116,Rice Grade C,1.33,Crops,1805
+117,Soybeans Grade C,2.76,Crops,1669
+118,Barley Grade C,1.55,Crops,1226
+119,Oats Grade C,2.15,Crops,1287
+120,Quinoa Grade C,4.61,Crops,202
+121,Organic Tomatoes Grade D,4.12,Vegetables,612
+122,Fresh Carrots Grade D,3.02,Vegetables,1223
+123,Bell Peppers Grade D,3.05,Vegetables,1859
+124,Cucumbers Grade D,2.77,Vegetables,666
+125,Lettuce Grade D,2.06,Vegetables,62
+126,Spinach Grade D,4.91,Vegetables,1759
+127,Broccoli Grade D,5.5,Vegetables,1521
+128,Cauliflower Grade D,5.29,Vegetables,112
+129,Zucchini Grade D,3.26,Vegetables,1410
+130,Green Beans Grade D,2.85,Vegetables,1741
+131,Potatoes Grade D,2.53,Vegetables,1426
+132,Sweet Potatoes Grade D,3,Vegetables,1454
+133,Onions Grade D,1.07,Vegetables,1721
+134,Garlic Grade D,5.85,Vegetables,761
+135,Fresh Apples Grade D,3.91,Fruits,221
+136,Oranges Grade D,2.42,Fruits,145
+137,Bananas Grade D,2,Fruits,603
+138,Strawberries Grade D,6.08,Fruits,198
+139,Blueberries Grade D,10.22,Fruits,227
+140,Grapes Grade D,5.99,Fruits,583
+141,Watermelon Grade D,7.01,Fruits,1762
+142,Peaches Grade D,3.62,Fruits,953
+143,Pears Grade D,4.41,Fruits,422
+144,Cherries Grade D,9.21,Fruits,1822
+145,Mangoes Grade D,3.74,Fruits,1204
+146,Pineapple Grade D,6.24,Fruits,1369
+147,Whole Milk Grade D,4.54,Dairy,816
+148,Fresh Butter Grade D,5.56,Dairy,1664
+149,Cheddar Cheese Grade D,6.56,Dairy,192
+150,Mozzarella Cheese Grade D,4.6,Dairy,1769
+151,Greek Yogurt Grade D,4.5,Dairy,167
+152,Cream Grade D,6.77,Dairy,1417
+153,Fresh Eggs Grade D,5.6,Dairy,838
+154,Wheat Grade D,1.14,Crops,1142
+155,Corn Grade D,1.33,Crops,1977
+156,Rice Grade D,1.62,Crops,1136
+157,Soybeans Grade D,1.84,Crops,867
+158,Barley Grade D,0.99,Crops,1260
+159,Oats Grade D,2.4,Crops,1505
+160,Quinoa Grade D,5.67,Crops,1210
+161,Organic Tomatoes Grade E,2.89,Vegetables,1794
+162,Fresh Carrots Grade E,2.48,Vegetables,1544
+163,Bell Peppers Grade E,3.64,Vegetables,1592
+164,Cucumbers Grade E,2.66,Vegetables,753
+165,Lettuce Grade E,1.87,Vegetables,783
+166,Spinach Grade E,3.93,Vegetables,557
+167,Broccoli Grade E,3.17,Vegetables,1487
+168,Cauliflower Grade E,3.69,Vegetables,411
+169,Zucchini Grade E,2.86,Vegetables,1151
+170,Green Beans Grade E,4.52,Vegetables,243
+171,Potatoes Grade E,1.65,Vegetables,1493
+172,Sweet Potatoes Grade E,3.2,Vegetables,1296
+173,Onions Grade E,2.42,Vegetables,1480
+174,Garlic Grade E,4.45,Vegetables,140
+175,Fresh Apples Grade E,3.65,Fruits,1405
+176,Oranges Grade E,3.83,Fruits,1457
+177,Bananas Grade E,1.52,Fruits,1863
+178,Strawberries Grade E,5.65,Fruits,705
+179,Blueberries Grade E,6.52,Fruits,241
+180,Grapes Grade E,4.98,Fruits,1009
+181,Watermelon Grade E,6.61,Fruits,1144
+182,Peaches Grade E,6.67,Fruits,214
+183,Pears Grade E,5.4,Fruits,1894
+184,Cherries Grade E,6.57,Fruits,1335
+185,Mangoes Grade E,4.62,Fruits,494
+186,Pineapple Grade E,5.06,Fruits,201
+187,Whole Milk Grade E,6.37,Dairy,229
+188,Fresh Butter Grade E,6.88,Dairy,221
+189,Cheddar Cheese Grade E,6.23,Dairy,221
+190,Mozzarella Cheese Grade E,4.8,Dairy,486
+191,Greek Yogurt Grade E,6.96,Dairy,389
+192,Cream Grade E,4.52,Dairy,585
+193,Fresh Eggs Grade E,3.26,Dairy,1237
+194,Wheat Grade E,1.16,Crops,914
+195,Corn Grade E,1.94,Crops,407
+196,Rice Grade E,1.27,Crops,1606
+197,Soybeans Grade E,3.08,Crops,1210
+198,Barley Grade E,1.47,Crops,1703
+199,Oats Grade E,1.71,Crops,86
+200,Quinoa Grade E,7.8,Crops,1500
+201,Organic Tomatoes Grade F,4.95,Vegetables,115
+202,Fresh Carrots Grade F,2.81,Vegetables,235
+203,Bell Peppers Grade F,3.21,Vegetables,516
+204,Cucumbers Grade F,2.43,Vegetables,1178
+205,Lettuce Grade F,2.5,Vegetables,1049
+206,Spinach Grade F,4.12,Vegetables,525
+207,Broccoli Grade F,4.51,Vegetables,235
+208,Cauliflower Grade F,4.82,Vegetables,161
+209,Zucchini Grade F,2.66,Vegetables,1544
+210,Green Beans Grade F,4.05,Vegetables,1046
+211,Potatoes Grade F,2.6,Vegetables,999
+212,Sweet Potatoes Grade F,2.95,Vegetables,1626
+213,Onions Grade F,2.23,Vegetables,1431
+214,Garlic Grade F,4.63,Vegetables,411
+215,Fresh Apples Grade F,4.26,Fruits,1505
+216,Oranges Grade F,3.84,Fruits,254
+217,Bananas Grade F,1.83,Fruits,147
+218,Strawberries Grade F,5.38,Fruits,862
+219,Blueberries Grade F,6.11,Fruits,565
+220,Grapes Grade F,5.88,Fruits,1249
+221,Watermelon Grade F,6.88,Fruits,880
+222,Peaches Grade F,6.76,Fruits,1985
+223,Pears Grade F,2.92,Fruits,1975
+224,Cherries Grade F,7.55,Fruits,1657
+225,Mangoes Grade F,4.67,Fruits,1627
+226,Pineapple Grade F,4.28,Fruits,1738
+227,Whole Milk Grade F,3.61,Dairy,1955
+228,Fresh Butter Grade F,8.2,Dairy,1562
+229,Cheddar Cheese Grade F,9.46,Dairy,482
+230,Mozzarella Cheese Grade F,5.41,Dairy,840
+231,Greek Yogurt Grade F,3.8,Dairy,1902
+232,Cream Grade F,6.25,Dairy,827
+233,Fresh Eggs Grade F,5.59,Dairy,771
+234,Wheat Grade F,1.14,Crops,1708
+235,Corn Grade F,1.51,Crops,7
+236,Rice Grade F,1.34,Crops,1461
+237,Soybeans Grade F,1.78,Crops,974
+238,Barley Grade F,1.98,Crops,1448
+239,Oats Grade F,2.07,Crops,575
+240,Quinoa Grade F,7.18,Crops,231
+241,Organic Tomatoes Grade G,3.34,Vegetables,102
+242,Fresh Carrots Grade G,3.08,Vegetables,995
+243,Bell Peppers Grade G,2.41,Vegetables,306
+244,Cucumbers Grade G,3.29,Vegetables,1502
+245,Lettuce Grade G,2.47,Vegetables,1547
+246,Spinach Grade G,3.25,Vegetables,1833
+247,Broccoli Grade G,2.91,Vegetables,1785
+248,Cauliflower Grade G,5.93,Vegetables,825
+249,Zucchini Grade G,3.48,Vegetables,1061
+250,Green Beans Grade G,3.03,Vegetables,637
+251,Potatoes Grade G,1.3,Vegetables,1434
+252,Sweet Potatoes Grade G,2.74,Vegetables,421
+253,Onions Grade G,2.4,Vegetables,1107
+254,Garlic Grade G,4.7,Vegetables,790
+255,Fresh Apples Grade G,4.47,Fruits,821
+256,Oranges Grade G,4.31,Fruits,1679
+257,Bananas Grade G,2.22,Fruits,1929
+258,Strawberries Grade G,4.32,Fruits,1773
+259,Blueberries Grade G,7.87,Fruits,1854
+260,Grapes Grade G,5.38,Fruits,1878
+261,Watermelon Grade G,6.38,Fruits,1388
+262,Peaches Grade G,4.33,Fruits,1516
+263,Pears Grade G,5.01,Fruits,83
+264,Cherries Grade G,8.7,Fruits,1543
+265,Mangoes Grade G,4.26,Fruits,734
+266,Pineapple Grade G,5.81,Fruits,1187
+267,Whole Milk Grade G,3.85,Dairy,324
+268,Fresh Butter Grade G,5.69,Dairy,1406
+269,Cheddar Cheese Grade G,5.46,Dairy,1854
+270,Mozzarella Cheese Grade G,8.61,Dairy,406
+271,Greek Yogurt Grade G,6.2,Dairy,1911
+272,Cream Grade G,5.07,Dairy,416
+273,Fresh Eggs Grade G,5.51,Dairy,825
+274,Wheat Grade G,1.42,Crops,823
+275,Corn Grade G,2.16,Crops,846
+276,Rice Grade G,1.52,Crops,235
+277,Soybeans Grade G,2.35,Crops,1773
+278,Barley Grade G,1.71,Crops,19
+279,Oats Grade G,2.16,Crops,1911
+280,Quinoa Grade G,7.07,Crops,1774
+281,Organic Tomatoes Grade H,3.35,Vegetables,1815
+282,Fresh Carrots Grade H,3.24,Vegetables,1163
+283,Bell Peppers Grade H,3.17,Vegetables,1067
+284,Cucumbers Grade H,2.76,Vegetables,1808
+285,Lettuce Grade H,1.81,Vegetables,722
+286,Spinach Grade H,3.81,Vegetables,1710
+287,Broccoli Grade H,5.44,Vegetables,986
+288,Cauliflower Grade H,6.1,Vegetables,239
+289,Zucchini Grade H,3.42,Vegetables,396
+290,Green Beans Grade H,4.72,Vegetables,1850
+291,Potatoes Grade H,1.83,Vegetables,296
+292,Sweet Potatoes Grade H,3.2,Vegetables,847
+293,Onions Grade H,1.13,Vegetables,1009
+294,Garlic Grade H,4.56,Vegetables,1999
+295,Fresh Apples Grade H,2.89,Fruits,1241
+296,Oranges Grade H,2.07,Fruits,856
+297,Bananas Grade H,1.66,Fruits,1467
+298,Strawberries Grade H,5.63,Fruits,537
+299,Blueberries Grade H,9.31,Fruits,948
+300,Grapes Grade H,3.47,Fruits,62
+301,Watermelon Grade H,5.54,Fruits,1232
+302,Peaches Grade H,4.92,Fruits,821
+303,Pears Grade H,3.94,Fruits,591
+304,Cherries Grade H,8.07,Fruits,1523
+305,Mangoes Grade H,3.29,Fruits,474
+306,Pineapple Grade H,4.65,Fruits,1738
+307,Whole Milk Grade H,4.89,Dairy,1367
+308,Fresh Butter Grade H,8.43,Dairy,25
+309,Cheddar Cheese Grade H,8.22,Dairy,1671
+310,Mozzarella Cheese Grade H,8.94,Dairy,465
+311,Greek Yogurt Grade H,5.37,Dairy,1754
+312,Cream Grade H,4.08,Dairy,951
+313,Fresh Eggs Grade H,5.99,Dairy,491
+314,Wheat Grade H,1.36,Crops,303
+315,Corn Grade H,1.5,Crops,1531
+316,Rice Grade H,1.67,Crops,372
+317,Soybeans Grade H,3.38,Crops,1801
+318,Barley Grade H,1.46,Crops,788
+319,Oats Grade H,2.07,Crops,1897
+320,Quinoa Grade H,8.64,Crops,840
+321,Organic Tomatoes Grade I,2.82,Vegetables,532
+322,Fresh Carrots Grade I,2.28,Vegetables,310
+323,Bell Peppers Grade I,4.12,Vegetables,389
+324,Cucumbers Grade I,2.39,Vegetables,1695
+325,Lettuce Grade I,2.86,Vegetables,1048
+326,Spinach Grade I,4.42,Vegetables,1652
+327,Broccoli Grade I,4.52,Vegetables,63
+328,Cauliflower Grade I,3.6,Vegetables,1296
+329,Zucchini Grade I,3.32,Vegetables,72
+330,Green Beans Grade I,3.53,Vegetables,1134
+331,Potatoes Grade I,2.41,Vegetables,247
+332,Sweet Potatoes Grade I,2.31,Vegetables,78
+333,Onions Grade I,1.24,Vegetables,979
+334,Garlic Grade I,6.23,Vegetables,840
+335,Fresh Apples Grade I,5.24,Fruits,1842
+336,Oranges Grade I,4.02,Fruits,1190
+337,Bananas Grade I,1.54,Fruits,786
+338,Strawberries Grade I,5.51,Fruits,717
+339,Blueberries Grade I,10.21,Fruits,308
+340,Grapes Grade I,3.86,Fruits,373
+341,Watermelon Grade I,6.68,Fruits,367
+342,Peaches Grade I,4.94,Fruits,175
+343,Pears Grade I,3.09,Fruits,380
+344,Cherries Grade I,11.24,Fruits,762
+345,Mangoes Grade I,5.27,Fruits,1820
+346,Pineapple Grade I,5.86,Fruits,130
+347,Whole Milk Grade I,4.7,Dairy,1520
+348,Fresh Butter Grade I,5.45,Dairy,1400
+349,Cheddar Cheese Grade I,6.12,Dairy,1735
+350,Mozzarella Cheese Grade I,6.45,Dairy,1314
+351,Greek Yogurt Grade I,5.47,Dairy,955
+352,Cream Grade I,6.19,Dairy,122
+353,Fresh Eggs Grade I,5.91,Dairy,1041
+354,Wheat Grade I,1.23,Crops,1647
+355,Corn Grade I,1.53,Crops,1346
+356,Rice Grade I,1.51,Crops,1815
+357,Soybeans Grade I,2.15,Crops,255
+358,Barley Grade I,1.5,Crops,778
+359,Oats Grade I,1.56,Crops,1635
+360,Quinoa Grade I,6.66,Crops,1429
+361,Organic Tomatoes Grade J,4.99,Vegetables,497
+362,Fresh Carrots Grade J,1.52,Vegetables,592
+363,Bell Peppers Grade J,2.7,Vegetables,1767
+364,Cucumbers Grade J,2.99,Vegetables,1461
+365,Lettuce Grade J,1.77,Vegetables,130
+366,Spinach Grade J,3.84,Vegetables,496
+367,Broccoli Grade J,3.44,Vegetables,1078
+368,Cauliflower Grade J,4.99,Vegetables,930
+369,Zucchini Grade J,3.91,Vegetables,612
+370,Green Beans Grade J,3.31,Vegetables,1348
+371,Potatoes Grade J,2.58,Vegetables,1340
+372,Sweet Potatoes Grade J,3.36,Vegetables,418
+373,Onions Grade J,2.29,Vegetables,336
+374,Garlic Grade J,6.59,Vegetables,498
+375,Fresh Apples Grade J,4.32,Fruits,585
+376,Oranges Grade J,2.65,Fruits,1606
+377,Bananas Grade J,2.77,Fruits,165
+378,Strawberries Grade J,5.26,Fruits,1804
+379,Blueberries Grade J,5.71,Fruits,320
+380,Grapes Grade J,3.26,Fruits,1813
+381,Watermelon Grade J,6.36,Fruits,1817
+382,Peaches Grade J,5.7,Fruits,1600
+383,Pears Grade J,3.78,Fruits,589
+384,Cherries Grade J,7.4,Fruits,470
+385,Mangoes Grade J,5.81,Fruits,542
+386,Pineapple Grade J,5.27,Fruits,432
+387,Whole Milk Grade J,6,Dairy,1783
+388,Fresh Butter Grade J,4.76,Dairy,1821
+389,Cheddar Cheese Grade J,6.22,Dairy,1588
+390,Mozzarella Cheese Grade J,7,Dairy,679
+391,Greek Yogurt Grade J,4.47,Dairy,1421
+392,Cream Grade J,4.44,Dairy,434
+393,Fresh Eggs Grade J,4.22,Dairy,1373
+394,Wheat Grade J,1.61,Crops,1268
+395,Corn Grade J,2.48,Crops,865
+396,Rice Grade J,2.64,Crops,1311
+397,Soybeans Grade J,1.71,Crops,1815
+398,Barley Grade J,1.96,Crops,162
+399,Oats Grade J,1.53,Crops,1897
+400,Quinoa Grade J,5.7,Crops,1293
+401,Organic Tomatoes Grade K,3.97,Vegetables,920
+402,Fresh Carrots Grade K,3.34,Vegetables,1042
+403,Bell Peppers Grade K,2.97,Vegetables,800
+404,Cucumbers Grade K,2.13,Vegetables,771
+405,Lettuce Grade K,1.98,Vegetables,213
+406,Spinach Grade K,5.29,Vegetables,1382
+407,Broccoli Grade K,5.31,Vegetables,1808
+408,Cauliflower Grade K,5.75,Vegetables,794
+409,Zucchini Grade K,2.22,Vegetables,643
+410,Green Beans Grade K,4.11,Vegetables,1968
+411,Potatoes Grade K,1.49,Vegetables,1422
+412,Sweet Potatoes Grade K,2.19,Vegetables,1819
+413,Onions Grade K,2.15,Vegetables,102
+414,Garlic Grade K,6.58,Vegetables,475
+415,Fresh Apples Grade K,2.55,Fruits,944
+416,Oranges Grade K,3.27,Fruits,383
+417,Bananas Grade K,2.58,Fruits,706
+418,Strawberries Grade K,6.59,Fruits,213
+419,Blueberries Grade K,7.44,Fruits,311
+420,Grapes Grade K,3.59,Fruits,1449
+421,Watermelon Grade K,8.3,Fruits,378
+422,Peaches Grade K,4.72,Fruits,1866
+423,Pears Grade K,3.11,Fruits,1908
+424,Cherries Grade K,7.64,Fruits,1947
+425,Mangoes Grade K,3.44,Fruits,1440
+426,Pineapple Grade K,6.44,Fruits,1655
+427,Whole Milk Grade K,5.76,Dairy,1190
+428,Fresh Butter Grade K,8.17,Dairy,1526
+429,Cheddar Cheese Grade K,8.81,Dairy,688
+430,Mozzarella Cheese Grade K,8.45,Dairy,357
+431,Greek Yogurt Grade K,4.6,Dairy,1878
+432,Cream Grade K,6.93,Dairy,627
+433,Fresh Eggs Grade K,3.26,Dairy,526
+434,Wheat Grade K,1.16,Crops,1331
+435,Corn Grade K,2.36,Crops,1597
+436,Rice Grade K,2.14,Crops,1405
+437,Soybeans Grade K,3.17,Crops,1056
+438,Barley Grade K,1.85,Crops,1428
+439,Oats Grade K,1.32,Crops,1158
+440,Quinoa Grade K,8.23,Crops,817
+441,Organic Tomatoes Grade L,3.1,Vegetables,704
+442,Fresh Carrots Grade L,2.43,Vegetables,361
+443,Bell Peppers Grade L,2.5,Vegetables,1485
+444,Cucumbers Grade L,3.36,Vegetables,1477
+445,Lettuce Grade L,2.79,Vegetables,1563
+446,Spinach Grade L,5.09,Vegetables,496
+447,Broccoli Grade L,3.95,Vegetables,1713
+448,Cauliflower Grade L,5.63,Vegetables,1939
+449,Zucchini Grade L,3.92,Vegetables,1551
+450,Green Beans Grade L,4.85,Vegetables,799
+451,Potatoes Grade L,1.36,Vegetables,1870
+452,Sweet Potatoes Grade L,2.26,Vegetables,1242
+453,Onions Grade L,1.73,Vegetables,1319
+454,Garlic Grade L,4.95,Vegetables,1469
+455,Fresh Apples Grade L,3.71,Fruits,1281
+456,Oranges Grade L,2.81,Fruits,1945
+457,Bananas Grade L,2.99,Fruits,1141
+458,Strawberries Grade L,5.14,Fruits,1648
+459,Blueberries Grade L,10.43,Fruits,230
+460,Grapes Grade L,4.22,Fruits,646
+461,Watermelon Grade L,8.52,Fruits,1550
+462,Peaches Grade L,4.65,Fruits,1663
+463,Pears Grade L,5.38,Fruits,1019
+464,Cherries Grade L,6.22,Fruits,1155
+465,Mangoes Grade L,5.96,Fruits,1063
+466,Pineapple Grade L,6.78,Fruits,1778
+467,Whole Milk Grade L,4.39,Dairy,760
+468,Fresh Butter Grade L,5.42,Dairy,318
+469,Cheddar Cheese Grade L,9.67,Dairy,424
+470,Mozzarella Cheese Grade L,6.42,Dairy,973
+471,Greek Yogurt Grade L,6.49,Dairy,423
+472,Cream Grade L,7.33,Dairy,512
+473,Fresh Eggs Grade L,4.23,Dairy,640
+474,Wheat Grade L,1.05,Crops,1404
+475,Corn Grade L,1.91,Crops,1310
+476,Rice Grade L,1.27,Crops,987
+477,Soybeans Grade L,3.25,Crops,1991
+478,Barley Grade L,0.93,Crops,1639
+479,Oats Grade L,1.54,Crops,554
+480,Quinoa Grade L,5.06,Crops,697
+481,Organic Tomatoes Grade M,3.95,Vegetables,792
+482,Fresh Carrots Grade M,2.07,Vegetables,204
+483,Bell Peppers Grade M,3.92,Vegetables,1004
+484,Cucumbers Grade M,2.59,Vegetables,428
+485,Lettuce Grade M,2.39,Vegetables,1871
+486,Spinach Grade M,3.08,Vegetables,1089
+487,Broccoli Grade M,5.26,Vegetables,1346
+488,Cauliflower Grade M,5.99,Vegetables,426
+489,Zucchini Grade M,2.55,Vegetables,486
+490,Green Beans Grade M,3.36,Vegetables,1341
+491,Potatoes Grade M,2.01,Vegetables,103
+492,Sweet Potatoes Grade M,3.09,Vegetables,1854
+493,Onions Grade M,2,Vegetables,57
+494,Garlic Grade M,6.52,Vegetables,115
+495,Fresh Apples Grade M,2.87,Fruits,1757
+496,Oranges Grade M,3.23,Fruits,712
+497,Bananas Grade M,1.99,Fruits,1405
+498,Strawberries Grade M,5.74,Fruits,746
+499,Blueberries Grade M,10.34,Fruits,1513
+500,Grapes Grade M,4.77,Fruits,749
+501,Watermelon Grade M,8.65,Fruits,1745
+502,Peaches Grade M,5.66,Fruits,262
+503,Pears Grade M,4.53,Fruits,995
+504,Cherries Grade M,8.77,Fruits,1622
+505,Mangoes Grade M,5.62,Fruits,1099
+506,Pineapple Grade M,5.82,Fruits,234
+507,Whole Milk Grade M,6.03,Dairy,616
+508,Fresh Butter Grade M,8.41,Dairy,390
+509,Cheddar Cheese Grade M,8.15,Dairy,36
+510,Mozzarella Cheese Grade M,8.4,Dairy,559
+511,Greek Yogurt Grade M,4.55,Dairy,261
+512,Cream Grade M,6.47,Dairy,1453
+513,Fresh Eggs Grade M,3.17,Dairy,1553
+514,Wheat Grade M,1.03,Crops,1835
+515,Corn Grade M,1.84,Crops,705
+516,Rice Grade M,1.75,Crops,76
+517,Soybeans Grade M,1.65,Crops,1840
+518,Barley Grade M,1.34,Crops,1532
+519,Oats Grade M,2.37,Crops,570
+520,Quinoa Grade M,6.2,Crops,754
+521,Organic Tomatoes Grade N,3.97,Vegetables,266
+522,Fresh Carrots Grade N,1.71,Vegetables,1743
+523,Bell Peppers Grade N,3.1,Vegetables,1111
+524,Cucumbers Grade N,3,Vegetables,925
+525,Lettuce Grade N,2.79,Vegetables,1786
+526,Spinach Grade N,3.12,Vegetables,1769
+527,Broccoli Grade N,3.8,Vegetables,1318
+528,Cauliflower Grade N,4.4,Vegetables,476
+529,Zucchini Grade N,3.56,Vegetables,1311
+530,Green Beans Grade N,2.85,Vegetables,100
+531,Potatoes Grade N,2.07,Vegetables,653
+532,Sweet Potatoes Grade N,2.77,Vegetables,1658
+533,Onions Grade N,1.53,Vegetables,677
+534,Garlic Grade N,5.07,Vegetables,1032
+535,Fresh Apples Grade N,4.8,Fruits,1607
+536,Oranges Grade N,4.4,Fruits,759
+537,Bananas Grade N,1.91,Fruits,1203
+538,Strawberries Grade N,6.35,Fruits,1605
+539,Blueberries Grade N,6.1,Fruits,1473
+540,Grapes Grade N,3.41,Fruits,822
+541,Watermelon Grade N,4.9,Fruits,758
+542,Peaches Grade N,3.76,Fruits,14
+543,Pears Grade N,5.07,Fruits,1254
+544,Cherries Grade N,6.04,Fruits,640
+545,Mangoes Grade N,5.29,Fruits,519
+546,Pineapple Grade N,5.96,Fruits,1532
+547,Whole Milk Grade N,5.34,Dairy,1485
+548,Fresh Butter Grade N,8.07,Dairy,1239
+549,Cheddar Cheese Grade N,9.44,Dairy,1716
+550,Mozzarella Cheese Grade N,5.02,Dairy,1512
+551,Greek Yogurt Grade N,4.53,Dairy,689
+552,Cream Grade N,4.84,Dairy,1137
+553,Fresh Eggs Grade N,4.71,Dairy,1173
+554,Wheat Grade N,1.66,Crops,1106
+555,Corn Grade N,1.81,Crops,1486
+556,Rice Grade N,2.52,Crops,1927
+557,Soybeans Grade N,1.95,Crops,1952
+558,Barley Grade N,1.31,Crops,1138
+559,Oats Grade N,1.32,Crops,62
+560,Quinoa Grade N,7.88,Crops,585
+561,Organic Tomatoes Grade O,4.21,Vegetables,752
+562,Fresh Carrots Grade O,2.9,Vegetables,1141
+563,Bell Peppers Grade O,3.08,Vegetables,94
+564,Cucumbers Grade O,2.58,Vegetables,317
+565,Lettuce Grade O,1.84,Vegetables,300
+566,Spinach Grade O,2.64,Vegetables,828
+567,Broccoli Grade O,5.81,Vegetables,733
+568,Cauliflower Grade O,5.19,Vegetables,961
+569,Zucchini Grade O,2.6,Vegetables,891
+570,Green Beans Grade O,4.94,Vegetables,720
+571,Potatoes Grade O,1.91,Vegetables,909
+572,Sweet Potatoes Grade O,3.37,Vegetables,1352
+573,Onions Grade O,1.33,Vegetables,1664
+574,Garlic Grade O,5.53,Vegetables,502
+575,Fresh Apples Grade O,3.17,Fruits,321
+576,Oranges Grade O,2.68,Fruits,898
+577,Bananas Grade O,2.24,Fruits,607
+578,Strawberries Grade O,7.41,Fruits,320
+579,Blueberries Grade O,7.76,Fruits,1114
+580,Grapes Grade O,4.31,Fruits,1469
+581,Watermelon Grade O,7.65,Fruits,810
+582,Peaches Grade O,5.22,Fruits,1633
+583,Pears Grade O,4.74,Fruits,945
+584,Cherries Grade O,11.58,Fruits,693
+585,Mangoes Grade O,3.23,Fruits,1682
+586,Pineapple Grade O,6.57,Fruits,727
+587,Whole Milk Grade O,4.91,Dairy,1383
+588,Fresh Butter Grade O,8.27,Dairy,363
+589,Cheddar Cheese Grade O,9.1,Dairy,844
+590,Mozzarella Cheese Grade O,4.86,Dairy,1580
+591,Greek Yogurt Grade O,5.31,Dairy,496
+592,Cream Grade O,6.9,Dairy,1802
+593,Fresh Eggs Grade O,3.9,Dairy,135
+594,Wheat Grade O,1.22,Crops,39
+595,Corn Grade O,1.11,Crops,890
+596,Rice Grade O,1.29,Crops,477
+597,Soybeans Grade O,1.8,Crops,578
+598,Barley Grade O,1.82,Crops,582
+599,Oats Grade O,2.28,Crops,178
+600,Quinoa Grade O,5.95,Crops,586
+601,Organic Tomatoes Grade P,3.06,Vegetables,1965
+602,Fresh Carrots Grade P,2.61,Vegetables,351
+603,Bell Peppers Grade P,4.18,Vegetables,1557
+604,Cucumbers Grade P,2.25,Vegetables,558
+605,Lettuce Grade P,2.36,Vegetables,153
+606,Spinach Grade P,3.54,Vegetables,433
+607,Broccoli Grade P,5.39,Vegetables,592
+608,Cauliflower Grade P,4.33,Vegetables,384
+609,Zucchini Grade P,2.5,Vegetables,417
+610,Green Beans Grade P,4.23,Vegetables,1093
+611,Potatoes Grade P,1.52,Vegetables,803
+612,Sweet Potatoes Grade P,3.36,Vegetables,1986
+613,Onions Grade P,2.31,Vegetables,1305
+614,Garlic Grade P,4.89,Vegetables,406
+615,Fresh Apples Grade P,3.47,Fruits,1822
+616,Oranges Grade P,3.47,Fruits,1921
+617,Bananas Grade P,2.67,Fruits,1628
+618,Strawberries Grade P,7.87,Fruits,15
+619,Blueberries Grade P,8.47,Fruits,615
+620,Grapes Grade P,5.75,Fruits,1339
+621,Watermelon Grade P,8.28,Fruits,754
+622,Peaches Grade P,4.43,Fruits,932
+623,Pears Grade P,3.86,Fruits,129
+624,Cherries Grade P,7.23,Fruits,1715
+625,Mangoes Grade P,3.95,Fruits,685
+626,Pineapple Grade P,3.76,Fruits,1464
+627,Whole Milk Grade P,6.24,Dairy,1349
+628,Fresh Butter Grade P,5.96,Dairy,1737
+629,Cheddar Cheese Grade P,8.05,Dairy,1632
+630,Mozzarella Cheese Grade P,5.01,Dairy,806
+631,Greek Yogurt Grade P,4.83,Dairy,1523
+632,Cream Grade P,6.99,Dairy,699
+633,Fresh Eggs Grade P,4.85,Dairy,1094
+634,Wheat Grade P,1.18,Crops,1056
+635,Corn Grade P,1.62,Crops,1702
+636,Rice Grade P,2.31,Crops,1495
+637,Soybeans Grade P,3.16,Crops,415
+638,Barley Grade P,1.55,Crops,813
+639,Oats Grade P,1.24,Crops,1592
+640,Quinoa Grade P,8.56,Crops,2000
+641,Organic Tomatoes Grade Q,4.57,Vegetables,1967
+642,Fresh Carrots Grade Q,3.32,Vegetables,1254
+643,Bell Peppers Grade Q,3.59,Vegetables,1357
+644,Cucumbers Grade Q,3.18,Vegetables,284
+645,Lettuce Grade Q,1.85,Vegetables,1003
+646,Spinach Grade Q,4.27,Vegetables,1408
+647,Broccoli Grade Q,2.97,Vegetables,756
+648,Cauliflower Grade Q,6.37,Vegetables,1310
+649,Zucchini Grade Q,2.32,Vegetables,1610
+650,Green Beans Grade Q,3.83,Vegetables,1687
+651,Potatoes Grade Q,1.82,Vegetables,1815
+652,Sweet Potatoes Grade Q,3.13,Vegetables,1020
+653,Onions Grade Q,2.08,Vegetables,322
+654,Garlic Grade Q,6.11,Vegetables,1147
+655,Fresh Apples Grade Q,5.23,Fruits,31
+656,Oranges Grade Q,2.1,Fruits,1959
+657,Bananas Grade Q,2.06,Fruits,8
+658,Strawberries Grade Q,4.09,Fruits,1899
+659,Blueberries Grade Q,8.46,Fruits,1063
+660,Grapes Grade Q,3.8,Fruits,62
+661,Watermelon Grade Q,8.39,Fruits,169
+662,Peaches Grade Q,5.62,Fruits,1179
+663,Pears Grade Q,4.88,Fruits,593
+664,Cherries Grade Q,11.09,Fruits,835
+665,Mangoes Grade Q,5.75,Fruits,126
+666,Pineapple Grade Q,6.9,Fruits,1595
+667,Whole Milk Grade Q,3.54,Dairy,1885
+668,Fresh Butter Grade Q,7.32,Dairy,1068
+669,Cheddar Cheese Grade Q,9.12,Dairy,497
+670,Mozzarella Cheese Grade Q,5.25,Dairy,187
+671,Greek Yogurt Grade Q,5.18,Dairy,645
+672,Cream Grade Q,7.65,Dairy,1608
+673,Fresh Eggs Grade Q,3.88,Dairy,1684
+674,Wheat Grade Q,1.66,Crops,176
+675,Corn Grade Q,1.89,Crops,1830
+676,Rice Grade Q,1.69,Crops,9
+677,Soybeans Grade Q,1.61,Crops,1649
+678,Barley Grade Q,0.99,Crops,1680
+679,Oats Grade Q,1.95,Crops,1248
+680,Quinoa Grade Q,5.64,Crops,867
+681,Organic Tomatoes Grade R,2.79,Vegetables,1484
+682,Fresh Carrots Grade R,2.67,Vegetables,777
+683,Bell Peppers Grade R,2.93,Vegetables,289
+684,Cucumbers Grade R,2.17,Vegetables,692
+685,Lettuce Grade R,2.65,Vegetables,1756
+686,Spinach Grade R,4.29,Vegetables,1604
+687,Broccoli Grade R,3.18,Vegetables,58
+688,Cauliflower Grade R,3.22,Vegetables,799
+689,Zucchini Grade R,2.23,Vegetables,1046
+690,Green Beans Grade R,3.74,Vegetables,1117
+691,Potatoes Grade R,2.26,Vegetables,1861
+692,Sweet Potatoes Grade R,3.16,Vegetables,1977
+693,Onions Grade R,1.22,Vegetables,240
+694,Garlic Grade R,6.42,Vegetables,1938
+695,Fresh Apples Grade R,3.74,Fruits,1297
+696,Oranges Grade R,3.04,Fruits,1557
+697,Bananas Grade R,2.22,Fruits,1319
+698,Strawberries Grade R,4.25,Fruits,232
+699,Blueberries Grade R,5.76,Fruits,365
+700,Grapes Grade R,4.47,Fruits,1549
+701,Watermelon Grade R,5.48,Fruits,746
+702,Peaches Grade R,6.59,Fruits,1114
+703,Pears Grade R,3.19,Fruits,1804
+704,Cherries Grade R,10.73,Fruits,1315
+705,Mangoes Grade R,3.26,Fruits,852
+706,Pineapple Grade R,4.85,Fruits,1159
+707,Whole Milk Grade R,3.59,Dairy,1611
+708,Fresh Butter Grade R,5.89,Dairy,997
+709,Cheddar Cheese Grade R,9.44,Dairy,385
+710,Mozzarella Cheese Grade R,4.68,Dairy,1490
+711,Greek Yogurt Grade R,6.86,Dairy,1128
+712,Cream Grade R,6.02,Dairy,206
+713,Fresh Eggs Grade R,3.85,Dairy,1325
+714,Wheat Grade R,1.26,Crops,1341
+715,Corn Grade R,1.45,Crops,87
+716,Rice Grade R,1.94,Crops,708
+717,Soybeans Grade R,3.08,Crops,1271
+718,Barley Grade R,1.12,Crops,99
+719,Oats Grade R,1.6,Crops,1485
+720,Quinoa Grade R,8.21,Crops,578
+721,Organic Tomatoes Grade S,3.43,Vegetables,1780
+722,Fresh Carrots Grade S,3.46,Vegetables,1649
+723,Bell Peppers Grade S,2.38,Vegetables,1507
+724,Cucumbers Grade S,1.89,Vegetables,935
+725,Lettuce Grade S,2.34,Vegetables,491
+726,Spinach Grade S,4.48,Vegetables,607
+727,Broccoli Grade S,3.36,Vegetables,15
+728,Cauliflower Grade S,4.46,Vegetables,1714
+729,Zucchini Grade S,3.98,Vegetables,1693
+730,Green Beans Grade S,4.28,Vegetables,803
+731,Potatoes Grade S,1.42,Vegetables,1362
+732,Sweet Potatoes Grade S,3.2,Vegetables,30
+733,Onions Grade S,1.36,Vegetables,331
+734,Garlic Grade S,6.21,Vegetables,1204
+735,Fresh Apples Grade S,4.62,Fruits,1575
+736,Oranges Grade S,4.1,Fruits,1573
+737,Bananas Grade S,1.82,Fruits,1553
+738,Strawberries Grade S,5.54,Fruits,1809
+739,Blueberries Grade S,9.25,Fruits,1100
+740,Grapes Grade S,4.56,Fruits,343
+741,Watermelon Grade S,5.85,Fruits,926
+742,Peaches Grade S,4.56,Fruits,1219
+743,Pears Grade S,5.15,Fruits,729
+744,Cherries Grade S,6.08,Fruits,548
+745,Mangoes Grade S,5.33,Fruits,1028
+746,Pineapple Grade S,5.02,Fruits,1603
+747,Whole Milk Grade S,4.72,Dairy,346
+748,Fresh Butter Grade S,5.79,Dairy,1464
+749,Cheddar Cheese Grade S,6.1,Dairy,1763
+750,Mozzarella Cheese Grade S,8.97,Dairy,242
+751,Greek Yogurt Grade S,5.43,Dairy,820
+752,Cream Grade S,5.51,Dairy,535
+753,Fresh Eggs Grade S,3.18,Dairy,527
+754,Wheat Grade S,1.42,Crops,1064
+755,Corn Grade S,2.22,Crops,254
+756,Rice Grade S,1.95,Crops,1438
+757,Soybeans Grade S,2.08,Crops,180
+758,Barley Grade S,1.7,Crops,1986
+759,Oats Grade S,1.97,Crops,1763
+760,Quinoa Grade S,6.27,Crops,2000
+761,Organic Tomatoes Grade T,3.52,Vegetables,1665
+762,Fresh Carrots Grade T,3.43,Vegetables,658
+763,Bell Peppers Grade T,2.45,Vegetables,1726
+764,Cucumbers Grade T,2.96,Vegetables,796
+765,Lettuce Grade T,2.57,Vegetables,1469
+766,Spinach Grade T,5.15,Vegetables,1329
+767,Broccoli Grade T,3.98,Vegetables,763
+768,Cauliflower Grade T,5.71,Vegetables,1192
+769,Zucchini Grade T,2.84,Vegetables,796
+770,Green Beans Grade T,3.95,Vegetables,1584
+771,Potatoes Grade T,1.49,Vegetables,1092
+772,Sweet Potatoes Grade T,2.06,Vegetables,793
+773,Onions Grade T,1.8,Vegetables,910
+774,Garlic Grade T,5.27,Vegetables,1385
+775,Fresh Apples Grade T,4.09,Fruits,914
+776,Oranges Grade T,3.09,Fruits,746
+777,Bananas Grade T,1.58,Fruits,457
+778,Strawberries Grade T,8.27,Fruits,1243
+779,Blueberries Grade T,8.94,Fruits,707
+780,Grapes Grade T,3.45,Fruits,1638
+781,Watermelon Grade T,8.88,Fruits,1093
+782,Peaches Grade T,6.95,Fruits,24
+783,Pears Grade T,5.33,Fruits,916
+784,Cherries Grade T,9.43,Fruits,1399
+785,Mangoes Grade T,4.46,Fruits,1919
+786,Pineapple Grade T,5.81,Fruits,661
+787,Whole Milk Grade T,3.59,Dairy,1686
+788,Fresh Butter Grade T,7.41,Dairy,1847
+789,Cheddar Cheese Grade T,7.38,Dairy,389
+790,Mozzarella Cheese Grade T,4.64,Dairy,693
+791,Greek Yogurt Grade T,4.82,Dairy,260
+792,Cream Grade T,4.97,Dairy,14
+793,Fresh Eggs Grade T,4.37,Dairy,1518
+794,Wheat Grade T,1.74,Crops,1069
+795,Corn Grade T,1.67,Crops,1444
+796,Rice Grade T,2.48,Crops,1951
+797,Soybeans Grade T,2.14,Crops,696
+798,Barley Grade T,1.99,Crops,1999
+799,Oats Grade T,2.21,Crops,1523
+800,Quinoa Grade T,5.62,Crops,1284
+801,Organic Tomatoes Grade U,2.56,Vegetables,693
+802,Fresh Carrots Grade U,2.91,Vegetables,874
+803,Bell Peppers Grade U,2.36,Vegetables,941
+804,Cucumbers Grade U,2.03,Vegetables,1320
+805,Lettuce Grade U,1.86,Vegetables,1757
+806,Spinach Grade U,4.22,Vegetables,1879
+807,Broccoli Grade U,5.11,Vegetables,1786
+808,Cauliflower Grade U,4.32,Vegetables,1688
+809,Zucchini Grade U,3.65,Vegetables,589
+810,Green Beans Grade U,4.16,Vegetables,199
+811,Potatoes Grade U,1.46,Vegetables,1154
+812,Sweet Potatoes Grade U,3.16,Vegetables,347
+813,Onions Grade U,1.21,Vegetables,862
+814,Garlic Grade U,3.92,Vegetables,1601
+815,Fresh Apples Grade U,5.36,Fruits,1540
+816,Oranges Grade U,3.43,Fruits,467
+817,Bananas Grade U,2.13,Fruits,729
+818,Strawberries Grade U,5.28,Fruits,972
+819,Blueberries Grade U,9.87,Fruits,284
+820,Grapes Grade U,5.46,Fruits,1391
+821,Watermelon Grade U,5.13,Fruits,257
+822,Peaches Grade U,5.58,Fruits,742
+823,Pears Grade U,3.74,Fruits,1684
+824,Cherries Grade U,9.02,Fruits,1938
+825,Mangoes Grade U,4.36,Fruits,1508
+826,Pineapple Grade U,5.36,Fruits,1222
+827,Whole Milk Grade U,6.47,Dairy,1377
+828,Fresh Butter Grade U,5.91,Dairy,296
+829,Cheddar Cheese Grade U,9.19,Dairy,1570
+830,Mozzarella Cheese Grade U,6.66,Dairy,1621
+831,Greek Yogurt Grade U,4.51,Dairy,90
+832,Cream Grade U,6.05,Dairy,1081
+833,Fresh Eggs Grade U,5.39,Dairy,1795
+834,Wheat Grade U,1.21,Crops,475
+835,Corn Grade U,1.4,Crops,901
+836,Rice Grade U,1.76,Crops,841
+837,Soybeans Grade U,2.23,Crops,63
+838,Barley Grade U,0.91,Crops,464
+839,Oats Grade U,1.88,Crops,86
+840,Quinoa Grade U,4.68,Crops,961
+841,Organic Tomatoes Grade V,2.91,Vegetables,993
+842,Fresh Carrots Grade V,2.37,Vegetables,1815
+843,Bell Peppers Grade V,2.87,Vegetables,278
+844,Cucumbers Grade V,3.39,Vegetables,425
+845,Lettuce Grade V,1.95,Vegetables,928
+846,Spinach Grade V,4.38,Vegetables,374
+847,Broccoli Grade V,3.16,Vegetables,527
+848,Cauliflower Grade V,5.57,Vegetables,208
+849,Zucchini Grade V,2.71,Vegetables,227
+850,Green Beans Grade V,4.44,Vegetables,378
+851,Potatoes Grade V,2.31,Vegetables,61
+852,Sweet Potatoes Grade V,1.95,Vegetables,1906
+853,Onions Grade V,1.67,Vegetables,1296
+854,Garlic Grade V,5.09,Vegetables,130
+855,Fresh Apples Grade V,4.17,Fruits,1330
+856,Oranges Grade V,4.23,Fruits,471
+857,Bananas Grade V,2.67,Fruits,1870
+858,Strawberries Grade V,5.44,Fruits,591
+859,Blueberries Grade V,7.16,Fruits,1465
+860,Grapes Grade V,3.95,Fruits,635
+861,Watermelon Grade V,5.09,Fruits,123
+862,Peaches Grade V,6.66,Fruits,1794
+863,Pears Grade V,4.52,Fruits,1812
+864,Cherries Grade V,9.05,Fruits,215
+865,Mangoes Grade V,5.92,Fruits,1811
+866,Pineapple Grade V,6.39,Fruits,1290
+867,Whole Milk Grade V,6.38,Dairy,1011
+868,Fresh Butter Grade V,8.5,Dairy,211
+869,Cheddar Cheese Grade V,5.31,Dairy,1306
+870,Mozzarella Cheese Grade V,6.55,Dairy,1512
+871,Greek Yogurt Grade V,5.1,Dairy,1185
+872,Cream Grade V,7.39,Dairy,1442
+873,Fresh Eggs Grade V,6.11,Dairy,164
+874,Wheat Grade V,0.81,Crops,1723
+875,Corn Grade V,1.97,Crops,764
+876,Rice Grade V,2,Crops,540
+877,Soybeans Grade V,3.09,Crops,1998
+878,Barley Grade V,1.18,Crops,1025
+879,Oats Grade V,2.46,Crops,187
+880,Quinoa Grade V,6.4,Crops,1906
+881,Organic Tomatoes Grade W,4.44,Vegetables,401
+882,Fresh Carrots Grade W,3.01,Vegetables,808
+883,Bell Peppers Grade W,2.79,Vegetables,988
+884,Cucumbers Grade W,3.7,Vegetables,1129
+885,Lettuce Grade W,2.92,Vegetables,1571
+886,Spinach Grade W,4.67,Vegetables,1207
+887,Broccoli Grade W,4.16,Vegetables,1443
+888,Cauliflower Grade W,5.24,Vegetables,316
+889,Zucchini Grade W,2.41,Vegetables,916
+890,Green Beans Grade W,2.74,Vegetables,1667
+891,Potatoes Grade W,2.42,Vegetables,734
+892,Sweet Potatoes Grade W,2.7,Vegetables,1269
+893,Onions Grade W,2.25,Vegetables,1537
+894,Garlic Grade W,3.83,Vegetables,1699
+895,Fresh Apples Grade W,4.01,Fruits,893
+896,Oranges Grade W,2.44,Fruits,60
+897,Bananas Grade W,2.79,Fruits,1233
+898,Strawberries Grade W,5.29,Fruits,1163
+899,Blueberries Grade W,10.83,Fruits,1537
+900,Grapes Grade W,4.76,Fruits,781
+901,Watermelon Grade W,7.93,Fruits,1715
+902,Peaches Grade W,4.78,Fruits,418
+903,Pears Grade W,4.51,Fruits,1172
+904,Cherries Grade W,6.51,Fruits,352
+905,Mangoes Grade W,5.38,Fruits,232
+906,Pineapple Grade W,3.79,Fruits,1212
+907,Whole Milk Grade W,5.95,Dairy,276
+908,Fresh Butter Grade W,5.52,Dairy,1660
+909,Cheddar Cheese Grade W,5.21,Dairy,368
+910,Mozzarella Cheese Grade W,7.01,Dairy,532
+911,Greek Yogurt Grade W,6.88,Dairy,162
+912,Cream Grade W,6.2,Dairy,1068
+913,Fresh Eggs Grade W,3.76,Dairy,25
+914,Wheat Grade W,1.51,Crops,587
+915,Corn Grade W,1.95,Crops,1620
+916,Rice Grade W,1.27,Crops,69
+917,Soybeans Grade W,1.75,Crops,1377
+918,Barley Grade W,1.47,Crops,75
+919,Oats Grade W,1.59,Crops,1876
+920,Quinoa Grade W,5,Crops,1100
+921,Organic Tomatoes Grade X,2.91,Vegetables,1281
+922,Fresh Carrots Grade X,3.24,Vegetables,1213
+923,Bell Peppers Grade X,2.65,Vegetables,1240
+924,Cucumbers Grade X,2.83,Vegetables,1145
+925,Lettuce Grade X,2.76,Vegetables,929
+926,Spinach Grade X,2.52,Vegetables,253
+927,Broccoli Grade X,4.2,Vegetables,1566
+928,Cauliflower Grade X,6.32,Vegetables,1550
+929,Zucchini Grade X,3.97,Vegetables,966
+930,Green Beans Grade X,3.24,Vegetables,1417
+931,Potatoes Grade X,1.48,Vegetables,147
+932,Sweet Potatoes Grade X,3.23,Vegetables,594
+933,Onions Grade X,1.48,Vegetables,745
+934,Garlic Grade X,6.82,Vegetables,137
+935,Fresh Apples Grade X,4.65,Fruits,1973
+936,Oranges Grade X,2.01,Fruits,1957
+937,Bananas Grade X,1.84,Fruits,107
+938,Strawberries Grade X,5.31,Fruits,1305
+939,Blueberries Grade X,7.42,Fruits,929
+940,Grapes Grade X,6.24,Fruits,51
+941,Watermelon Grade X,6.5,Fruits,1677
+942,Peaches Grade X,6.05,Fruits,1794
+943,Pears Grade X,4.85,Fruits,1582
+944,Cherries Grade X,6.83,Fruits,1322
+945,Mangoes Grade X,3.07,Fruits,1668
+946,Pineapple Grade X,6.04,Fruits,1811
+947,Whole Milk Grade X,4.14,Dairy,111
+948,Fresh Butter Grade X,7.75,Dairy,1911
+949,Cheddar Cheese Grade X,8.77,Dairy,1808
+950,Mozzarella Cheese Grade X,8.79,Dairy,1328
+951,Greek Yogurt Grade X,5.17,Dairy,1975
+952,Cream Grade X,5.66,Dairy,594
+953,Fresh Eggs Grade X,5.49,Dairy,1728
+954,Wheat Grade X,1.06,Crops,477
+955,Corn Grade X,1.79,Crops,491
+956,Rice Grade X,2.41,Crops,973
+957,Soybeans Grade X,3.47,Crops,1419
+958,Barley Grade X,1.08,Crops,425
+959,Oats Grade X,1.55,Crops,181
+960,Quinoa Grade X,5.58,Crops,1094
+961,Organic Tomatoes Grade Y,3.86,Vegetables,912
+962,Fresh Carrots Grade Y,2.07,Vegetables,21
+963,Bell Peppers Grade Y,2.25,Vegetables,1513
+964,Cucumbers Grade Y,3.67,Vegetables,1432
+965,Lettuce Grade Y,2.49,Vegetables,243
+966,Spinach Grade Y,3.42,Vegetables,1980
+967,Broccoli Grade Y,3.17,Vegetables,1455
+968,Cauliflower Grade Y,5.07,Vegetables,1673
+969,Zucchini Grade Y,2.87,Vegetables,1936
+970,Green Beans Grade Y,4.81,Vegetables,277
+971,Potatoes Grade Y,1.8,Vegetables,1613
+972,Sweet Potatoes Grade Y,2.46,Vegetables,1435
+973,Onions Grade Y,1.91,Vegetables,438
+974,Garlic Grade Y,3.79,Vegetables,1301
+975,Fresh Apples Grade Y,3.9,Fruits,864
+976,Oranges Grade Y,3.75,Fruits,372
+977,Bananas Grade Y,2.87,Fruits,1980
+978,Strawberries Grade Y,6.24,Fruits,9
+979,Blueberries Grade Y,9.46,Fruits,488
+980,Grapes Grade Y,5.58,Fruits,463
+981,Watermelon Grade Y,8.66,Fruits,715
+982,Peaches Grade Y,4.65,Fruits,1054
+983,Pears Grade Y,5.3,Fruits,562
+984,Cherries Grade Y,11.31,Fruits,1794
+985,Mangoes Grade Y,5.78,Fruits,1139
+986,Pineapple Grade Y,5.42,Fruits,1724
+987,Whole Milk Grade Y,6,Dairy,320
+988,Fresh Butter Grade Y,6.93,Dairy,1706
+989,Cheddar Cheese Grade Y,7.71,Dairy,362
+990,Mozzarella Cheese Grade Y,7.36,Dairy,1080
+991,Greek Yogurt Grade Y,5.34,Dairy,1338
+992,Cream Grade Y,4.84,Dairy,1178
+993,Fresh Eggs Grade Y,3.53,Dairy,1573
+994,Wheat Grade Y,1.22,Crops,945
+995,Corn Grade Y,1.49,Crops,1263
+996,Rice Grade Y,1.94,Crops,168
+997,Soybeans Grade Y,1.98,Crops,1983
+998,Barley Grade Y,1.38,Crops,1649
+999,Oats Grade Y,1.38,Crops,1535
+1000,Quinoa Grade Y,6.34,Crops,1501
+1001,Organic Tomatoes Grade Z,4.17,Vegetables,1962
+1002,Fresh Carrots Grade Z,3.36,Vegetables,1936
+1003,Bell Peppers Grade Z,3.64,Vegetables,954
+1004,Cucumbers Grade Z,3.53,Vegetables,1668
+1005,Lettuce Grade Z,1.85,Vegetables,1778
+1006,Spinach Grade Z,4.28,Vegetables,1471
+1007,Broccoli Grade Z,4.02,Vegetables,254
+1008,Cauliflower Grade Z,4.71,Vegetables,1448
+1009,Zucchini Grade Z,3.29,Vegetables,58
+1010,Green Beans Grade Z,4.44,Vegetables,754
+1011,Potatoes Grade Z,2.6,Vegetables,1188
+1012,Sweet Potatoes Grade Z,3.1,Vegetables,47
+1013,Onions Grade Z,1.29,Vegetables,378
+1014,Garlic Grade Z,6.99,Vegetables,1846
+1015,Fresh Apples Grade Z,4.61,Fruits,1145
+1016,Oranges Grade Z,3.48,Fruits,1511
+1017,Bananas Grade Z,2.04,Fruits,1387
+1018,Strawberries Grade Z,7.8,Fruits,208
+1019,Blueberries Grade Z,9.72,Fruits,448
+1020,Grapes Grade Z,6.37,Fruits,1073
+1021,Watermelon Grade Z,6.43,Fruits,135
+1022,Peaches Grade Z,5.82,Fruits,827
+1023,Pears Grade Z,4.62,Fruits,377
+1024,Cherries Grade Z,11.97,Fruits,65
+1025,Mangoes Grade Z,3.57,Fruits,26
+1026,Pineapple Grade Z,4.79,Fruits,1319
+1027,Whole Milk Grade Z,6.2,Dairy,539
+1028,Fresh Butter Grade Z,4.93,Dairy,1672
+1029,Cheddar Cheese Grade Z,8.03,Dairy,506
+1030,Mozzarella Cheese Grade Z,4.74,Dairy,1570
+1031,Greek Yogurt Grade Z,6.81,Dairy,1816
+1032,Cream Grade Z,4.39,Dairy,1865
+1033,Fresh Eggs Grade Z,3.32,Dairy,91
+1034,Wheat Grade Z,1.64,Crops,388
+1035,Corn Grade Z,1.3,Crops,933
+1036,Rice Grade Z,2.32,Crops,458
+1037,Soybeans Grade Z,2.48,Crops,907
+1038,Barley Grade Z,1.81,Crops,352
+1039,Oats Grade Z,1.38,Crops,625
+1040,Quinoa Grade Z,8.94,Crops,1899
+1041,Organic Tomatoes Grade [,2.63,Vegetables,1814
+1042,Fresh Carrots Grade [,2.29,Vegetables,1037
+1043,Bell Peppers Grade [,4.39,Vegetables,1494
+1044,Cucumbers Grade [,3.14,Vegetables,1163
+1045,Lettuce Grade [,2.77,Vegetables,331
+1046,Spinach Grade [,2.81,Vegetables,1623
+1047,Broccoli Grade [,4.34,Vegetables,522
+1048,Cauliflower Grade [,5.34,Vegetables,1816
+1049,Zucchini Grade [,2.18,Vegetables,704
+1050,Green Beans Grade [,2.82,Vegetables,119
+1051,Potatoes Grade [,1.3,Vegetables,947
+1052,Sweet Potatoes Grade [,2,Vegetables,1116
+1053,Onions Grade [,1.25,Vegetables,264
+1054,Garlic Grade [,4.3,Vegetables,13
+1055,Fresh Apples Grade [,5.48,Fruits,525
+1056,Oranges Grade [,4.11,Fruits,1925
+1057,Bananas Grade [,1.69,Fruits,25
+1058,Strawberries Grade [,8.03,Fruits,1807
+1059,Blueberries Grade [,7.42,Fruits,1473
+1060,Grapes Grade [,3.07,Fruits,890
+1061,Watermelon Grade [,8.63,Fruits,301
+1062,Peaches Grade [,4.68,Fruits,1578
+1063,Pears Grade [,2.99,Fruits,445
+1064,Cherries Grade [,10.71,Fruits,686
+1065,Mangoes Grade [,3.05,Fruits,1753
+1066,Pineapple Grade [,5.37,Fruits,803
+1067,Whole Milk Grade [,6.28,Dairy,273
+1068,Fresh Butter Grade [,8.2,Dairy,182
+1069,Cheddar Cheese Grade [,6.98,Dairy,324
+1070,Mozzarella Cheese Grade [,8.33,Dairy,479
+1071,Greek Yogurt Grade [,6.69,Dairy,2
+1072,Cream Grade [,6.51,Dairy,559
+1073,Fresh Eggs Grade [,5.64,Dairy,1543
+1074,Wheat Grade [,1.29,Crops,133
+1075,Corn Grade [,1.83,Crops,316
+1076,Rice Grade [,2.14,Crops,288
+1077,Soybeans Grade [,2.2,Crops,996
+1078,Barley Grade [,1.6,Crops,1265
+1079,Oats Grade [,1.89,Crops,1973
+1080,Quinoa Grade [,7.64,Crops,1422
+1081,Organic Tomatoes Grade \,4.44,Vegetables,718
+1082,Fresh Carrots Grade \,2.12,Vegetables,1273
+1083,Bell Peppers Grade \,4.19,Vegetables,1997
+1084,Cucumbers Grade \,2.49,Vegetables,282
+1085,Lettuce Grade \,1.79,Vegetables,632
+1086,Spinach Grade \,2.76,Vegetables,262
+1087,Broccoli Grade \,3.53,Vegetables,1494
+1088,Cauliflower Grade \,3.26,Vegetables,1980
+1089,Zucchini Grade \,2.64,Vegetables,1942
+1090,Green Beans Grade \,4.02,Vegetables,970
+1091,Potatoes Grade \,1.65,Vegetables,1219
+1092,Sweet Potatoes Grade \,2.4,Vegetables,1377
+1093,Onions Grade \,1.58,Vegetables,533
+1094,Garlic Grade \,6.64,Vegetables,1880
+1095,Fresh Apples Grade \,3.2,Fruits,1907
+1096,Oranges Grade \,2.25,Fruits,399
+1097,Bananas Grade \,2.18,Fruits,1193
+1098,Strawberries Grade \,4.59,Fruits,94
+1099,Blueberries Grade \,10.92,Fruits,89
+1100,Grapes Grade \,3.8,Fruits,1788
+1101,Watermelon Grade \,7.47,Fruits,100
+1102,Peaches Grade \,6.2,Fruits,368
+1103,Pears Grade \,3.06,Fruits,1958
+1104,Cherries Grade \,8.25,Fruits,420
+1105,Mangoes Grade \,4.17,Fruits,1411
+1106,Pineapple Grade \,5.43,Fruits,362
+1107,Whole Milk Grade \,4.07,Dairy,1392
+1108,Fresh Butter Grade \,5.36,Dairy,1109
+1109,Cheddar Cheese Grade \,6.77,Dairy,501
+1110,Mozzarella Cheese Grade \,7.24,Dairy,391
+1111,Greek Yogurt Grade \,3.92,Dairy,1651
+1112,Cream Grade \,7.79,Dairy,649
+1113,Fresh Eggs Grade \,5.65,Dairy,1068
+1114,Wheat Grade \,1.5,Crops,337
+1115,Corn Grade \,1.08,Crops,1795
+1116,Rice Grade \,2.68,Crops,916
+1117,Soybeans Grade \,2.24,Crops,1130
+1118,Barley Grade \,1.54,Crops,1437
+1119,Oats Grade \,2.07,Crops,1973
+1120,Quinoa Grade \,7.93,Crops,1890
+1121,Organic Tomatoes Grade ],4.72,Vegetables,848
+1122,Fresh Carrots Grade ],2.47,Vegetables,1446
+1123,Bell Peppers Grade ],4.08,Vegetables,1133
+1124,Cucumbers Grade ],2.34,Vegetables,1934
+1125,Lettuce Grade ],2.56,Vegetables,1892
+1126,Spinach Grade ],4.04,Vegetables,907
+1127,Broccoli Grade ],5.01,Vegetables,445
+1128,Cauliflower Grade ],4.89,Vegetables,350
+1129,Zucchini Grade ],2.57,Vegetables,1071
+1130,Green Beans Grade ],4.22,Vegetables,1871
+1131,Potatoes Grade ],1.43,Vegetables,1519
+1132,Sweet Potatoes Grade ],2.46,Vegetables,1631
+1133,Onions Grade ],1,Vegetables,1054
+1134,Garlic Grade ],5.12,Vegetables,769
+1135,Fresh Apples Grade ],3.47,Fruits,1436
+1136,Oranges Grade ],2.26,Fruits,1479
+1137,Bananas Grade ],2.07,Fruits,552
+1138,Strawberries Grade ],7.75,Fruits,1658
+1139,Blueberries Grade ],10.18,Fruits,1982
+1140,Grapes Grade ],5.42,Fruits,1759
+1141,Watermelon Grade ],6.53,Fruits,377
+1142,Peaches Grade ],5.13,Fruits,1173
+1143,Pears Grade ],3.1,Fruits,645
+1144,Cherries Grade ],10.17,Fruits,281
+1145,Mangoes Grade ],4.19,Fruits,1550
+1146,Pineapple Grade ],6.57,Fruits,1602
+1147,Whole Milk Grade ],4.56,Dairy,571
+1148,Fresh Butter Grade ],7.7,Dairy,168
+1149,Cheddar Cheese Grade ],6.97,Dairy,1557
+1150,Mozzarella Cheese Grade ],8.57,Dairy,1256
+1151,Greek Yogurt Grade ],6.69,Dairy,563
+1152,Cream Grade ],7.58,Dairy,1483
+1153,Fresh Eggs Grade ],3.33,Dairy,1920
+1154,Wheat Grade ],1.78,Crops,1662
+1155,Corn Grade ],1.83,Crops,1962
+1156,Rice Grade ],2.49,Crops,532
+1157,Soybeans Grade ],2.35,Crops,402
+1158,Barley Grade ],1.18,Crops,326
+1159,Oats Grade ],2.18,Crops,1564
+1160,Quinoa Grade ],6.4,Crops,1858
+1161,Organic Tomatoes Grade ^,2.61,Vegetables,539
+1162,Fresh Carrots Grade ^,3.38,Vegetables,649
+1163,Bell Peppers Grade ^,3.93,Vegetables,108
+1164,Cucumbers Grade ^,3.23,Vegetables,415
+1165,Lettuce Grade ^,1.66,Vegetables,449
+1166,Spinach Grade ^,5.13,Vegetables,1928
+1167,Broccoli Grade ^,5.7,Vegetables,1537
+1168,Cauliflower Grade ^,6.32,Vegetables,816
+1169,Zucchini Grade ^,2.25,Vegetables,1808
+1170,Green Beans Grade ^,4.89,Vegetables,1990
+1171,Potatoes Grade ^,2.34,Vegetables,1937
+1172,Sweet Potatoes Grade ^,2.64,Vegetables,988
+1173,Onions Grade ^,2.48,Vegetables,1865
+1174,Garlic Grade ^,3.77,Vegetables,1910
+1175,Fresh Apples Grade ^,3.15,Fruits,127
+1176,Oranges Grade ^,4.03,Fruits,695
+1177,Bananas Grade ^,1.57,Fruits,1908
+1178,Strawberries Grade ^,8.34,Fruits,36
+1179,Blueberries Grade ^,9.89,Fruits,710
+1180,Grapes Grade ^,6.16,Fruits,759
+1181,Watermelon Grade ^,4.8,Fruits,8
+1182,Peaches Grade ^,5.05,Fruits,1679
+1183,Pears Grade ^,3.69,Fruits,91
+1184,Cherries Grade ^,9.21,Fruits,1515
+1185,Mangoes Grade ^,4.9,Fruits,815
+1186,Pineapple Grade ^,3.82,Fruits,1429
+1187,Whole Milk Grade ^,6.4,Dairy,560
+1188,Fresh Butter Grade ^,7.58,Dairy,1517
+1189,Cheddar Cheese Grade ^,5.32,Dairy,1176
+1190,Mozzarella Cheese Grade ^,6.3,Dairy,1344
+1191,Greek Yogurt Grade ^,4.86,Dairy,1482
+1192,Cream Grade ^,5.44,Dairy,1246
+1193,Fresh Eggs Grade ^,3.7,Dairy,1027
+1194,Wheat Grade ^,1.56,Crops,1242
+1195,Corn Grade ^,2.49,Crops,489
+1196,Rice Grade ^,1.3,Crops,800
+1197,Soybeans Grade ^,2.56,Crops,933
+1198,Barley Grade ^,1.91,Crops,1678
+1199,Oats Grade ^,2,Crops,1504
+1200,Quinoa Grade ^,5.21,Crops,1279
+1201,Organic Tomatoes Grade _,4.54,Vegetables,1279
+1202,Fresh Carrots Grade _,3.02,Vegetables,528
+1203,Bell Peppers Grade _,4.08,Vegetables,524
+1204,Cucumbers Grade _,2.4,Vegetables,1094
+1205,Lettuce Grade _,2.69,Vegetables,1393
+1206,Spinach Grade _,4.89,Vegetables,1072
+1207,Broccoli Grade _,5.67,Vegetables,1075
+1208,Cauliflower Grade _,3.15,Vegetables,1531
+1209,Zucchini Grade _,3.75,Vegetables,41
+1210,Green Beans Grade _,3.1,Vegetables,1281
+1211,Potatoes Grade _,2.24,Vegetables,1576
+1212,Sweet Potatoes Grade _,2.34,Vegetables,1289
+1213,Onions Grade _,2.22,Vegetables,1125
+1214,Garlic Grade _,4.53,Vegetables,93
+1215,Fresh Apples Grade _,3.61,Fruits,904
+1216,Oranges Grade _,4.33,Fruits,1165
+1217,Bananas Grade _,2.28,Fruits,284
+1218,Strawberries Grade _,6.56,Fruits,1700
+1219,Blueberries Grade _,6.3,Fruits,441
+1220,Grapes Grade _,4.4,Fruits,1363
+1221,Watermelon Grade _,8.73,Fruits,843
+1222,Peaches Grade _,4.87,Fruits,108
+1223,Pears Grade _,4.5,Fruits,1481
+1224,Cherries Grade _,8.86,Fruits,884
+1225,Mangoes Grade _,3.35,Fruits,240
+1226,Pineapple Grade _,5.93,Fruits,1654
+1227,Whole Milk Grade _,4.48,Dairy,357
+1228,Fresh Butter Grade _,5.95,Dairy,1616
+1229,Cheddar Cheese Grade _,9.59,Dairy,1827
+1230,Mozzarella Cheese Grade _,6.16,Dairy,341
+1231,Greek Yogurt Grade _,6.58,Dairy,1700
+1232,Cream Grade _,7.69,Dairy,996
+1233,Fresh Eggs Grade _,3.75,Dairy,1201
+1234,Wheat Grade _,1.63,Crops,1824
+1235,Corn Grade _,1.89,Crops,402
+1236,Rice Grade _,2.09,Crops,1983
+1237,Soybeans Grade _,2.73,Crops,1743
+1238,Barley Grade _,1.6,Crops,570
+1239,Oats Grade _,1.79,Crops,842
+1240,Quinoa Grade _,6.11,Crops,760
+1241,Organic Tomatoes Grade `,3.23,Vegetables,1820
+1242,Fresh Carrots Grade `,3,Vegetables,239
+1243,Bell Peppers Grade `,4.48,Vegetables,1432
+1244,Cucumbers Grade `,3.14,Vegetables,731
+1245,Lettuce Grade `,2.07,Vegetables,663
+1246,Spinach Grade `,2.91,Vegetables,1598
+1247,Broccoli Grade `,3.01,Vegetables,646
+1248,Cauliflower Grade `,5.99,Vegetables,121
+1249,Zucchini Grade `,3.12,Vegetables,1755
+1250,Green Beans Grade `,3.3,Vegetables,48
+1251,Potatoes Grade `,1.88,Vegetables,1282
+1252,Sweet Potatoes Grade `,3.06,Vegetables,1271
+1253,Onions Grade `,1.4,Vegetables,920
+1254,Garlic Grade `,4.45,Vegetables,106
+1255,Fresh Apples Grade `,4.12,Fruits,1586
+1256,Oranges Grade `,2.83,Fruits,1524
+1257,Bananas Grade `,2.11,Fruits,1022
+1258,Strawberries Grade `,8.46,Fruits,935
+1259,Blueberries Grade `,9.39,Fruits,532
+1260,Grapes Grade `,4.26,Fruits,636
+1261,Watermelon Grade `,7.26,Fruits,1165
+1262,Peaches Grade `,6.33,Fruits,538
+1263,Pears Grade `,3.98,Fruits,881
+1264,Cherries Grade `,7.08,Fruits,444
+1265,Mangoes Grade `,5.96,Fruits,1860
+1266,Pineapple Grade `,4.91,Fruits,579
+1267,Whole Milk Grade `,5.27,Dairy,1416
+1268,Fresh Butter Grade `,5.74,Dairy,42
+1269,Cheddar Cheese Grade `,7.35,Dairy,78
+1270,Mozzarella Cheese Grade `,5.42,Dairy,464
+1271,Greek Yogurt Grade `,5.81,Dairy,556
+1272,Cream Grade `,5.89,Dairy,786
+1273,Fresh Eggs Grade `,6.28,Dairy,1521
+1274,Wheat Grade `,1.77,Crops,1038
+1275,Corn Grade `,1.75,Crops,1109
+1276,Rice Grade `,1.68,Crops,125
+1277,Soybeans Grade `,2.01,Crops,659
+1278,Barley Grade `,1.1,Crops,1926
+1279,Oats Grade `,1.51,Crops,1967
+1280,Quinoa Grade `,7.38,Crops,425
+1281,Organic Tomatoes Grade a,4.19,Vegetables,201
+1282,Fresh Carrots Grade a,3.25,Vegetables,1956
+1283,Bell Peppers Grade a,2.71,Vegetables,1682
+1284,Cucumbers Grade a,3.4,Vegetables,641
+1285,Lettuce Grade a,2.8,Vegetables,1168
+1286,Spinach Grade a,4.5,Vegetables,764
+1287,Broccoli Grade a,3.21,Vegetables,1849
+1288,Cauliflower Grade a,4.14,Vegetables,189
+1289,Zucchini Grade a,2.35,Vegetables,933
+1290,Green Beans Grade a,4.41,Vegetables,603
+1291,Potatoes Grade a,1.78,Vegetables,224
+1292,Sweet Potatoes Grade a,3.25,Vegetables,1279
+1293,Onions Grade a,2.09,Vegetables,932
+1294,Garlic Grade a,4.19,Vegetables,760
+1295,Fresh Apples Grade a,4.92,Fruits,1705
+1296,Oranges Grade a,2.98,Fruits,278
+1297,Bananas Grade a,1.66,Fruits,1323
+1298,Strawberries Grade a,4.98,Fruits,1366
+1299,Blueberries Grade a,9.55,Fruits,1156
+1300,Grapes Grade a,6.27,Fruits,586
+1301,Watermelon Grade a,8.05,Fruits,1150
+1302,Peaches Grade a,5.57,Fruits,145
+1303,Pears Grade a,3.6,Fruits,1580
+1304,Cherries Grade a,10.11,Fruits,1351
+1305,Mangoes Grade a,3.51,Fruits,1697
+1306,Pineapple Grade a,3.51,Fruits,453
+1307,Whole Milk Grade a,5.98,Dairy,746
+1308,Fresh Butter Grade a,5.16,Dairy,223
+1309,Cheddar Cheese Grade a,5.79,Dairy,474
+1310,Mozzarella Cheese Grade a,8.25,Dairy,945
+1311,Greek Yogurt Grade a,5.03,Dairy,1426
+1312,Cream Grade a,7.29,Dairy,1187
+1313,Fresh Eggs Grade a,5.24,Dairy,1050
+1314,Wheat Grade a,1.7,Crops,1810
+1315,Corn Grade a,2.23,Crops,1573
+1316,Rice Grade a,2.77,Crops,1032
+1317,Soybeans Grade a,2.21,Crops,1646
+1318,Barley Grade a,1.08,Crops,810
+1319,Oats Grade a,2.03,Crops,1200
+1320,Quinoa Grade a,5.59,Crops,414
+1321,Organic Tomatoes Grade b,2.69,Vegetables,155
+1322,Fresh Carrots Grade b,2.37,Vegetables,1824
+1323,Bell Peppers Grade b,3.61,Vegetables,624
+1324,Cucumbers Grade b,3.45,Vegetables,932
+1325,Lettuce Grade b,2.58,Vegetables,1767
+1326,Spinach Grade b,2.86,Vegetables,1947
+1327,Broccoli Grade b,2.99,Vegetables,879
+1328,Cauliflower Grade b,3.9,Vegetables,1029
+1329,Zucchini Grade b,2.3,Vegetables,1702
+1330,Green Beans Grade b,3.67,Vegetables,1711
+1331,Potatoes Grade b,1.3,Vegetables,1471
+1332,Sweet Potatoes Grade b,2.15,Vegetables,1141
+1333,Onions Grade b,1.78,Vegetables,151
+1334,Garlic Grade b,6.36,Vegetables,482
+1335,Fresh Apples Grade b,3.11,Fruits,620
+1336,Oranges Grade b,3.51,Fruits,165
+1337,Bananas Grade b,2.93,Fruits,1607
+1338,Strawberries Grade b,5.98,Fruits,548
+1339,Blueberries Grade b,7.96,Fruits,848
+1340,Grapes Grade b,6.23,Fruits,1329
+1341,Watermelon Grade b,8.92,Fruits,1793
+1342,Peaches Grade b,6.8,Fruits,534
+1343,Pears Grade b,4.3,Fruits,495
+1344,Cherries Grade b,11.78,Fruits,898
+1345,Mangoes Grade b,5.64,Fruits,588
+1346,Pineapple Grade b,3.9,Fruits,1276
+1347,Whole Milk Grade b,4.57,Dairy,894
+1348,Fresh Butter Grade b,8.42,Dairy,1878
+1349,Cheddar Cheese Grade b,9.34,Dairy,798
+1350,Mozzarella Cheese Grade b,6.91,Dairy,1236
+1351,Greek Yogurt Grade b,5.19,Dairy,168
+1352,Cream Grade b,7.65,Dairy,790
+1353,Fresh Eggs Grade b,6.27,Dairy,615
+1354,Wheat Grade b,1.51,Crops,72
+1355,Corn Grade b,1.49,Crops,974
+1356,Rice Grade b,1.81,Crops,51
+1357,Soybeans Grade b,3.4,Crops,338
+1358,Barley Grade b,1.87,Crops,1594
+1359,Oats Grade b,1.74,Crops,1818
+1360,Quinoa Grade b,6.58,Crops,949
+1361,Organic Tomatoes Grade c,3.02,Vegetables,578
+1362,Fresh Carrots Grade c,1.88,Vegetables,1815
+1363,Bell Peppers Grade c,2.77,Vegetables,1321
+1364,Cucumbers Grade c,3.33,Vegetables,1664
+1365,Lettuce Grade c,1.98,Vegetables,1854
+1366,Spinach Grade c,3.29,Vegetables,860
+1367,Broccoli Grade c,3.65,Vegetables,375
+1368,Cauliflower Grade c,4.57,Vegetables,188
+1369,Zucchini Grade c,3.56,Vegetables,1265
+1370,Green Beans Grade c,4.78,Vegetables,1545
+1371,Potatoes Grade c,2.19,Vegetables,1450
+1372,Sweet Potatoes Grade c,2.85,Vegetables,419
+1373,Onions Grade c,2.26,Vegetables,998
+1374,Garlic Grade c,5.31,Vegetables,711
+1375,Fresh Apples Grade c,2.67,Fruits,731
+1376,Oranges Grade c,3.51,Fruits,644
+1377,Bananas Grade c,2.14,Fruits,408
+1378,Strawberries Grade c,4.42,Fruits,618
+1379,Blueberries Grade c,10.69,Fruits,1670
+1380,Grapes Grade c,5.9,Fruits,1727
+1381,Watermelon Grade c,5.7,Fruits,493
+1382,Peaches Grade c,6.15,Fruits,1377
+1383,Pears Grade c,4.32,Fruits,1118
+1384,Cherries Grade c,10.92,Fruits,741
+1385,Mangoes Grade c,5.59,Fruits,184
+1386,Pineapple Grade c,3.87,Fruits,634
+1387,Whole Milk Grade c,6.13,Dairy,1028
+1388,Fresh Butter Grade c,5.63,Dairy,1021
+1389,Cheddar Cheese Grade c,9.27,Dairy,358
+1390,Mozzarella Cheese Grade c,7.52,Dairy,122
+1391,Greek Yogurt Grade c,5.9,Dairy,1310
+1392,Cream Grade c,4.12,Dairy,1609
+1393,Fresh Eggs Grade c,6.48,Dairy,661
+1394,Wheat Grade c,1.58,Crops,275
+1395,Corn Grade c,1.08,Crops,1534
+1396,Rice Grade c,2.45,Crops,1406
+1397,Soybeans Grade c,2.95,Crops,1897
+1398,Barley Grade c,1.92,Crops,1869
+1399,Oats Grade c,2.06,Crops,710
+1400,Quinoa Grade c,5.03,Crops,1432
+1401,Organic Tomatoes Grade d,4.09,Vegetables,1048
+1402,Fresh Carrots Grade d,3.32,Vegetables,633
+1403,Bell Peppers Grade d,2.74,Vegetables,994
+1404,Cucumbers Grade d,2.96,Vegetables,331
+1405,Lettuce Grade d,2.28,Vegetables,1926
+1406,Spinach Grade d,4.59,Vegetables,235
+1407,Broccoli Grade d,5.9,Vegetables,1702
+1408,Cauliflower Grade d,5.19,Vegetables,1092
+1409,Zucchini Grade d,3.63,Vegetables,852
+1410,Green Beans Grade d,3.91,Vegetables,1050
+1411,Potatoes Grade d,2.54,Vegetables,1387
+1412,Sweet Potatoes Grade d,2.6,Vegetables,255
+1413,Onions Grade d,1.94,Vegetables,1217
+1414,Garlic Grade d,5.26,Vegetables,321
+1415,Fresh Apples Grade d,3.61,Fruits,1158
+1416,Oranges Grade d,3.29,Fruits,1201
+1417,Bananas Grade d,2.37,Fruits,1651
+1418,Strawberries Grade d,5.56,Fruits,844
+1419,Blueberries Grade d,10.2,Fruits,1931
+1420,Grapes Grade d,5.53,Fruits,952
+1421,Watermelon Grade d,6.33,Fruits,1857
+1422,Peaches Grade d,6.36,Fruits,707
+1423,Pears Grade d,3.99,Fruits,1061
+1424,Cherries Grade d,9.55,Fruits,172
+1425,Mangoes Grade d,5.61,Fruits,636
+1426,Pineapple Grade d,6.6,Fruits,1890
+1427,Whole Milk Grade d,3.86,Dairy,1950
+1428,Fresh Butter Grade d,7.3,Dairy,1844
+1429,Cheddar Cheese Grade d,8.43,Dairy,17
+1430,Mozzarella Cheese Grade d,4.74,Dairy,933
+1431,Greek Yogurt Grade d,6.53,Dairy,1581
+1432,Cream Grade d,4.2,Dairy,984
+1433,Fresh Eggs Grade d,3.88,Dairy,972
+1434,Wheat Grade d,1.63,Crops,469
+1435,Corn Grade d,1.49,Crops,1459
+1436,Rice Grade d,2.55,Crops,1476
+1437,Soybeans Grade d,3.41,Crops,1957
+1438,Barley Grade d,0.96,Crops,1872
+1439,Oats Grade d,1.41,Crops,1193
+1440,Quinoa Grade d,5.53,Crops,468
+1441,Organic Tomatoes Grade e,4.93,Vegetables,105
+1442,Fresh Carrots Grade e,3.24,Vegetables,1897
+1443,Bell Peppers Grade e,2.22,Vegetables,998
+1444,Cucumbers Grade e,2.64,Vegetables,1857
+1445,Lettuce Grade e,1.98,Vegetables,200
+1446,Spinach Grade e,2.55,Vegetables,1846
+1447,Broccoli Grade e,3.94,Vegetables,1690
+1448,Cauliflower Grade e,3.97,Vegetables,155
+1449,Zucchini Grade e,3.89,Vegetables,340
+1450,Green Beans Grade e,3.72,Vegetables,487
+1451,Potatoes Grade e,1.54,Vegetables,1676
+1452,Sweet Potatoes Grade e,2.48,Vegetables,952
+1453,Onions Grade e,1.03,Vegetables,510
+1454,Garlic Grade e,4.45,Vegetables,252
+1455,Fresh Apples Grade e,4.6,Fruits,683
+1456,Oranges Grade e,3.67,Fruits,1026
+1457,Bananas Grade e,2.8,Fruits,1134
+1458,Strawberries Grade e,4.17,Fruits,498
+1459,Blueberries Grade e,6.2,Fruits,853
+1460,Grapes Grade e,5.53,Fruits,557
+1461,Watermelon Grade e,8.38,Fruits,1843
+1462,Peaches Grade e,3.54,Fruits,1494
+1463,Pears Grade e,3.77,Fruits,1294
+1464,Cherries Grade e,11.24,Fruits,1525
+1465,Mangoes Grade e,5.93,Fruits,1169
+1466,Pineapple Grade e,5.79,Fruits,932
+1467,Whole Milk Grade e,5.21,Dairy,1284
+1468,Fresh Butter Grade e,5.67,Dairy,530
+1469,Cheddar Cheese Grade e,9.34,Dairy,1896
+1470,Mozzarella Cheese Grade e,6.05,Dairy,768
+1471,Greek Yogurt Grade e,6.7,Dairy,1246
+1472,Cream Grade e,4.82,Dairy,149
+1473,Fresh Eggs Grade e,4.69,Dairy,1396
+1474,Wheat Grade e,1.6,Crops,171
+1475,Corn Grade e,1.24,Crops,543
+1476,Rice Grade e,2.61,Crops,38
+1477,Soybeans Grade e,2.79,Crops,1203
+1478,Barley Grade e,1.99,Crops,477
+1479,Oats Grade e,1.12,Crops,846
+1480,Quinoa Grade e,6.58,Crops,1123
+1481,Organic Tomatoes Grade f,4.77,Vegetables,246
+1482,Fresh Carrots Grade f,2.19,Vegetables,1248
+1483,Bell Peppers Grade f,4.07,Vegetables,1661
+1484,Cucumbers Grade f,2.21,Vegetables,710
+1485,Lettuce Grade f,1.9,Vegetables,1454
+1486,Spinach Grade f,3.85,Vegetables,991
+1487,Broccoli Grade f,4.3,Vegetables,1131
+1488,Cauliflower Grade f,5.75,Vegetables,599
+1489,Zucchini Grade f,3.47,Vegetables,504
+1490,Green Beans Grade f,4.01,Vegetables,1136
+1491,Potatoes Grade f,2.28,Vegetables,695
+1492,Sweet Potatoes Grade f,2.04,Vegetables,1398
+1493,Onions Grade f,1.5,Vegetables,1427
+1494,Garlic Grade f,4.23,Vegetables,386
+1495,Fresh Apples Grade f,4.17,Fruits,576
+1496,Oranges Grade f,3.44,Fruits,193
+1497,Bananas Grade f,2.38,Fruits,659
+1498,Strawberries Grade f,5.89,Fruits,627
+1499,Blueberries Grade f,8.6,Fruits,580
+1500,Grapes Grade f,5.74,Fruits,13
+1501,Watermelon Grade f,6.65,Fruits,553
+1502,Peaches Grade f,4.22,Fruits,1690
+1503,Pears Grade f,4.97,Fruits,1982
+1504,Cherries Grade f,6.71,Fruits,1363
+1505,Mangoes Grade f,3.38,Fruits,903
+1506,Pineapple Grade f,6.25,Fruits,271
+1507,Whole Milk Grade f,6.39,Dairy,750
+1508,Fresh Butter Grade f,7.51,Dairy,710
+1509,Cheddar Cheese Grade f,7.54,Dairy,607
+1510,Mozzarella Cheese Grade f,8.88,Dairy,936
+1511,Greek Yogurt Grade f,5.73,Dairy,644
+1512,Cream Grade f,6.13,Dairy,1603
+1513,Fresh Eggs Grade f,4.6,Dairy,1978
+1514,Wheat Grade f,1.67,Crops,202
+1515,Corn Grade f,2.34,Crops,1580
+1516,Rice Grade f,2.31,Crops,567
+1517,Soybeans Grade f,3.27,Crops,39
+1518,Barley Grade f,1.88,Crops,1586
+1519,Oats Grade f,1.26,Crops,588
+1520,Quinoa Grade f,8.35,Crops,1618
+1521,Organic Tomatoes Grade g,4.71,Vegetables,1106
+1522,Fresh Carrots Grade g,1.77,Vegetables,662
+1523,Bell Peppers Grade g,2.61,Vegetables,712
+1524,Cucumbers Grade g,3.6,Vegetables,1356
+1525,Lettuce Grade g,2.48,Vegetables,1597
+1526,Spinach Grade g,3.76,Vegetables,1797
+1527,Broccoli Grade g,4.84,Vegetables,734
+1528,Cauliflower Grade g,3.43,Vegetables,150
+1529,Zucchini Grade g,2.06,Vegetables,1010
+1530,Green Beans Grade g,2.5,Vegetables,95
+1531,Potatoes Grade g,2.33,Vegetables,490
+1532,Sweet Potatoes Grade g,2.29,Vegetables,1413
+1533,Onions Grade g,2.05,Vegetables,867
+1534,Garlic Grade g,5.19,Vegetables,98
+1535,Fresh Apples Grade g,2.61,Fruits,1245
+1536,Oranges Grade g,3.88,Fruits,537
+1537,Bananas Grade g,2.12,Fruits,900
+1538,Strawberries Grade g,5.17,Fruits,283
+1539,Blueberries Grade g,9,Fruits,1627
+1540,Grapes Grade g,4.52,Fruits,1906
+1541,Watermelon Grade g,6.95,Fruits,1362
+1542,Peaches Grade g,3.95,Fruits,1013
+1543,Pears Grade g,5.27,Fruits,750
+1544,Cherries Grade g,11.45,Fruits,686
+1545,Mangoes Grade g,3.8,Fruits,1747
+1546,Pineapple Grade g,6.87,Fruits,125
+1547,Whole Milk Grade g,5.25,Dairy,1479
+1548,Fresh Butter Grade g,6.85,Dairy,891
+1549,Cheddar Cheese Grade g,6.47,Dairy,1184
+1550,Mozzarella Cheese Grade g,7.3,Dairy,1229
+1551,Greek Yogurt Grade g,5.15,Dairy,905
+1552,Cream Grade g,5.75,Dairy,525
+1553,Fresh Eggs Grade g,4.38,Dairy,378
+1554,Wheat Grade g,1.18,Crops,844
+1555,Corn Grade g,1.62,Crops,1097
+1556,Rice Grade g,1.47,Crops,1843
+1557,Soybeans Grade g,2.32,Crops,877
+1558,Barley Grade g,1.4,Crops,1006
+1559,Oats Grade g,2.34,Crops,1506
+1560,Quinoa Grade g,6.58,Crops,412
+1561,Organic Tomatoes Grade h,2.89,Vegetables,262
+1562,Fresh Carrots Grade h,2.24,Vegetables,563
+1563,Bell Peppers Grade h,3.68,Vegetables,220
+1564,Cucumbers Grade h,1.88,Vegetables,1529
+1565,Lettuce Grade h,2.3,Vegetables,1642
+1566,Spinach Grade h,4.77,Vegetables,679
+1567,Broccoli Grade h,5.73,Vegetables,1973
+1568,Cauliflower Grade h,5.45,Vegetables,952
+1569,Zucchini Grade h,2.66,Vegetables,690
+1570,Green Beans Grade h,4.44,Vegetables,1728
+1571,Potatoes Grade h,2.14,Vegetables,1927
+1572,Sweet Potatoes Grade h,3.02,Vegetables,1260
+1573,Onions Grade h,2.3,Vegetables,919
+1574,Garlic Grade h,5.13,Vegetables,1326
+1575,Fresh Apples Grade h,3.21,Fruits,360
+1576,Oranges Grade h,3.52,Fruits,1668
+1577,Bananas Grade h,1.53,Fruits,107
+1578,Strawberries Grade h,6.01,Fruits,351
+1579,Blueberries Grade h,5.6,Fruits,1996
+1580,Grapes Grade h,3.45,Fruits,96
+1581,Watermelon Grade h,4.86,Fruits,1791
+1582,Peaches Grade h,4.95,Fruits,762
+1583,Pears Grade h,3.18,Fruits,1191
+1584,Cherries Grade h,11.01,Fruits,970
+1585,Mangoes Grade h,3.93,Fruits,819
+1586,Pineapple Grade h,5.42,Fruits,1703
+1587,Whole Milk Grade h,5.12,Dairy,1572
+1588,Fresh Butter Grade h,7.7,Dairy,188
+1589,Cheddar Cheese Grade h,9.78,Dairy,750
+1590,Mozzarella Cheese Grade h,8.03,Dairy,811
+1591,Greek Yogurt Grade h,3.89,Dairy,1638
+1592,Cream Grade h,4.03,Dairy,1429
+1593,Fresh Eggs Grade h,5.81,Dairy,1418
+1594,Wheat Grade h,1.22,Crops,1242
+1595,Corn Grade h,1.02,Crops,603
+1596,Rice Grade h,2.35,Crops,1123
+1597,Soybeans Grade h,2.4,Crops,358
+1598,Barley Grade h,1.82,Crops,1322
+1599,Oats Grade h,1.96,Crops,1067
+1600,Quinoa Grade h,5.73,Crops,1829
+1601,Organic Tomatoes Grade i,4.75,Vegetables,1798
+1602,Fresh Carrots Grade i,3.06,Vegetables,70
+1603,Bell Peppers Grade i,3.57,Vegetables,1997
+1604,Cucumbers Grade i,2.98,Vegetables,1614
+1605,Lettuce Grade i,2.83,Vegetables,1553
+1606,Spinach Grade i,2.94,Vegetables,553
+1607,Broccoli Grade i,5.24,Vegetables,1672
+1608,Cauliflower Grade i,4.31,Vegetables,893
+1609,Zucchini Grade i,2.66,Vegetables,874
+1610,Green Beans Grade i,2.62,Vegetables,1030
+1611,Potatoes Grade i,2.28,Vegetables,53
+1612,Sweet Potatoes Grade i,3.02,Vegetables,1732
+1613,Onions Grade i,1.6,Vegetables,1136
+1614,Garlic Grade i,6.79,Vegetables,1499
+1615,Fresh Apples Grade i,2.52,Fruits,1978
+1616,Oranges Grade i,4.43,Fruits,1299
+1617,Bananas Grade i,2.68,Fruits,201
+1618,Strawberries Grade i,8.42,Fruits,1520
+1619,Blueberries Grade i,8.38,Fruits,1096
+1620,Grapes Grade i,4.5,Fruits,1974
+1621,Watermelon Grade i,7.19,Fruits,63
+1622,Peaches Grade i,6.11,Fruits,265
+1623,Pears Grade i,3.53,Fruits,1528
+1624,Cherries Grade i,7.09,Fruits,1262
+1625,Mangoes Grade i,5.61,Fruits,1045
+1626,Pineapple Grade i,6.45,Fruits,1725
+1627,Whole Milk Grade i,4.68,Dairy,476
+1628,Fresh Butter Grade i,7.78,Dairy,1246
+1629,Cheddar Cheese Grade i,8.82,Dairy,552
+1630,Mozzarella Cheese Grade i,6.91,Dairy,1349
+1631,Greek Yogurt Grade i,4.26,Dairy,1056
+1632,Cream Grade i,4.32,Dairy,1291
+1633,Fresh Eggs Grade i,6.26,Dairy,1745
+1634,Wheat Grade i,1.31,Crops,1204
+1635,Corn Grade i,2.32,Crops,1846
+1636,Rice Grade i,2.19,Crops,599
+1637,Soybeans Grade i,2.64,Crops,907
+1638,Barley Grade i,1.13,Crops,259
+1639,Oats Grade i,1.68,Crops,1876
+1640,Quinoa Grade i,4.71,Crops,1105
+1641,Organic Tomatoes Grade j,3.75,Vegetables,1839
+1642,Fresh Carrots Grade j,2.79,Vegetables,21
+1643,Bell Peppers Grade j,3.02,Vegetables,1845
+1644,Cucumbers Grade j,2.43,Vegetables,643
+1645,Lettuce Grade j,1.54,Vegetables,259
+1646,Spinach Grade j,4.94,Vegetables,1962
+1647,Broccoli Grade j,5.51,Vegetables,2
+1648,Cauliflower Grade j,5.36,Vegetables,1896
+1649,Zucchini Grade j,3.7,Vegetables,60
+1650,Green Beans Grade j,4.18,Vegetables,1567
+1651,Potatoes Grade j,2.79,Vegetables,791
+1652,Sweet Potatoes Grade j,2.86,Vegetables,1199
+1653,Onions Grade j,1.59,Vegetables,996
+1654,Garlic Grade j,4.54,Vegetables,77
+1655,Fresh Apples Grade j,4.5,Fruits,1086
+1656,Oranges Grade j,4.05,Fruits,190
+1657,Bananas Grade j,2.07,Fruits,1321
+1658,Strawberries Grade j,7.45,Fruits,34
+1659,Blueberries Grade j,10.54,Fruits,1876
+1660,Grapes Grade j,4.61,Fruits,92
+1661,Watermelon Grade j,6.85,Fruits,1829
+1662,Peaches Grade j,3.84,Fruits,1017
+1663,Pears Grade j,3.95,Fruits,1402
+1664,Cherries Grade j,9.89,Fruits,93
+1665,Mangoes Grade j,5.56,Fruits,266
+1666,Pineapple Grade j,6.52,Fruits,1678
+1667,Whole Milk Grade j,5.04,Dairy,1652
+1668,Fresh Butter Grade j,5.41,Dairy,1507
+1669,Cheddar Cheese Grade j,6.39,Dairy,1754
+1670,Mozzarella Cheese Grade j,7.39,Dairy,391
+1671,Greek Yogurt Grade j,6.55,Dairy,998
+1672,Cream Grade j,5.52,Dairy,276
+1673,Fresh Eggs Grade j,3.14,Dairy,534
+1674,Wheat Grade j,1.03,Crops,240
+1675,Corn Grade j,1.6,Crops,342
+1676,Rice Grade j,2.16,Crops,876
+1677,Soybeans Grade j,3.01,Crops,1243
+1678,Barley Grade j,0.98,Crops,1548
+1679,Oats Grade j,1.97,Crops,1391
+1680,Quinoa Grade j,7.77,Crops,1158
+1681,Organic Tomatoes Grade k,4.45,Vegetables,462
+1682,Fresh Carrots Grade k,2.03,Vegetables,746
+1683,Bell Peppers Grade k,2.15,Vegetables,234
+1684,Cucumbers Grade k,2.39,Vegetables,73
+1685,Lettuce Grade k,2.14,Vegetables,1281
+1686,Spinach Grade k,4.06,Vegetables,1161
+1687,Broccoli Grade k,4.03,Vegetables,1068
+1688,Cauliflower Grade k,3.23,Vegetables,689
+1689,Zucchini Grade k,3.6,Vegetables,1485
+1690,Green Beans Grade k,2.8,Vegetables,1835
+1691,Potatoes Grade k,1.26,Vegetables,1444
+1692,Sweet Potatoes Grade k,2.15,Vegetables,321
+1693,Onions Grade k,2.24,Vegetables,1487
+1694,Garlic Grade k,6.21,Vegetables,1551
+1695,Fresh Apples Grade k,2.78,Fruits,1556
+1696,Oranges Grade k,4.2,Fruits,805
+1697,Bananas Grade k,2.76,Fruits,1044
+1698,Strawberries Grade k,5.95,Fruits,986
+1699,Blueberries Grade k,7.94,Fruits,578
+1700,Grapes Grade k,3.23,Fruits,1279
+1701,Watermelon Grade k,8.8,Fruits,1904
+1702,Peaches Grade k,4.08,Fruits,664
+1703,Pears Grade k,3.39,Fruits,1179
+1704,Cherries Grade k,8.91,Fruits,1495
+1705,Mangoes Grade k,5.74,Fruits,1674
+1706,Pineapple Grade k,6.38,Fruits,990
+1707,Whole Milk Grade k,4.19,Dairy,1
+1708,Fresh Butter Grade k,5.25,Dairy,65
+1709,Cheddar Cheese Grade k,6.74,Dairy,64
+1710,Mozzarella Cheese Grade k,7,Dairy,1717
+1711,Greek Yogurt Grade k,4.06,Dairy,125
+1712,Cream Grade k,5.98,Dairy,1608
+1713,Fresh Eggs Grade k,4.8,Dairy,1718
+1714,Wheat Grade k,1.53,Crops,558
+1715,Corn Grade k,1.86,Crops,256
+1716,Rice Grade k,2.1,Crops,518
+1717,Soybeans Grade k,2.91,Crops,1312
+1718,Barley Grade k,1.14,Crops,626
+1719,Oats Grade k,2.08,Crops,1739
+1720,Quinoa Grade k,4.53,Crops,1327
+1721,Organic Tomatoes Grade l,4.82,Vegetables,636
+1722,Fresh Carrots Grade l,2.03,Vegetables,1564
+1723,Bell Peppers Grade l,2.19,Vegetables,1177
+1724,Cucumbers Grade l,3.69,Vegetables,634
+1725,Lettuce Grade l,2.57,Vegetables,1462
+1726,Spinach Grade l,2.54,Vegetables,1100
+1727,Broccoli Grade l,4.15,Vegetables,4
+1728,Cauliflower Grade l,4.5,Vegetables,1993
+1729,Zucchini Grade l,2.85,Vegetables,845
+1730,Green Beans Grade l,3.75,Vegetables,1319
+1731,Potatoes Grade l,2.24,Vegetables,659
+1732,Sweet Potatoes Grade l,2.09,Vegetables,295
+1733,Onions Grade l,2.21,Vegetables,1066
+1734,Garlic Grade l,4.56,Vegetables,196
+1735,Fresh Apples Grade l,4.7,Fruits,1369
+1736,Oranges Grade l,3.96,Fruits,336
+1737,Bananas Grade l,2.27,Fruits,1606
+1738,Strawberries Grade l,6.94,Fruits,1665
+1739,Blueberries Grade l,8.26,Fruits,424
+1740,Grapes Grade l,3.93,Fruits,1165
+1741,Watermelon Grade l,4.92,Fruits,198
+1742,Peaches Grade l,6.15,Fruits,1060
+1743,Pears Grade l,4,Fruits,1934
+1744,Cherries Grade l,7.5,Fruits,681
+1745,Mangoes Grade l,3.17,Fruits,611
+1746,Pineapple Grade l,4.69,Fruits,1253
+1747,Whole Milk Grade l,4.88,Dairy,406
+1748,Fresh Butter Grade l,5.73,Dairy,708
+1749,Cheddar Cheese Grade l,7.26,Dairy,1165
+1750,Mozzarella Cheese Grade l,6.78,Dairy,267
+1751,Greek Yogurt Grade l,5.72,Dairy,1149
+1752,Cream Grade l,7.15,Dairy,77
+1753,Fresh Eggs Grade l,4.58,Dairy,719
+1754,Wheat Grade l,1,Crops,1522
+1755,Corn Grade l,1.55,Crops,1311
+1756,Rice Grade l,2.32,Crops,1591
+1757,Soybeans Grade l,2.5,Crops,566
+1758,Barley Grade l,1.3,Crops,1882
+1759,Oats Grade l,2.06,Crops,886
+1760,Quinoa Grade l,7.15,Crops,1582
+1761,Organic Tomatoes Grade m,3.83,Vegetables,1338
+1762,Fresh Carrots Grade m,2.12,Vegetables,1233
+1763,Bell Peppers Grade m,2.91,Vegetables,759
+1764,Cucumbers Grade m,2.14,Vegetables,1576
+1765,Lettuce Grade m,2,Vegetables,400
+1766,Spinach Grade m,2.66,Vegetables,233
+1767,Broccoli Grade m,3.55,Vegetables,17
+1768,Cauliflower Grade m,3.09,Vegetables,1130
+1769,Zucchini Grade m,2.01,Vegetables,401
+1770,Green Beans Grade m,3.24,Vegetables,1931
+1771,Potatoes Grade m,2.36,Vegetables,872
+1772,Sweet Potatoes Grade m,2.8,Vegetables,92
+1773,Onions Grade m,1.76,Vegetables,1347
+1774,Garlic Grade m,6.19,Vegetables,1843
+1775,Fresh Apples Grade m,5.19,Fruits,700
+1776,Oranges Grade m,3.98,Fruits,343
+1777,Bananas Grade m,1.64,Fruits,61
+1778,Strawberries Grade m,6.46,Fruits,1705
+1779,Blueberries Grade m,5.52,Fruits,305
+1780,Grapes Grade m,5.88,Fruits,1702
+1781,Watermelon Grade m,8.12,Fruits,1954
+1782,Peaches Grade m,3.67,Fruits,1947
+1783,Pears Grade m,3.89,Fruits,1700
+1784,Cherries Grade m,11.65,Fruits,1852
+1785,Mangoes Grade m,5.9,Fruits,304
+1786,Pineapple Grade m,4.24,Fruits,1648
+1787,Whole Milk Grade m,6.35,Dairy,255
+1788,Fresh Butter Grade m,7.96,Dairy,578
+1789,Cheddar Cheese Grade m,8.54,Dairy,346
+1790,Mozzarella Cheese Grade m,6.25,Dairy,1136
+1791,Greek Yogurt Grade m,6.6,Dairy,466
+1792,Cream Grade m,6.2,Dairy,1648
+1793,Fresh Eggs Grade m,4.7,Dairy,446
+1794,Wheat Grade m,1.5,Crops,742
+1795,Corn Grade m,2.35,Crops,542
+1796,Rice Grade m,1.77,Crops,1776
+1797,Soybeans Grade m,2.23,Crops,1897
+1798,Barley Grade m,1.66,Crops,294
+1799,Oats Grade m,2.49,Crops,1247
+1800,Quinoa Grade m,4.86,Crops,707
+1801,Organic Tomatoes Grade n,2.73,Vegetables,1
+1802,Fresh Carrots Grade n,1.81,Vegetables,732
+1803,Bell Peppers Grade n,3.45,Vegetables,424
+1804,Cucumbers Grade n,3.34,Vegetables,1256
+1805,Lettuce Grade n,2.77,Vegetables,1454
+1806,Spinach Grade n,3.62,Vegetables,1945
+1807,Broccoli Grade n,5.04,Vegetables,45
+1808,Cauliflower Grade n,5.43,Vegetables,401
+1809,Zucchini Grade n,2.53,Vegetables,1354
+1810,Green Beans Grade n,3.51,Vegetables,1896
+1811,Potatoes Grade n,1.61,Vegetables,1513
+1812,Sweet Potatoes Grade n,2.87,Vegetables,1849
+1813,Onions Grade n,2.08,Vegetables,314
+1814,Garlic Grade n,5.51,Vegetables,337
+1815,Fresh Apples Grade n,4.52,Fruits,1563
+1816,Oranges Grade n,2.82,Fruits,1239
+1817,Bananas Grade n,1.93,Fruits,697
+1818,Strawberries Grade n,5.76,Fruits,1679
+1819,Blueberries Grade n,10.3,Fruits,1493
+1820,Grapes Grade n,5.9,Fruits,1349
+1821,Watermelon Grade n,8.31,Fruits,156
+1822,Peaches Grade n,5.35,Fruits,1499
+1823,Pears Grade n,5.35,Fruits,483
+1824,Cherries Grade n,6.92,Fruits,598
+1825,Mangoes Grade n,3.82,Fruits,1982
+1826,Pineapple Grade n,3.66,Fruits,211
+1827,Whole Milk Grade n,5.73,Dairy,833
+1828,Fresh Butter Grade n,7.77,Dairy,1243
+1829,Cheddar Cheese Grade n,7.07,Dairy,1649
+1830,Mozzarella Cheese Grade n,5.58,Dairy,1193
+1831,Greek Yogurt Grade n,4.46,Dairy,1645
+1832,Cream Grade n,6.93,Dairy,1219
+1833,Fresh Eggs Grade n,5.97,Dairy,275
+1834,Wheat Grade n,0.86,Crops,583
+1835,Corn Grade n,1.17,Crops,1050
+1836,Rice Grade n,1.92,Crops,1846
+1837,Soybeans Grade n,2.39,Crops,1382
+1838,Barley Grade n,1.62,Crops,1728
+1839,Oats Grade n,2.05,Crops,1514
+1840,Quinoa Grade n,6.93,Crops,225
+1841,Organic Tomatoes Grade o,4.14,Vegetables,678
+1842,Fresh Carrots Grade o,1.61,Vegetables,529
+1843,Bell Peppers Grade o,4.45,Vegetables,351
+1844,Cucumbers Grade o,1.89,Vegetables,1063
+1845,Lettuce Grade o,2.84,Vegetables,1340
+1846,Spinach Grade o,2.69,Vegetables,1989
+1847,Broccoli Grade o,4.49,Vegetables,1024
+1848,Cauliflower Grade o,5.39,Vegetables,1146
+1849,Zucchini Grade o,3.87,Vegetables,18
+1850,Green Beans Grade o,3.79,Vegetables,1928
+1851,Potatoes Grade o,1.28,Vegetables,1781
+1852,Sweet Potatoes Grade o,3.1,Vegetables,447
+1853,Onions Grade o,2.47,Vegetables,591
+1854,Garlic Grade o,4.38,Vegetables,292
+1855,Fresh Apples Grade o,3.11,Fruits,1506
+1856,Oranges Grade o,4.13,Fruits,1804
+1857,Bananas Grade o,2.84,Fruits,446
+1858,Strawberries Grade o,4.41,Fruits,455
+1859,Blueberries Grade o,8.2,Fruits,1893
+1860,Grapes Grade o,5.14,Fruits,120
+1861,Watermelon Grade o,7.87,Fruits,894
+1862,Peaches Grade o,5.14,Fruits,1908
+1863,Pears Grade o,3.53,Fruits,1224
+1864,Cherries Grade o,6.42,Fruits,939
+1865,Mangoes Grade o,3.97,Fruits,1233
+1866,Pineapple Grade o,3.91,Fruits,1097
+1867,Whole Milk Grade o,5.06,Dairy,187
+1868,Fresh Butter Grade o,4.7,Dairy,916
+1869,Cheddar Cheese Grade o,7.25,Dairy,412
+1870,Mozzarella Cheese Grade o,5.15,Dairy,1144
+1871,Greek Yogurt Grade o,6.5,Dairy,797
+1872,Cream Grade o,4.82,Dairy,299
+1873,Fresh Eggs Grade o,5.41,Dairy,1437
+1874,Wheat Grade o,1.29,Crops,1888
+1875,Corn Grade o,1.2,Crops,740
+1876,Rice Grade o,1.83,Crops,1965
+1877,Soybeans Grade o,2.11,Crops,1547
+1878,Barley Grade o,1.88,Crops,1494
+1879,Oats Grade o,2.08,Crops,861
+1880,Quinoa Grade o,6.32,Crops,883
+1881,Organic Tomatoes Grade p,4.1,Vegetables,311
+1882,Fresh Carrots Grade p,1.63,Vegetables,1609
+1883,Bell Peppers Grade p,2.62,Vegetables,244
+1884,Cucumbers Grade p,1.97,Vegetables,1897
+1885,Lettuce Grade p,2.5,Vegetables,1902
+1886,Spinach Grade p,3.66,Vegetables,800
+1887,Broccoli Grade p,4.28,Vegetables,1338
+1888,Cauliflower Grade p,5.95,Vegetables,280
+1889,Zucchini Grade p,3.8,Vegetables,260
+1890,Green Beans Grade p,4.36,Vegetables,1407
+1891,Potatoes Grade p,1.47,Vegetables,1278
+1892,Sweet Potatoes Grade p,2.73,Vegetables,708
+1893,Onions Grade p,2.36,Vegetables,704
+1894,Garlic Grade p,6.99,Vegetables,370
+1895,Fresh Apples Grade p,3.67,Fruits,1147
+1896,Oranges Grade p,2.61,Fruits,659
+1897,Bananas Grade p,1.58,Fruits,649
+1898,Strawberries Grade p,4.63,Fruits,1781
+1899,Blueberries Grade p,7.33,Fruits,145
+1900,Grapes Grade p,6.25,Fruits,360
+1901,Watermelon Grade p,5.05,Fruits,222
+1902,Peaches Grade p,5.72,Fruits,1636
+1903,Pears Grade p,3.4,Fruits,1704
+1904,Cherries Grade p,11.65,Fruits,354
+1905,Mangoes Grade p,4.86,Fruits,647
+1906,Pineapple Grade p,6.89,Fruits,690
+1907,Whole Milk Grade p,3.86,Dairy,1914
+1908,Fresh Butter Grade p,5.18,Dairy,166
+1909,Cheddar Cheese Grade p,9.6,Dairy,172
+1910,Mozzarella Cheese Grade p,5.6,Dairy,882
+1911,Greek Yogurt Grade p,5.43,Dairy,1877
+1912,Cream Grade p,5.65,Dairy,494
+1913,Fresh Eggs Grade p,5.9,Dairy,148
+1914,Wheat Grade p,1.61,Crops,1304
+1915,Corn Grade p,1.18,Crops,1297
+1916,Rice Grade p,2.02,Crops,682
+1917,Soybeans Grade p,2.2,Crops,1985
+1918,Barley Grade p,1.57,Crops,1822
+1919,Oats Grade p,2.2,Crops,471
+1920,Quinoa Grade p,7.67,Crops,1139
+1921,Organic Tomatoes Grade q,2.91,Vegetables,494
+1922,Fresh Carrots Grade q,3.44,Vegetables,25
+1923,Bell Peppers Grade q,3.85,Vegetables,1606
+1924,Cucumbers Grade q,3.31,Vegetables,513
+1925,Lettuce Grade q,2.92,Vegetables,240
+1926,Spinach Grade q,2.55,Vegetables,16
+1927,Broccoli Grade q,4.37,Vegetables,514
+1928,Cauliflower Grade q,4.76,Vegetables,977
+1929,Zucchini Grade q,3.88,Vegetables,93
+1930,Green Beans Grade q,4.91,Vegetables,664
+1931,Potatoes Grade q,1.57,Vegetables,1010
+1932,Sweet Potatoes Grade q,2.76,Vegetables,734
+1933,Onions Grade q,2.17,Vegetables,30
+1934,Garlic Grade q,5.62,Vegetables,1580
+1935,Fresh Apples Grade q,3.35,Fruits,1565
+1936,Oranges Grade q,4.07,Fruits,811
+1937,Bananas Grade q,1.77,Fruits,1687
+1938,Strawberries Grade q,6.98,Fruits,896
+1939,Blueberries Grade q,6.98,Fruits,776
+1940,Grapes Grade q,5.99,Fruits,1420
+1941,Watermelon Grade q,8.31,Fruits,1867
+1942,Peaches Grade q,3.83,Fruits,1538
+1943,Pears Grade q,4.85,Fruits,1977
+1944,Cherries Grade q,10.63,Fruits,1977
+1945,Mangoes Grade q,5.45,Fruits,402
+1946,Pineapple Grade q,6.42,Fruits,616
+1947,Whole Milk Grade q,5.64,Dairy,398
+1948,Fresh Butter Grade q,5.38,Dairy,1940
+1949,Cheddar Cheese Grade q,8.4,Dairy,1690
+1950,Mozzarella Cheese Grade q,5.22,Dairy,1083
+1951,Greek Yogurt Grade q,4.15,Dairy,1121
+1952,Cream Grade q,5.82,Dairy,1825
+1953,Fresh Eggs Grade q,3.81,Dairy,50
+1954,Wheat Grade q,0.88,Crops,681
+1955,Corn Grade q,1.31,Crops,1919
+1956,Rice Grade q,2.61,Crops,376
+1957,Soybeans Grade q,2.35,Crops,1702
+1958,Barley Grade q,1.85,Crops,1843
+1959,Oats Grade q,2.27,Crops,1799
+1960,Quinoa Grade q,5.29,Crops,93
+1961,Organic Tomatoes Grade r,3.87,Vegetables,73
+1962,Fresh Carrots Grade r,2.77,Vegetables,1499
+1963,Bell Peppers Grade r,3.43,Vegetables,1836
+1964,Cucumbers Grade r,2.17,Vegetables,538
+1965,Lettuce Grade r,2.4,Vegetables,1264
+1966,Spinach Grade r,2.99,Vegetables,460
+1967,Broccoli Grade r,4.55,Vegetables,1603
+1968,Cauliflower Grade r,3.94,Vegetables,723
+1969,Zucchini Grade r,3.32,Vegetables,262
+1970,Green Beans Grade r,2.75,Vegetables,1883
+1971,Potatoes Grade r,1.66,Vegetables,994
+1972,Sweet Potatoes Grade r,2.73,Vegetables,1225
+1973,Onions Grade r,2.02,Vegetables,830
+1974,Garlic Grade r,5.02,Vegetables,1602
+1975,Fresh Apples Grade r,4.34,Fruits,1048
+1976,Oranges Grade r,4.29,Fruits,496
+1977,Bananas Grade r,2.82,Fruits,1098
+1978,Strawberries Grade r,6.92,Fruits,681
+1979,Blueberries Grade r,9.9,Fruits,967
+1980,Grapes Grade r,4.95,Fruits,1340
+1981,Watermelon Grade r,5,Fruits,745
+1982,Peaches Grade r,4.02,Fruits,400
+1983,Pears Grade r,3.15,Fruits,1659
+1984,Cherries Grade r,7.29,Fruits,567
+1985,Mangoes Grade r,3.74,Fruits,55
+1986,Pineapple Grade r,4.8,Fruits,534
+1987,Whole Milk Grade r,3.73,Dairy,1862
+1988,Fresh Butter Grade r,5.51,Dairy,1025
+1989,Cheddar Cheese Grade r,7.85,Dairy,1073
+1990,Mozzarella Cheese Grade r,5.88,Dairy,827
+1991,Greek Yogurt Grade r,4.51,Dairy,1400
+1992,Cream Grade r,6.78,Dairy,1603
+1993,Fresh Eggs Grade r,5.24,Dairy,653
+1994,Wheat Grade r,1.45,Crops,1599
+1995,Corn Grade r,2.11,Crops,838
+1996,Rice Grade r,2.34,Crops,1544
+1997,Soybeans Grade r,3.49,Crops,984
+1998,Barley Grade r,1.14,Crops,241
+1999,Oats Grade r,1.72,Crops,1107
+2000,Quinoa Grade r,4.77,Crops,124

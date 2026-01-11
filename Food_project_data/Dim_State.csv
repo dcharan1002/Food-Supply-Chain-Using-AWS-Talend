@@ -1,0 +1,75 @@
+state_id,state_name,country_id
+1,California,1
+2,Texas,1
+3,Florida,1
+4,New York,1
+5,Pennsylvania,1
+6,Illinois,1
+7,Ohio,1
+8,Georgia,1
+9,North Carolina,1
+10,Michigan,1
+11,New Jersey,1
+12,Virginia,1
+13,Washington,1
+14,Arizona,1
+15,Massachusetts,1
+16,Tennessee,1
+17,Indiana,1
+18,Missouri,1
+19,Maryland,1
+20,Wisconsin,1
+21,Colorado,1
+22,Minnesota,1
+23,South Carolina,1
+24,Alabama,1
+25,Louisiana,1
+26,Kentucky,1
+27,Oregon,1
+28,Oklahoma,1
+29,Connecticut,1
+30,Iowa,1
+31,Ontario,2
+32,Quebec,2
+33,British Columbia,2
+34,Alberta,2
+35,Manitoba,2
+36,Saskatchewan,2
+37,Nova Scotia,2
+38,New Brunswick,2
+39,England,3
+40,Scotland,3
+41,Wales,3
+42,Northern Ireland,3
+43,New South Wales,4
+44,Victoria,4
+45,Queensland,4
+46,Western Australia,4
+47,South Australia,4
+48,Tasmania,4
+49,Maharashtra,5
+50,Karnataka,5
+51,Tamil Nadu,5
+52,Gujarat,5
+53,Rajasthan,5
+54,West Bengal,5
+55,Uttar Pradesh,5
+56,Delhi,5
+57,São Paulo,6
+58,Rio de Janeiro,6
+59,Minas Gerais,6
+60,Bahia,6
+61,Paraná,6
+62,Rio Grande do Sul,6
+63,Bavaria,7
+64,North Rhine-Westphalia,7
+65,Baden-Württemberg,7
+66,Lower Saxony,7
+67,Hesse,7
+68,Saxony,7
+69,Île-de-France,8
+70,Provence-Alpes-Côte d'Azur,8
+71,Auvergne-Rhône-Alpes,8
+72,Nouvelle-Aquitaine,8
+73,Occitanie,8
+74,Brittany,8
