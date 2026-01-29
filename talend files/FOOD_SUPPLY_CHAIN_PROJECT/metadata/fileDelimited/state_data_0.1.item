@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Tp0rcbq3EfCZFaAjE0YAng" name="state_data" id="_Tp0rcLq3EfCZFaAjE0YAng" dataPackage="_Tp0rcrq3EfCZFaAjE0YAng _HUAHAMS3EfCtCvwAJ-UHVA" Server="Localhost 127.0.0.1" FilePath="C:/Users/dchar/OneDrive/Desktop/csv_files/Dim_State.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Tp0rcrq3EfCZFaAjE0YAng" name="default" dataManager="_Tp0rcbq3EfCZFaAjE0YAng">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Tp1SgLq3EfCZFaAjE0YAng" properties="deleted&#xA;&#xA;true&#xA;&#xA;" id="_IP17cLq3EfCZFaAjE0YAng" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Tp1Sgbq3EfCZFaAjE0YAng" label="_state_id" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Tp1Sgrq3EfCZFaAjE0YAng" label="_state_abr" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Tp1Sg7q3EfCZFaAjE0YAng" label="_state_name" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Tp1ShLq3EfCZFaAjE0YAng" label="_country_id" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_HUAHAMS3EfCtCvwAJ-UHVA" name="default" dataManager="_Tp0rcbq3EfCZFaAjE0YAng">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_HUAHAcS3EfCtCvwAJ-UHVA" id="_GS-H0MS3EfCtCvwAJ-UHVA" label="metadata1">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HUAHAsS3EfCtCvwAJ-UHVA" label="state_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HUAHA8S3EfCtCvwAJ-UHVA" label="state_name" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HUAHBMS3EfCtCvwAJ-UHVA" label="country_id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

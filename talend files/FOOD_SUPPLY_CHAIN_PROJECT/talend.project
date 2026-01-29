@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_zpC2YLqREfCG88LL4icQJA" label="Food_supply_chain_project" description="" language="java" technicalLabel="FOOD_SUPPLY_CHAIN_PROJECT" local="true" author="_zpDdcLqREfCG88LL4icQJA" productVersion="Talend Real-time Big Data Platform-8.0.1.20251120_1230-patch" type="DQ" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_zqiEILqREfCG88LL4icQJA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_zpDdcLqREfCG88LL4icQJA" login="domalapati.c@northeastern.edu"/>
+</xmi:XMI>

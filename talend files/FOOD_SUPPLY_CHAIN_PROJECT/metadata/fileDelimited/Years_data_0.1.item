@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_HEHvMLq3EfCZFaAjE0YAng" name="Years_data" id="_HEFS8Lq3EfCZFaAjE0YAng" dataPackage="_HEHvMbq3EfCZFaAjE0YAng _hi0ZwMS2EfCtCvwAJ-UHVA" Server="Localhost 127.0.0.1" FilePath="C:/Users/dchar/OneDrive/Desktop/csv_files/Dim_Year.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_HEHvMbq3EfCZFaAjE0YAng" name="default" dataManager="_HEHvMLq3EfCZFaAjE0YAng">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_HEHvMrq3EfCZFaAjE0YAng" properties="deleted&#xA;&#xA;true&#xA;&#xA;" id="_8L954Lq2EfCZFaAjE0YAng" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HEHvM7q3EfCZFaAjE0YAng" label="year_no" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hi0ZwMS2EfCtCvwAJ-UHVA" name="default" dataManager="_HEHvMLq3EfCZFaAjE0YAng">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hi0ZwcS2EfCtCvwAJ-UHVA" id="_ffDLMMS2EfCtCvwAJ-UHVA" label="metadata1">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hi0ZwsS2EfCtCvwAJ-UHVA" label="year_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hi0Zw8S2EfCtCvwAJ-UHVA" label="year_value" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
